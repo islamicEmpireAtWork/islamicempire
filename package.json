@@ -1,0 +1,72 @@
+{
+  "name": "leaflet-boilerplate",
+  "version": "1.0.0",
+  "description": "Modern front-end template for building Leaflet web mapping applications",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefanocudini/leaflet-boilerplate.git"
+  },
+  "homepage": "http://labs.easyblog.it/maps/leaflet-boilerplate",
+  "main": "src/js/index.js",
+  "author": "Stefano Cudini <stefano.cudini@gmail.com>",
+  "scripts": {
+    "jshint:dist": "jshint src/js/*.js",
+    "jshint": "npm run jshint:dist",
+    "jscs": "jscs src/*.js",
+    "browserify": "browserify -s Validating -o ./dist/build.js ./lib/index.js",
+    "browsersync": "browser-sync start --server --files 'src/*'",
+    "uglify:dist": "uglify src/js/**/*.js > dist/script.min.js",
+    "uglify": "npm run uglify:dist",
+    "clean:dist": "rm -rf dist",
+    "clean:tmp": "rm -rf tmp",
+    "clean": "npm run clean:dist && npm run clean:tmp",
+    "copy:dist": "cp src/*.{js,css,html} dist/",
+    "copy": "npm run copy:dist",
+    "sass:dist": "sass src/css/style.scss > dist/style.min.css",
+    "sass": "npm run sass:dist",
+    "imagemin": "imagemin src/images/* dist/images/* -p",
+    "build:js": "npm run jshint && npm run uglify",
+    "build:css": "npm run sass",
+    "build:images": "npm run imagemin",
+    "build": "npm run clean && npm run build:html && npm run build:js && npm run build:css && npm run build:imagemin",
+    "watch": "watch 'npm run build' ."
+  },
+  "keywords": [
+    "leaflet",
+    "template",
+    "boilerplate",
+    "web mapping",
+    "bootstrap",
+    "map",
+    "gis"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanocudini/leaflet-boilerplate/issues"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "handlebars": "^4.0.5",
+    "html5-boilerplate": "0.0.1",
+    "jquery": "^3.1.1",
+    "leaflet": "^0.7.7",
+    "leaflet-minimap": "^3.4.0",
+    "leaflet-panel-layers": "^0.5.0",
+    "leaflet-search": "^2.7.0",
+    "modernizr": "^3.3.1",
+    "requirejs": "^2.3.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "jshint": "latest",
+    "imagemin": "latest",
+    "browser-sync": "latest",
+    "uglifyjs": "latest",
+    "watch": "latest",
+    "cssmin": "latest",
+    "jscs": "latest",
+    "node-sass": "latest",
+    "uglify-js": "latest",
+    "browserify": "latest"
+  }
+}

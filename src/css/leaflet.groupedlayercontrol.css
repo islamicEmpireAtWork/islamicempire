@@ -1,0 +1,84 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  margin:0;
+  padding:0;
+}
+
+#map {
+  position:absolute;
+  top:0;
+  bottom:0;
+  width:100%;
+}
+
+.controlHeading {
+  font-size: 16pt;
+  font-weight: 400;
+}
+
+.controlSubHeading {
+  font-size: 1.5em;
+}
+
+/* leaflet layers control plugin css */
+.leaflet-control-layers {
+  background: rgba(10,10,10,0.8);
+  font-family: 'Raleway', sans-serif;
+  padding: 20px;
+  color: #ccc;
+  overflow-y: auto;
+  max-height: 95vh;
+}
+
+.leaflet-control-layers::before {
+  content: "-- Legend --";
+  font-weight: 400;
+  font-size: 24pt;
+  position: relative;
+  left: 15%;
+  bottom: 10px;
+}
+
+.leaflet-control-layers-group-name {
+  font-weight:700;
+  margin-bottom:.2em;
+  margin-left:3px;
+}
+
+.leaflet-control-layers-group {
+  margin-bottom:.5em
+}
+
+.leaflet-control-layers .leaflet-control-layers-group-label {
+  padding-left:0px;
+  display:block;
+  width: 260px;
+}
+
+.leaflet-control-layers label {
+  padding-left:20px;
+  padding-right:10px;
+  display: none;
+}
+
+.leaflet-control-layers label.trigger {
+  position:absolute;
+  margin-top: -25px;
+  right: 10px;
+  width: 10px;
+  display:block;
+  color: #ccc;
+  cursor:pointer;
+}
+
+.leaflet-control-layers label.trigger:hover {
+  color: #00aeff;
+}
+
+.leaflet-control-layers .trigger-checkbox {
+  display:none;
+}
+
+.leaflet-control-layers .trigger-checkbox:checked ~ label {
+  display:block;
+}

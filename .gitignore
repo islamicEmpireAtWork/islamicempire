@@ -1,0 +1,14 @@
+node_modules
+
+#########################################
+### Ignore individual geographer data ###
+#########################################
+
+**/alIst
+**/alMuq
+**/ibnalBal
+**/ibnalFaq
+**/ibnHaw
+**/ibnKhurr
+**/qud
+**/alYaq

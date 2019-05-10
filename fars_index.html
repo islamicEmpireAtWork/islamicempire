@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0" />
+
+    <title>Fars - The Early Islamic Empire at Work</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="src/css/leaflet.groupedlayercontrol.css"/>
+    <link rel="stylesheet" href="src/css/leaflet-search.css"/>
+    <link rel="stylesheet" href="src/css/main.css"/>
+    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
+
+
+</head>
+
+<body>
+
+  <div id="map"></div>
+
+  <div id="myNav" class="overlay">
+   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+
+   <div class="overlay-content">
+     <a href="index.html" id="home-title">Home</a>
+     <a href="#">Fars</a>
+     <a href="sham_index.html">Sham</a>
+     <a href="jazira_index.html">Jazira</a>
+     <a href="#">Ifriqiya</a>
+     <a href="#">Yemen</a>
+   </div>
+
+  </div>
+
+  <span id="menu" onclick="openNav()">&#9776;</span>
+
+  <script src="src/js/fars_styles.js"></script>
+  <script src="src/geojson/fars/allGeog.json"></script>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="src/js/leaflet.groupedlayercontrol.js"></script>
+  <script src="src/js/leaflet-search.js"></script>
+  <script src="src/js/fars_main.js"></script>
+
+</body>
+</html>
