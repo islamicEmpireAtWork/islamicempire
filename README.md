@@ -2,7 +2,7 @@
 
 A digital atlas to illustrate the research findings of the ERC research project "The Early Islamic Empire at Work", developed with colleagues in the Islamic History department at the University of Hamburg.
 
-This early version of the map displays data from the province of Fars (modern-day Iran). The full map may be found at the project Github page ().
+This early version of the map displays data from the province of Fars, Jazira, and Sham.
 
 FEATURES
 
