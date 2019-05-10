@@ -6,11 +6,11 @@ This early version of the map displays data from the province of Fars (modern-da
 
 FEATURES
 
-    Search box: Allows the user to search active geoJSON files for sites' Arabic names (requires Arabic script input)
+Search box: Allows the user to search active geoJSON files for sites' Arabic names (requires Arabic script input)
 
-    Layer control box: Allows the user to turn on and off particular geoJSON layer groups. There is additionally the option to turn on all layers from a particular geographer.
+Layer control box: Allows the user to turn on and off particular geoJSON layer groups. There is additionally the option to turn on all layers from a particular geographer.
 
-    Popups: Allows the user to access additional information about a particular site on hover.
+Popups: Allows the user to access additional information about a particular site on hover.
 
 NOTE
 
