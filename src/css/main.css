@@ -244,6 +244,13 @@ textarea {
  }
 }
 
+@media screen and (max-height: 750px) {
+ #title {
+   letter-spacing: 0.3em;
+   font-size: 50pt;
+ }
+}
+
 @media screen and (max-height: 550px) {
  .overlay a {
    font-size: 18pt;
