@@ -144,17 +144,20 @@ textarea {
    font-family: 'Raleway', sans-serif;
    font-size: 24px;
    color: #ccc;
-   position: relative;
+   position: absolute;
    left: 22vw;
-   top: 6vh;
-   width: 80%; /* 100% width */
+   width: 100%; /* 100% width */
+   padding-right: 100px;
+   height: auto;
    text-align: left; /* Centered text/links */
-  transition: 0.5s;
+   transition: 0.5s;
   }
 
-  #aboutPane a {
-    top: -50vh;
-    right: 0;
+  #aboutPane .closebtn {
+    position: absolute;
+    top: -100px;
+    right: 80px;
+    font-size: 60px;
   }
 
     /* The Overlay (background) */
@@ -164,21 +167,23 @@ textarea {
  width: 0%;
  position: fixed; /* Stay in place */
  z-index: 3; /* Sit on top */
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
  left: 0;
  top: 0;
  background-color: rgb(0,0,0); /* Black fallback color */
  background-color: rgba(0,0,0, 0.9); /* Black w/opacity */
  overflow-x: hidden; /* Disable horizontal scroll */
+ overflow-y: hidden; /* Disable horizontal scroll */
  transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
 }
 
 /* Position the content inside the overlay */
 .overlay-content {
  font-family: 'Raleway', sans-serif;
- position: relative;
- bottom: -50vh; /* 25% from the top */
  left: 10%;
- width: 80%; /* 100% width */
+ width: 90%; /* 100% width */
  text-align: right; /* Centered text/links */
  transition: 0.5s;
 }
@@ -207,17 +212,67 @@ textarea {
  font-size: 60px;
 }
 
+.overlay .aboutclosebtn {
+ position: absolute;
+ top: -25%;
+ right: 75px;
+ font-size: 60px;
+}
+
 .open {
   width: 20%;
 }
 
-/* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
+/* Media Queries */
+
+@media screen and (max-width: 1200px) {
+ #title {
+   font-size: 45pt;
+ }
+ #aboutPane {
+   font-size: 12pt;
+   padding-right: 50px;
+ }
+ .closebtn {
+   left: 0;
+ }
+ .aboutclosebtn {
+   left: -5%;
+ }
+ .overlay-content {
+   text-align: left;
+ }
+}
+
+@media screen and (max-height: 550px) {
+ .overlay a {
+   font-size: 18pt;
+   padding-bottom: 0px;
+ }
+ #title {
+   letter-spacing: 0.3em;
+   font-size: 35pt;
+ }
+ #home-title {
+   font-size: 20pt;
+ }
+ #home-title::after {
+   content:'------';
+ }
+ #aboutPane {
+   font-size: 9pt;
+ }
+}
+
 @media screen and (max-height: 450px) {
- .overlay a {font-size: 20px}
- .overlay .closebtn {
-   font-size: 40px;
-   top: 15px;
-   right: 35px;
+ #aboutPane {
+   font-size: 8pt;
+ }
+ #home-title {
+   margin-bottom: -10px;
+ }
+ .closebtn {
+   margin-top: -55px;
  }
 }
 
