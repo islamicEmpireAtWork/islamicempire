@@ -26,19 +26,29 @@
   <div id="myNav" class="overlay open">
 
    <div class="overlay-content">
-     <a href="#" id="home-title">Home</a>
+     <a href="#" id="home-title" onmouseover="closeMenuDivs()">Home</a>
+     <a id="mental-maps-div-button" onmouseover="openMMDiv()">Conceptual</a>
+     <a id="admin-maps-div-button" onmouseover="openAMDiv()">Administration</a>
+     <a href="https://pardeewalmsley.github.io/mintsOfEmpire/" onmouseover="closeMenuDivs()">Mints</a>
+     <a href="javascript:void(0)" onclick="openAbout()" onmouseover="closeMenuDivs()">About</a>
+   </div>
+
+   <div class="mental-maps-menu">
      <a href="fars_index.html">Fars</a>
      <a href="sham_index.html">Sham</a>
      <a href="jazira_index.html">Jazira</a>
      <a href="#">Ifriqiya</a>
      <a href="#">Yemen</a>
-     <a href="javascript:void(0)" onclick="openAbout()">About</a>
+   </div>
+
+   <div class="admin-maps-menu">
+     <a href="https://pardeewalmsley.github.io/PowerLines/">Empire</a>
    </div>
 
    <div id="aboutPane">
      <a href="javascript:void(0)" class="aboutclosebtn" onclick="closeAbout()">&times;</a>
      This digital atlas was prepared using data from the ERC research project "The Early Islamic Empire at Work" at the University of Hamburg. Depicted are sites mentioned in texts by various geographers and historians working at the time.<br><br>
-     Design and Visualisation by Alex Walmsley.
+     Design and Visualisation by Alex Walmsley and Peter Verkinderen.
  </div>
 
   </div>
