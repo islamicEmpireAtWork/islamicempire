@@ -284,6 +284,9 @@ textarea {
    font-size: 20pt;
    padding-bottom: 0px;
  }
+ .admin-maps-menu {
+   margin-top: 60px;
+ }
 }
 
 @media screen and (max-height: 750px) {
