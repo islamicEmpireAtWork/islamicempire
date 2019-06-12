@@ -1,0 +1,1647 @@
+var alYaqNoKura =  [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.82401076,21.43229179 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Makka",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.95121876,21.21298098 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Al-Malakān",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.13806032,20.84678509 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Yalamlam",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.26146334,20.1476404 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Lith",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.88200212,20.11594328 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿUlyab (wādī)",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.68924085,19.95370001 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿUlyab",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.15326401,19.11638858 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qanawnā",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.3244469,18.93730095 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Yaba",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.18717268,18.86786501 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Yaba (wādī)",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.4336164,19.08210547 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Yaba (wādī)",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.52924626,19.06621454 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Al-Maʿqir",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.89016573,18.32347197 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ḍankān",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.21807932,17.80643312 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Zanīf",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.99623174,17.70167499 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Rīm",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.5362501,17.37395629 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Baysh",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.55084419,16.88876851 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿUrsh min Jāzān",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.77470079,16.40150252 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Sharja",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.96540376,15.66527079 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Balḥa",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.19966926,15.27138103 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Mahjam",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.56234696,15.37752997 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Sawadān",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"al-Ya'qubi"
+    }
+  }
+];
+
+var alYaqSan = [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.21589854,15.35134061 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Sanʿāʾ",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Sanʿāʾ",
+    "author":"al-Ya'qubi"
+    }
+  }
+];
+
+var ibnKhurralJan = [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.166412,13.668688 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Janad",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"al-Janad",
+    "author":"Ibn Khurradadhbih"
+    }
+  }
+];
+
+var ibnKhurrHad = [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.22333809,15.66599838 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿAndal",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Hadramaut",
+    "author":"Ibn Khurradadhbih"
+    }
+  }
+];
+
+var ibnKhurrNoKura = [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.60544009,14.75310143 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Shiḥr",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.02904669,12.77420138 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿAdan",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.82617783,21.42281793 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Mecca",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.42737991,21.63314114 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qarn al-Manāzil",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.63289497,21.21351224 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Turaba",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.83280573,21.25724691 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ranya",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.22705791,19.99555067 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tabāla",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.60665791,19.99974098 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Bīsha",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.77823721,19.20940747 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Banāt Ḥarb",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.50191639,19.53418367 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tathlīth",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.38781526,19.19299272 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Kutnah",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.8242623,18.20299236 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Jurash",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.53458948,17.65297826 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Mahjara",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.76528695,16.93886817 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"̣̣Saʿda",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.93415269,16.5819525 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-ʿAmashīya",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.06585379,16.27998015 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Khaywān",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.03178606,16.07729704 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʾAthāfit",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.13097186,15.78024104 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Nāʿit",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.03976086,15.82262526 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Rayda",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.11801055,15.17348446 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Khayrij",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.40651879,14.54605174 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Dhamār",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.05101489,14.40008449 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Nasfān",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.51541963,14.27547966 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Kaḥlān",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.0276934,12.78497007 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qarīya ʿAdan",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.40232507,14.21365091 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Higher Yaḥsib/ Zafār",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.18329969,13.96647863 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Thujja today Ibb",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.17675666,14.02742928 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Suḥūl",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.96672639,13.88510067 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Mudhaykhira",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.31678228,14.19531227 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Zabīd",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.0163054,14.43175688 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ghalāfiqa",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.15211505,14.01906716 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Mandab",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.74090689,15.73729659 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Ḥirdah",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.09083463,15.67342063 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Dahlak",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.77470079,16.40150252 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Sharja",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.37196406,17.20492348 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿAthr",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.90442887,15.50948443 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Shibām (ʾAqjān)",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.35592981,15.40419781 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Māʾrib",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.77803312,13.65277201 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Aḥwar",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.53334387,22.87564679 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Farq",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.36473935,16.89857917 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Khawlān Dhu Suhaym?",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.87201498,16.9514242 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿUrsh",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.55084419,16.88876851 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿUrsh min Jāzān",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.89016573,18.32347197 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ḍankān",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.15326401,19.11638858 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qanawnā",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.34717547,18.68354392 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Hali",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.15326401,19.11638858 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qanawnā",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.91880844,19.60195558 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Dawqa",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.76870073,19.83090985 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Sirrayn",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.68924085,19.95370001 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿUlyab",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.26146334,20.1476404 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Lith",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.8741032,20.51499268 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Yalamlam",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.95121876,21.21298098 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Al-Malakān",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.30597688,20.95352413 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Shuʿayb",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.19909066,21.53812067 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Jidda",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.33494579,24.15331236 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Kharj",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.84083666,21.87983472 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ghamra",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.56666672,17.52027779 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Majāẓa",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.12799938,17.49330906 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Najrān",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Ibn Khurradadhbih"
+    }
+  }
+];
+
+var ibnKhurrSan = [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.21589854,15.35134061 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Sanʿāʾ",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Sanʿāʾ",
+    "author":"Ibn Khurradadhbih"
+    }
+  }
+];
+
+var qudNoKura = [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.82617783,21.42281793 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Mecca",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.42737991,21.63314114 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qarn al-Manāzil (Miqāt Ahl al-Yaman wa al-Ṭaīf)",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.84092762,21.87979431 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ghamra",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.63289497,21.21351224 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Turaba",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.83280573,21.25724691 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ranya",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.22705791,19.99555067 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tabāla",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.60665791,19.99974098 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Bīsha",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.77823721,19.20940747 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Banāt Ḥarm",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.8242623,18.20299236 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Jurash",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.1245724,15.54012618 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ruḥāba",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.4469123,17.30743619 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Qaṣaba",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.36473935,16.89857917 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Khawlān Dhu Suhaym",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.87052603,16.94993106 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-ʿUrsh",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.89016573,18.32347197 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ḍankān",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.34717547,18.68354392 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Hali",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.3244469,18.93730095 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Yaba",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.68924085,19.95370001 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿUlyab",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.26146334,20.1476404 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Lith",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.13806032,20.84678509 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Yalamlam",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.95121876,21.21298098 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Al-Malakān",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.53334387,22.87564679 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Farak",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.60544009,14.75310143 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Shiḥr",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.08191875,12.91626703 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Abyan",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.02904669,12.77420138 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿAdan",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.15211505,14.01906716 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Mandab",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.74090689,15.73729659 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Ḥirdah",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.37196406,17.20492348 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿAthr",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.53458947594704,17.65297826 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Mahjara",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.76528695186703,16.93886817 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"̣̣Saʿda",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.93415268719482,16.5819525 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-ʿAmashīya",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.06585379416836,16.27998015 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Khaywān",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.03178605972786,16.07729704 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʾAthāfit",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.03976085720765,15.82262526 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Rayda",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"No district identified",
+    "author":"Qudama"
+    }
+  }
+];
+
+var qudSan = [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.21589854168849,15.35134061 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Sanʿāʾ",
+    "standardized arabic name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Sanʿāʾ",
+    "author":"Qudama"
+    }
+  }
+];

@@ -1,0 +1,2087 @@
+var alMuqNoKura = [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.0645,35.50301667 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Al-Mahdiyya",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.106194922,35.70301389 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Al-Masila",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.829378,35.77705556 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Al-Munastīr",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.606168,36.35224167 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Qusṭanṭiniyya",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.921615,36.09844167 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Al-Urbus",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.760235,34.73666111 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Asfāqus",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.2875,35.92333333 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ashīr",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1719,36.61540833 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Awdhāna",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.116666667,35.51666389 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Bāghāy",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.182313,36.72356667 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Bāja",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.866653,37.26670833 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Binzart",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.7659,36.90693611 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Būna",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.118519444,36.90694722 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Jamūnas al-Ṣabūn",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.0389,37.0833 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Jazīrat Abī Sharīk",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.110469,36.74206389 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Jazīrat Banī Zaghannāya",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.072629,35.60008611 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Maqqara",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.443625,36.89598889 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Marsā al-Kharaz",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9,36.6 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Matīja",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.25517,36.44356111 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Mīlā",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.665902,35.62762222 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Miskiyāna",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.106194922,33.70421389 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Nifzāwa",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.784711,34.42232222 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qafṣa",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.656879753,35.03831389 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qamūda",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.1229,33.9185 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qasṭīliya",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.071445,35.54439722 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Sabiba",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.11388889,35.65805556 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ṣabra",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.404352,36.18604722 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Saṭīf",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.892103,36.37328889 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Sūq Ḥamza",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.637754,35.82515833 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Sūs",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.750297,36.953075 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ṭabarqa",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.303872222,36.50914167 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tanas",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.656880556,36.976022 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Taqyus",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.784837,36.12541667 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tijis",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.784837,36.12541667 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tījis",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.349998,35.35 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tubna",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Muqaddasi"
+    }
+  }
+];
+
+var ibnHawNoKura = [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.884034,32.505525 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Barqa",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.243938,30.77276667 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ajdābiyya",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.2844,29.10730833 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Awjila",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.143924,29.16217222 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Waddān",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.596903,31.20588056 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Sirt",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.175897,32.89805278 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Iṭrāblus",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.104942,33.88525556 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qābis",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.760235,34.73666111 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Safāqs",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.0645,35.50301667 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Al-Mahdiyya",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.637754,35.82515833 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Sūs",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.829378,35.77705556 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Al-Munastīr",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.94944,36.73189722 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Manzil Bāshū",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.271937,36.89266111 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tūnus",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.783333333,36.48333333 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Saṭfūra",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9,36.6 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Matīja",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.866653,37.26670833 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Binzart",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.750297,36.953075 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ṭabarqa",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.182313,36.72356667 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Bāja",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.443625,36.89598889 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Marsā al-Kharaz",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.7659,36.90693611 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Būna",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.110469,36.74206389 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Jazāʾir Banī Mazghanāy",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.758075,36.81518333 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Jījīl",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.070087,36.75245278 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Bijāya",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.221321,36.80927222 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tāmadfūs",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.191269444,36.61268611 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Isharshal",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.303871,36.50914167 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tanas",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.638461,35.70446389 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Wahrān",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.467971,35.29766667 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Arjakūk",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.937301,35.29256944 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Melila",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.935286,35.24970833 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Nakur",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.071445,35.54439722 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Sabiba",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.349998,35.35 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tubna",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.036391,35.46251389 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Asilah",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.869714,34.80525278 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Al-Basra",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Hawqal"
+    }
+  }
+];
+
+var ibnIdUqba = [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.114444444,35.52194444 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Bāghāya",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Idhari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.81944444,35.76944444 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Munastīr",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Idhari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.440527847,32.85908333 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Al-Masīla",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Idhari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.316666667,35.36666667 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tīhart",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Idhari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.8,35.76666667 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ṭanja",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Idhari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.342222222,33.28777778 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tāmasnā",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Idhari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.58333,30.41666944 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Al-Sūs al-Aqsā",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Idhari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.8407,30.3459 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Darʿa",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Idhari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.801111111,31.4225 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Aghmāt Wurīka",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Idhari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.008888889,31.63 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Oed N’fiss",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Idhari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.633333333,30.03333333 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Māssa",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Idhari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.850277778,34.98833333 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tārnā",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Idhari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.5,33.25 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Dakkāla",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Idhari"
+    }
+  }
+];
+
+var ibnKhurrIbad = [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.322,35.3674 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tahert",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"Ibadi",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.3213,35.8894 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Sabta",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"Ibadi",
+    "author":"Ibn Khurradadhbih"
+    }
+  }
+];
+
+var ibnKhurrIdris = [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.318,34.8884 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tlemcen",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"Idrisid",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.48,33.17590278 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tangiers",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"Idrisid",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.0078,34.0181 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Fez",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"Idrisid",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.8498,33.9716 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Al-Sus al-Adna",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"Idrisid",
+    "author":"Ibn Khurradadhbih"
+    }
+  }
+];
+
+var ibnKhurrNoKura = [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.104942,33.88525556 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qabis",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1262,35.2293 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Subaytla",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.4951,30.1318 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ghadamis",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.784711,34.42232222 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qafsa",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.1229,33.9185 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qastiliya",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.751,34.837 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tahuda",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.430765999,32.4833 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Medinat al-Zab",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.143924,29.16217222 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Waddan",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.271937,36.89266111 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tunus",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.884034,32.505525 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Barqa",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.243938,30.77276667 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ajdabiya",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.596903,31.20588056 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Surt",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.175897,32.89805278 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tripoli",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.104942,33.88525556 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qabis",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1005,35.6712 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qayrawan",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"Ibn Khurradadhbih"
+    }
+  }
+];
+
+var ibnKhurrSuf = [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.8407,30.3459 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"D’ra",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"Sufrid",
+    "author":"Ibn Khurradadhbih"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.7278,31.9051 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ziz",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"Sufrid",
+    "author":"Ibn Khurradadhbih"
+    }
+  }
+];
+
+var alYaqAg = [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.0995,36.8462 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Iqlibiyya",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"Aghlabid",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.404352,36.186046 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Saṭīf",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"Aghlabid",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.349998,35.349999 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ṭubna",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"Aghlabid",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.784711,34.422323 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qafṣa",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"Aghlabid",
+    "author":"al-Ya'qubi"
+    }
+  }
+];
+
+var alYaqnonAg = [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.25517,36.443562 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Mīlā",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"Non-Aghlabid",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.784837,36.125418 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tījis",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"Non-Aghlabid",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.322,35.3674 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tāhirt",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"Non-Aghlabid",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.3322,29.0906 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Awjila",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"Non-Aghlabid",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.123,26.1685 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"زويلة",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"Non-Aghlabid",
+    "author":"al-Ya'qubi"
+    }
+  }
+];
+
+var alYaqNoKura = [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.0389,37.0833 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Jazīrat Abī Sharīk",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9102,36.8715 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Skikda",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.171744,36.798034 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tūnis",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.182313,36.723572 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Bājja",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.9833,36.718 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"جيجل",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.000022,36.599998 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Mattīja",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7757,36.5072 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"سطفورة",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.6715,36.1341 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"مجانة",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.921615,36.098441 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Lurbus",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.637754,35.825157 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Sūsa",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.072629,35.600085 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Maqqara",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.444596,35.566091 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Marmājanna",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5932,35.5566 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"نقاوس",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1262,35.2293 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Subaytla",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.484966,35.038314 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qamūda",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.53298,34.826205 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ṣabra",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.760235,34.736662 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Asfāqus",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.208096,33.976022 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Taqyūs",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.1229,33.9185 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qasṭīliya",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.0975,33.8881 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tacapae",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.875313,33.872552 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Nafṭa",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.972481,33.704214 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Nifzāwa",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.9417,32.7013 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Tulamaitha",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.2948,32.6343 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"لبدة",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.5871,32.5326 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"آجية",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.09111,32.11139 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"برنيق",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5702,31.1897 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Surt",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8407,30.3459 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"درعة",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.1403,30.2146 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"اجدابية",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1463,29.1561 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Waddan",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4991,29.0406 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"جالو",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.4068,14.8781 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"كوار",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.1546,11.8428 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"فزان",
+    "standardized arabic name":"",
+    "region name":"Ifriqiya",
+    "kura_subregion_name":"No sub-region mentioned",
+    "author":"al-Ya'qubi"
+    }
+  }
+];
