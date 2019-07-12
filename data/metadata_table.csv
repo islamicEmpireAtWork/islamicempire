@@ -1,0 +1,23 @@
+Dataset,Data type,Source,Description,Link
+Rivers,Shapefile,Ancient World Mapping Center (AWMC),"All recorded rivers in the AWMC database, sourced in part from the Barrington Atlas",http://awmc.unc.edu/awmc/map_data/shapefiles/physical_data/ba_rivers/
+Rivers - Egypt,Shapefile,DIVA-GIS (originally from the Digital Chart of the World),"Rivers, canals, and lakes of Egypt",https://www.diva-gis.org/gdata
+Rivers - Georgia,Shapefile,DIVA-GIS (originally from the Digital Chart of the World),"Rivers, canals, and lakes of Georgia",https://www.diva-gis.org/gdata
+Rivers - Iraq,Shapefile,DIVA-GIS (originally from the Digital Chart of the World),"Rivers, canals, and lakes of Iraq",https://www.diva-gis.org/gdata
+Rivers - Israel,Shapefile,DIVA-GIS (originally from the Digital Chart of the World),"Rivers, canals, and lakes of Israel",https://www.diva-gis.org/gdata
+Rivers - Jordan,Shapefile,DIVA-GIS (originally from the Digital Chart of the World),"Rivers, canals, and lakes of Jordan",https://www.diva-gis.org/gdata
+Rivers - Libya,Shapefile,DIVA-GIS (originally from the Digital Chart of the World),"Rivers, canals, and lakes of Libya",https://www.diva-gis.org/gdata
+Rivers - Oman,Shapefile,DIVA-GIS (originally from the Digital Chart of the World),"Rivers, canals, and lakes of Oman",https://www.diva-gis.org/gdata
+Rivers - Saudi Arabia,Shapefile,DIVA-GIS (originally from the Digital Chart of the World),"Rivers, canals, and lakes of Saudi Arabia",https://www.diva-gis.org/gdata
+Rivers - Syria,Shapefile,DIVA-GIS (originally from the Digital Chart of the World),"Rivers, canals, and lakes of Syria",https://www.diva-gis.org/gdata
+Rivers - Turkmenistan,Shapefile,DIVA-GIS (originally from the Digital Chart of the World),"Rivers, canals, and lakes of Turkmenistan",https://www.diva-gis.org/gdata
+Rivers - Tunisia,Shapefile,DIVA-GIS (originally from the Digital Chart of the World),"Rivers, canals, and lakes of Tunisia",https://www.diva-gis.org/gdata
+Rivers - Turkey,Shapefile,DIVA-GIS (originally from the Digital Chart of the World),"Rivers, canals, and lakes of Turkey",https://www.diva-gis.org/gdata
+Rivers - Yemen,Shapefile,DIVA-GIS (originally from the Digital Chart of the World),"Rivers, canals, and lakes of Yemen",https://www.diva-gis.org/gdata
+GMTED2010 Digital Terrain Elevation Model,Raster,USGS,"Multi-resolution DEM for the entire planet, in 30-, 15-, and 7.5-arc-second spatial resolution. ",https://www.usgs.gov/land-resources/eros/coastal-changes-and-impacts/gmted2010?qt-science_support_page_related_con=0#qt-science_support_page_related_con
+MODIS Land Cover Type/Dynamics,Raster,NASA,"Global land cover data, calculated from satellite imagery. Data distinguishes between 17 different classes of vegetation, human-altered classes, and non-vegetated classes. ",https://modis.gsfc.nasa.gov/data/dataprod/mod12.php
+Country administrative boundaries,Shapefile,Natural Earth,Administrative boundaries for all countries of world,https://www.naturalearthdata.com/downloads/10m-cultural-vectors/
+Lakes,Shapefile,Natural Earth,All major lakes in the world,https://www.naturalearthdata.com/downloads/10m-physical-vectors/
+Historic lakes,Shapefile,Natural Earth,Major historic lakes,https://www.naturalearthdata.com/downloads/10m-physical-vectors/
+Ocean,Shapefile,Natural Earth,Ocean polygons,https://www.naturalearthdata.com/downloads/10m-physical-vectors/
+SRTM Digital Elevation Model,Raster,NASA,3- and 1-arc-second resolution DEM of the entire planet,https://search.earthdata.nasa.gov/search
+Trade routes,Shapefile,"Cornu, G. 1985. Atlas du monde arabo-islamique à l'époque classique: Ixe-Xe siècles. ","Georeferenced routes from the Cornu atlas, digitised by Maxim Romanov as part of the al-?urayy? Gazetteer project.",https://github.com/althurayya/althurayya.github.io/

@@ -122,7 +122,7 @@
   },
   _createRadioElement: function(a, b) {
     var c =
-      '<input type="`radio`" class="leaflet-control-layers-selector" name="' +
+      '<input type="checkbox" class="leaflet-control-layers-selector" name="' +
       a +
       '"';
     b && (c += ' checked="checked"'), (c += "/>");

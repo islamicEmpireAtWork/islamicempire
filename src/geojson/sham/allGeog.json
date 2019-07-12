@@ -1,4 +1,6 @@
-var alIstalAw = [
+var alIstalAw = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -7,7 +9,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Adhana / أذنة",
-    "Transliterated names":"Adhana ",
+    "transliterated_name":"Adhana ",
     "Name":" أذنة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -47,7 +49,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"al-Athārib / الاثارب",
-    "Transliterated names":"al-Athārib ",
+    "transliterated_name":"al-Athārib ",
     "Name":" الاثارب",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -87,7 +89,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"al-Ḥadath / الحدث",
-    "Transliterated names":"al-Ḥadath ",
+    "transliterated_name":"al-Ḥadath ",
     "Name":" الحدث",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -127,7 +129,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"al-Hārūniyya / الهارونية",
-    "Transliterated names":"al-Hārūniyya ",
+    "transliterated_name":"al-Hārūniyya ",
     "Name":" الهارونية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -167,7 +169,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"al-Kanīsa / الكنيسة",
-    "Transliterated names":"al-Kanīsa ",
+    "transliterated_name":"al-Kanīsa ",
     "Name":" الكنيسة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -207,7 +209,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"al-Lādhiqiyya|al-Lādhiqīh / اللاذقيه|اللاذقية",
-    "Transliterated names":"al-Lādhiqiyya|al-Lādhiqīh ",
+    "transliterated_name":"al-Lādhiqiyya|al-Lādhiqīh ",
     "Name":" اللاذقيه|اللاذقية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -247,7 +249,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"al-Miṣṣīṣa / المصيصة",
-    "Transliterated names":"al-Miṣṣīṣa ",
+    "transliterated_name":"al-Miṣṣīṣa ",
     "Name":" المصيصة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -287,7 +289,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"al-Muthaqqib / المثقب",
-    "Transliterated names":"al-Muthaqqib ",
+    "transliterated_name":"al-Muthaqqib ",
     "Name":" المثقب",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -327,7 +329,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"al-Ṣakhra / الصخرة",
-    "Transliterated names":"al-Ṣakhra ",
+    "transliterated_name":"al-Ṣakhra ",
     "Name":" الصخرة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -367,7 +369,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Anṭākiya / أنطاكية",
-    "Transliterated names":"Anṭākiya ",
+    "transliterated_name":"Anṭākiya ",
     "Name":" أنطاكية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -407,7 +409,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Awlās / أولاس",
-    "Transliterated names":"Awlās ",
+    "transliterated_name":"Awlās ",
     "Name":" أولاس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -447,7 +449,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"ʿAyn Zarba / عين زربة",
-    "Transliterated names":"ʿAyn Zarba ",
+    "transliterated_name":"ʿAyn Zarba ",
     "Name":" عين زربة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -487,7 +489,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Baghrās / بغراس",
-    "Transliterated names":"Baghrās ",
+    "transliterated_name":"Baghrās ",
     "Name":" بغراس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -527,7 +529,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Bālis / بالس",
-    "Transliterated names":"Bālis ",
+    "transliterated_name":"Bālis ",
     "Name":" بالس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -567,7 +569,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Bayyās / بياس",
-    "Transliterated names":"Bayyās ",
+    "transliterated_name":"Bayyās ",
     "Name":" بياس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -607,7 +609,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Ḥimṣ / حمص",
-    "Transliterated names":"Ḥimṣ ",
+    "transliterated_name":"Ḥimṣ ",
     "Name":" حمص",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -647,7 +649,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Ḥiṣn Manṣūr / حصن منصور",
-    "Transliterated names":"Ḥiṣn Manṣūr ",
+    "transliterated_name":"Ḥiṣn Manṣūr ",
     "Name":" حصن منصور",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -687,7 +689,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Iskandarūna|Iskandariyya|al-Iskandariyya|al-Iskandarūnah / الاسكندرونه|اسكندرونة|اسكندريية|الاسكندريية",
-    "Transliterated names":"Iskandarūna|Iskandariyya|al-Iskandariyya|al-Iskandarūnah ",
+    "transliterated_name":"Iskandarūna|Iskandariyya|al-Iskandariyya|al-Iskandarūnah ",
     "Name":" الاسكندرونه|اسكندرونة|اسكندريية|الاسكندريية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -727,7 +729,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Malaṭya|Malaṭiyya / ملطية",
-    "Transliterated names":"Malaṭya|Malaṭiyya ",
+    "transliterated_name":"Malaṭya|Malaṭiyya ",
     "Name":" ملطية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -767,7 +769,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Manbij / منبج",
-    "Transliterated names":"Manbij ",
+    "transliterated_name":"Manbij ",
     "Name":" منبج",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -807,7 +809,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Marʿash /  مرعش",
-    "Transliterated names":"Marʿash ",
+    "transliterated_name":"Marʿash ",
     "Name":"  مرعش",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -847,7 +849,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Qalʿat an-Naǧm|Jisr Manij / قلعة النجم|جسر منبج",
-    "Transliterated names":"Qalʿat an-Naǧm|Jisr Manij ",
+    "transliterated_name":"Qalʿat an-Naǧm|Jisr Manij ",
     "Name":" قلعة النجم|جسر منبج",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -887,7 +889,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Sanja / سنجة",
-    "Transliterated names":"Sanja ",
+    "transliterated_name":"Sanja ",
     "Name":" سنجة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -927,7 +929,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Sumaysāṭ / سميساط",
-    "Transliterated names":"Sumaysāṭ ",
+    "transliterated_name":"Sumaysāṭ ",
     "Name":" سميساط",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -967,7 +969,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Ṭarsūs|Anṭarsūs|Anṭarṭūs / طرسوس|أنطرسوس|أنطرطوس",
-    "Transliterated names":"Ṭarsūs|Anṭarsūs|Anṭarṭūs ",
+    "transliterated_name":"Ṭarsūs|Anṭarsūs|Anṭarṭūs ",
     "Name":" طرسوس|أنطرسوس|أنطرطوس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1007,7 +1009,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Tīnāt|Ḥiṣn al-Tīnāt|Naqābulus / نقابلس|تينات|حصن التينات",
-    "Transliterated names":"Tīnāt|Ḥiṣn al-Tīnāt|Naqābulus ",
+    "transliterated_name":"Tīnāt|Ḥiṣn al-Tīnāt|Naqābulus ",
     "Name":" نقابلس|تينات|حصن التينات",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1047,7 +1049,7 @@ var alIstalAw = [
     },
     "properties": {
     "kml_input_name":"Zibaṭra / زبطرة",
-    "Transliterated names":"Zibaṭra ",
+    "transliterated_name":"Zibaṭra ",
     "Name":" زبطرة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1079,9 +1081,11 @@ var alIstalAw = [
     "Comments":""
     }
   }
-];
+]};
 
-var alIstalJaz = [
+var alIstalJaz = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -1090,7 +1094,7 @@ var alIstalJaz = [
     },
     "properties": {
     "kml_input_name":"al-Ḥadath / الحدث",
-    "Transliterated names":"al-Ḥadath ",
+    "transliterated_name":"al-Ḥadath ",
     "Name":" الحدث",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1130,7 +1134,7 @@ var alIstalJaz = [
     },
     "properties": {
     "kml_input_name":"Malaṭya|Malaṭiyya / ملطية",
-    "Transliterated names":"Malaṭya|Malaṭiyya ",
+    "transliterated_name":"Malaṭya|Malaṭiyya ",
     "Name":" ملطية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1170,7 +1174,7 @@ var alIstalJaz = [
     },
     "properties": {
     "kml_input_name":"Marʿash /  مرعش",
-    "Transliterated names":"Marʿash ",
+    "transliterated_name":"Marʿash ",
     "Name":"  مرعش",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1202,9 +1206,11 @@ var alIstalJaz = [
     "Comments":""
     }
   }
-];
+]};
 
-var alIstalSham = [
+var alIstalSham = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -1213,7 +1219,7 @@ var alIstalSham = [
     },
     "properties": {
     "kml_input_name":"Adhana / أذنة",
-    "Transliterated names":"Adhana ",
+    "transliterated_name":"Adhana ",
     "Name":" أذنة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1253,7 +1259,7 @@ var alIstalSham = [
     },
     "properties": {
     "kml_input_name":"al-Hārūniyya / الهارونية",
-    "Transliterated names":"al-Hārūniyya ",
+    "transliterated_name":"al-Hārūniyya ",
     "Name":" الهارونية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1293,7 +1299,7 @@ var alIstalSham = [
     },
     "properties": {
     "kml_input_name":"al-Kanīsa / الكنيسة",
-    "Transliterated names":"al-Kanīsa ",
+    "transliterated_name":"al-Kanīsa ",
     "Name":" الكنيسة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1333,7 +1339,7 @@ var alIstalSham = [
     },
     "properties": {
     "kml_input_name":"al-Miṣṣīṣa / المصيصة",
-    "Transliterated names":"al-Miṣṣīṣa ",
+    "transliterated_name":"al-Miṣṣīṣa ",
     "Name":" المصيصة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1373,7 +1379,7 @@ var alIstalSham = [
     },
     "properties": {
     "kml_input_name":"ʿAyn Zarba / عين زربة",
-    "Transliterated names":"ʿAyn Zarba ",
+    "transliterated_name":"ʿAyn Zarba ",
     "Name":" عين زربة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1413,7 +1419,7 @@ var alIstalSham = [
     },
     "properties": {
     "kml_input_name":"Ṭarsūs|Anṭarsūs|Anṭarṭūs / طرسوس|أنطرسوس|أنطرطوس",
-    "Transliterated names":"Ṭarsūs|Anṭarsūs|Anṭarṭūs ",
+    "transliterated_name":"Ṭarsūs|Anṭarsūs|Anṭarṭūs ",
     "Name":" طرسوس|أنطرسوس|أنطرطوس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1445,9 +1451,11 @@ var alIstalSham = [
     "Comments":""
     }
   }
-];
+]};
 
-var alIstalUrd = [
+var alIstalUrd = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -1456,7 +1464,7 @@ var alIstalUrd = [
     },
     "properties": {
     "kml_input_name":"ʿAkka|ʿAkkā / عكّا|عكة",
-    "Transliterated names":"ʿAkka|ʿAkkā ",
+    "transliterated_name":"ʿAkka|ʿAkkā ",
     "Name":" عكّا|عكة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1496,7 +1504,7 @@ var alIstalUrd = [
     },
     "properties": {
     "kml_input_name":"ʿAqabat al-Fīq|ʿAqaba Fīq|Afīq|Fīq / عقبة فيق|عقبة الفيق|أفيق|فيق",
-    "Transliterated names":"ʿAqabat al-Fīq|ʿAqaba Fīq|Afīq|Fīq ",
+    "transliterated_name":"ʿAqabat al-Fīq|ʿAqaba Fīq|Afīq|Fīq ",
     "Name":" عقبة فيق|عقبة الفيق|أفيق|فيق",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1536,7 +1544,7 @@ var alIstalUrd = [
     },
     "properties": {
     "kml_input_name":"Baysān / بيسان",
-    "Transliterated names":"Baysān ",
+    "transliterated_name":"Baysān ",
     "Name":" بيسان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1576,7 +1584,7 @@ var alIstalUrd = [
     },
     "properties": {
     "kml_input_name":"Jubb Yūsuf / جب يوسف",
-    "Transliterated names":"Jubb Yūsuf ",
+    "transliterated_name":"Jubb Yūsuf ",
     "Name":" جب يوسف",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1616,7 +1624,7 @@ var alIstalUrd = [
     },
     "properties": {
     "kml_input_name":"Ṣūr / صور",
-    "Transliterated names":"Ṣūr ",
+    "transliterated_name":"Ṣūr ",
     "Name":" صور",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1656,7 +1664,7 @@ var alIstalUrd = [
     },
     "properties": {
     "kml_input_name":"Ṭabariyya / طبرية",
-    "Transliterated names":"Ṭabariyya ",
+    "transliterated_name":"Ṭabariyya ",
     "Name":" طبرية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1688,9 +1696,11 @@ var alIstalUrd = [
     "Comments":""
     }
   }
-];
+]};
 
-var alIstDim = [
+var alIstDim = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -1699,7 +1709,7 @@ var alIstDim = [
     },
     "properties": {
     "kml_input_name":"Adhriʿāt / أذرعات",
-    "Transliterated names":"Adhriʿāt ",
+    "transliterated_name":"Adhriʿāt ",
     "Name":" أذرعات",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1739,7 +1749,7 @@ var alIstDim = [
     },
     "properties": {
     "kml_input_name":"al-Bathaniyya / البثنية",
-    "Transliterated names":"al-Bathaniyya ",
+    "transliterated_name":"al-Bathaniyya ",
     "Name":" البثنية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1779,7 +1789,7 @@ var alIstDim = [
     },
     "properties": {
     "kml_input_name":"al-Fīja / الفيجة",
-    "Transliterated names":"al-Fīja ",
+    "transliterated_name":"al-Fīja ",
     "Name":" الفيجة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1819,7 +1829,7 @@ var alIstDim = [
     },
     "properties": {
     "kml_input_name":"al-Ghūṭa / الغوطة",
-    "Transliterated names":"al-Ghūṭa ",
+    "transliterated_name":"al-Ghūṭa ",
     "Name":" الغوطة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1859,7 +1869,7 @@ var alIstDim = [
     },
     "properties": {
     "kml_input_name":"al-Ḥawrān|Ḥawrān / حوران|الحوران",
-    "Transliterated names":"al-Ḥawrān|Ḥawrān ",
+    "transliterated_name":"al-Ḥawrān|Ḥawrān ",
     "Name":" حوران|الحوران",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1899,7 +1909,7 @@ var alIstDim = [
     },
     "properties": {
     "kml_input_name":"Aṭrābulus|Ṭarābulus / أطرابلس|طرابلس",
-    "Transliterated names":"Aṭrābulus|Ṭarābulus ",
+    "transliterated_name":"Aṭrābulus|Ṭarābulus ",
     "Name":" أطرابلس|طرابلس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1939,7 +1949,7 @@ var alIstDim = [
     },
     "properties": {
     "kml_input_name":"Baʿlabakk / بعلبك",
-    "Transliterated names":"Baʿlabakk ",
+    "transliterated_name":"Baʿlabakk ",
     "Name":" بعلبك",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -1979,7 +1989,7 @@ var alIstDim = [
     },
     "properties": {
     "kml_input_name":"Bayrūt / بيروت",
-    "Transliterated names":"Bayrūt ",
+    "transliterated_name":"Bayrūt ",
     "Name":" بيروت",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2019,7 +2029,7 @@ var alIstDim = [
     },
     "properties": {
     "kml_input_name":"Dimashq / دمشق",
-    "Transliterated names":"Dimashq ",
+    "transliterated_name":"Dimashq ",
     "Name":" دمشق",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2059,7 +2069,7 @@ var alIstDim = [
     },
     "properties": {
     "kml_input_name":"Ṣaydāʾ|Ṣaydā / صيدا|صيداء",
-    "Transliterated names":"Ṣaydāʾ|Ṣaydā ",
+    "transliterated_name":"Ṣaydāʾ|Ṣaydā ",
     "Name":" صيدا|صيداء",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2091,9 +2101,11 @@ var alIstDim = [
     "Comments":""
     }
   }
-];
+]};
 
-var alIstFil = [
+var alIstFil = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -2102,7 +2114,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"Adhrūḥ / أذروح",
-    "Transliterated names":"Adhrūḥ ",
+    "transliterated_name":"Adhrūḥ ",
     "Name":" أذروح",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2142,7 +2154,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"al-Balqāʾ / البلقاء",
-    "Transliterated names":"al-Balqāʾ ",
+    "transliterated_name":"al-Balqāʾ ",
     "Name":" البلقاء",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2182,7 +2194,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"al-Jibāl|Jibāl / الجبال|جبال",
-    "Transliterated names":"al-Jibāl|Jibāl ",
+    "transliterated_name":"al-Jibāl|Jibāl ",
     "Name":" الجبال|جبال",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2222,7 +2234,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"al-Lajjūn / اللجون",
-    "Transliterated names":"al-Lajjūn ",
+    "transliterated_name":"al-Lajjūn ",
     "Name":" اللجون",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2262,7 +2274,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"al-Ramla / الرملة",
-    "Transliterated names":"al-Ramla ",
+    "transliterated_name":"al-Ramla ",
     "Name":" الرملة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2302,7 +2314,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"al-Sharāt / الشرات",
-    "Transliterated names":"al-Sharāt ",
+    "transliterated_name":"al-Sharāt ",
     "Name":" الشرات",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2342,7 +2354,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"ʿAsqalān / عسقلان",
-    "Transliterated names":"ʿAsqalān ",
+    "transliterated_name":"ʿAsqalān ",
     "Name":" عسقلان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2382,7 +2394,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"Bayt al-Maqdis|al-Quds|Īliyā / بيت المقدس|القدس|إيليا",
-    "Transliterated names":"Bayt al-Maqdis|al-Quds|Īliyā ",
+    "transliterated_name":"Bayt al-Maqdis|al-Quds|Īliyā ",
     "Name":" بيت المقدس|القدس|إيليا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2422,7 +2434,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"Bayt Laḥm / بيت لحم",
-    "Transliterated names":"Bayt Laḥm ",
+    "transliterated_name":"Bayt Laḥm ",
     "Name":" بيت لحم",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2462,7 +2474,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"Borders of Aylat|Wayla / حدود أيلة|ويلة",
-    "Transliterated names":"Borders of Aylat|Wayla ",
+    "transliterated_name":"Borders of Aylat|Wayla ",
     "Name":" حدود أيلة|ويلة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2502,7 +2514,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"Diyār Qawm Lūṭ / ديار قوم لوط",
-    "Transliterated names":"Diyār Qawm Lūṭ ",
+    "transliterated_name":"Diyār Qawm Lūṭ ",
     "Name":" ديار قوم لوط",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2542,7 +2554,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"Ghazza / غزة",
-    "Transliterated names":"Ghazza ",
+    "transliterated_name":"Ghazza ",
     "Name":" غزة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2582,7 +2594,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"Ḥabrat|Ḥabrā|al-Khalīl|Ḥabrūn|Masjid Ibrāhīm|Qubr Ibrāhīm|Bayt Ibrāhīm / قبر ابراهيم|بيت ابراهيم|حبرة|حبرى|الخليل|حبرون|مسجد إبراهيم",
-    "Transliterated names":"Ḥabrat|Ḥabrā|al-Khalīl|Ḥabrūn|Masjid Ibrāhīm|Qubr Ibrāhīm|Bayt Ibrāhīm ",
+    "transliterated_name":"Ḥabrat|Ḥabrā|al-Khalīl|Ḥabrūn|Masjid Ibrāhīm|Qubr Ibrāhīm|Bayt Ibrāhīm ",
     "Name":" قبر ابراهيم|بيت ابراهيم|حبرة|حبرى|الخليل|حبرون|مسجد إبراهيم",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2622,7 +2634,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"Maʿān|Muʿān / معان",
-    "Transliterated names":"Maʿān|Muʿān ",
+    "transliterated_name":"Maʿān|Muʿān ",
     "Name":" معان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2662,7 +2674,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"Nābulus / نابلس",
-    "Transliterated names":"Nābulus ",
+    "transliterated_name":"Nābulus ",
     "Name":" نابلس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2702,7 +2714,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"Qaysāriyya|Qaysariyya|Qaysārīh / قيساريّة|قيساريه|قيسرية",
-    "Transliterated names":"Qaysāriyya|Qaysariyya|Qaysārīh ",
+    "transliterated_name":"Qaysāriyya|Qaysariyya|Qaysārīh ",
     "Name":" قيساريّة|قيساريه|قيسرية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2742,7 +2754,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"Rafḥ|Rafaḥ / رفح",
-    "Transliterated names":"Rafḥ|Rafaḥ ",
+    "transliterated_name":"Rafḥ|Rafaḥ ",
     "Name":" رفح",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2782,7 +2794,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"Riḥā|Rīḥā|Arīḥā|Arīḥāʾ / اريحاء|رحا|ريحا|أريحا",
-    "Transliterated names":"Riḥā|Rīḥā|Arīḥā|Arīḥāʾ ",
+    "transliterated_name":"Riḥā|Rīḥā|Arīḥā|Arīḥāʾ ",
     "Name":" اريحاء|رحا|ريحا|أريحا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2822,7 +2834,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"Ruwāt|Ruwāth / رواث|روات",
-    "Transliterated names":"Ruwāt|Ruwāth ",
+    "transliterated_name":"Ruwāt|Ruwāth ",
     "Name":" رواث|روات",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2862,7 +2874,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"Ṣughar|Zughar / صغر|زغر",
-    "Transliterated names":"Ṣughar|Zughar ",
+    "transliterated_name":"Ṣughar|Zughar ",
     "Name":" صغر|زغر",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2902,7 +2914,7 @@ var alIstFil = [
     },
     "properties": {
     "kml_input_name":"Yāfā / يافا",
-    "Transliterated names":"Yāfā ",
+    "transliterated_name":"Yāfā ",
     "Name":" يافا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2934,9 +2946,11 @@ var alIstFil = [
     "Comments":""
     }
   }
-];
+]};
 
-var alIstHims = [
+var alIstHims = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -2945,7 +2959,7 @@ var alIstHims = [
     },
     "properties": {
     "kml_input_name":"Anṭarṭūs|Anṭarsūs|Ṭarṭūs / أنطرطوس|أنطرسوس|طرطوس",
-    "Transliterated names":"Anṭarṭūs|Anṭarsūs|Ṭarṭūs ",
+    "transliterated_name":"Anṭarṭūs|Anṭarsūs|Ṭarṭūs ",
     "Name":" أنطرطوس|أنطرسوس|طرطوس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -2985,7 +2999,7 @@ var alIstHims = [
     },
     "properties": {
     "kml_input_name":"Ḥamā / حماة",
-    "Transliterated names":"Ḥamā ",
+    "transliterated_name":"Ḥamā ",
     "Name":" حماة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3025,7 +3039,7 @@ var alIstHims = [
     },
     "properties": {
     "kml_input_name":"Ḥimṣ / حمص",
-    "Transliterated names":"Ḥimṣ ",
+    "transliterated_name":"Ḥimṣ ",
     "Name":" حمص",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3065,7 +3079,7 @@ var alIstHims = [
     },
     "properties": {
     "kml_input_name":"Ḥiṣn Salamiyya|Salamiyya / حصن سلمية|سلمية",
-    "Transliterated names":"Ḥiṣn Salamiyya|Salamiyya ",
+    "transliterated_name":"Ḥiṣn Salamiyya|Salamiyya ",
     "Name":" حصن سلمية|سلمية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3105,7 +3119,7 @@ var alIstHims = [
     },
     "properties": {
     "kml_input_name":"Shayzar / شيزر",
-    "Transliterated names":"Shayzar ",
+    "transliterated_name":"Shayzar ",
     "Name":" شيزر",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3145,7 +3159,7 @@ var alIstHims = [
     },
     "properties": {
     "kml_input_name":"Tadmur / تدمر",
-    "Transliterated names":"Tadmur ",
+    "transliterated_name":"Tadmur ",
     "Name":" تدمر",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3177,9 +3191,11 @@ var alIstHims = [
     "Comments":""
     }
   }
-];
+]};
 
-var alIstQinn = [
+var alIstQinn = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -3188,7 +3204,7 @@ var alIstQinn = [
     },
     "properties": {
     "kml_input_name":"al-Athārib / الاثارب",
-    "Transliterated names":"al-Athārib ",
+    "transliterated_name":"al-Athārib ",
     "Name":" الاثارب",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3228,7 +3244,7 @@ var alIstQinn = [
     },
     "properties": {
     "kml_input_name":"al-Khunāṣira|Khunāṣira / خناصرة|الخناصرة",
-    "Transliterated names":"al-Khunāṣira|Khunāṣira ",
+    "transliterated_name":"al-Khunāṣira|Khunāṣira ",
     "Name":" خناصرة|الخناصرة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3268,7 +3284,7 @@ var alIstQinn = [
     },
     "properties": {
     "kml_input_name":"Bālis / بالس",
-    "Transliterated names":"Bālis ",
+    "transliterated_name":"Bālis ",
     "Name":" بالس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3308,7 +3324,7 @@ var alIstQinn = [
     },
     "properties": {
     "kml_input_name":"Ḥalab / حلب",
-    "Transliterated names":"Ḥalab ",
+    "transliterated_name":"Ḥalab ",
     "Name":" حلب",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3348,7 +3364,7 @@ var alIstQinn = [
     },
     "properties": {
     "kml_input_name":"Maʿarrat al-Nuʿmān|al-Maʿarra /المعرة|معرة النعمان",
-    "Transliterated names":"Maʿarrat al-Nuʿmān|al-Maʿarra ",
+    "transliterated_name":"Maʿarrat al-Nuʿmān|al-Maʿarra ",
     "Name":"المعرة|معرة النعمان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3388,7 +3404,7 @@ var alIstQinn = [
     },
     "properties": {
     "kml_input_name":"Manbij / منبج",
-    "Transliterated names":"Manbij ",
+    "transliterated_name":"Manbij ",
     "Name":" منبج",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3428,7 +3444,7 @@ var alIstQinn = [
     },
     "properties": {
     "kml_input_name":"Qinnasrīn / قنسرين",
-    "Transliterated names":"Qinnasrīn ",
+    "transliterated_name":"Qinnasrīn ",
     "Name":" قنسرين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3468,7 +3484,7 @@ var alIstQinn = [
     },
     "properties": {
     "kml_input_name":"Qūrus / قورس",
-    "Transliterated names":"Qūrus ",
+    "transliterated_name":"Qūrus ",
     "Name":" قورس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3500,9 +3516,11 @@ var alIstQinn = [
     "Comments":""
     }
   }
-];
+]};
 
-var alMuqalShar = [
+var alMuqalShar = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -3511,7 +3529,7 @@ var alMuqalShar = [
     },
     "properties": {
     "kml_input_name":"Adhrūḥ / أذروح",
-    "Transliterated names":"Adhrūḥ ",
+    "transliterated_name":"Adhrūḥ ",
     "Name":" أذروح",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3551,7 +3569,7 @@ var alMuqalShar = [
     },
     "properties": {
     "kml_input_name":"Ayla|Wayla / أيلة|ويلة",
-    "Transliterated names":"Ayla|Wayla ",
+    "transliterated_name":"Ayla|Wayla ",
     "Name":" أيلة|ويلة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3591,7 +3609,7 @@ var alMuqalShar = [
     },
     "properties": {
     "kml_input_name":"Maʾāb / مآب",
-    "Transliterated names":"Maʾāb ",
+    "transliterated_name":"Maʾāb ",
     "Name":" مآب",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3631,7 +3649,7 @@ var alMuqalShar = [
     },
     "properties": {
     "kml_input_name":"Maʿān|Muʿān / معان",
-    "Transliterated names":"Maʿān|Muʿān ",
+    "transliterated_name":"Maʿān|Muʿān ",
     "Name":" معان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3671,7 +3689,7 @@ var alMuqalShar = [
     },
     "properties": {
     "kml_input_name":"Madyan / مدين",
-    "Transliterated names":"Madyan ",
+    "transliterated_name":"Madyan ",
     "Name":" مدين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3711,7 +3729,7 @@ var alMuqalShar = [
     },
     "properties": {
     "kml_input_name":"Ṣughar|Zughar / صغر|زغر",
-    "Transliterated names":"Ṣughar|Zughar ",
+    "transliterated_name":"Ṣughar|Zughar ",
     "Name":" صغر|زغر",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3751,7 +3769,7 @@ var alMuqalShar = [
     },
     "properties": {
     "kml_input_name":"Tabūk / تبوك",
-    "Transliterated names":"Tabūk ",
+    "transliterated_name":"Tabūk ",
     "Name":" تبوك",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3783,9 +3801,11 @@ var alMuqalShar = [
     "Comments":""
     }
   }
-];
+]};
 
-var alMuqalUrd = [
+var alMuqalUrd = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -3794,7 +3814,7 @@ var alMuqalUrd = [
     },
     "properties": {
     "kml_input_name":"Adhriʿāt / أذرعات",
-    "Transliterated names":"Adhriʿāt ",
+    "transliterated_name":"Adhriʿāt ",
     "Name":" أذرعات",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3834,7 +3854,7 @@ var alMuqalUrd = [
     },
     "properties": {
     "kml_input_name":"ʿAkka|ʿAkkā / عكا|عكة",
-    "Transliterated names":"ʿAkka|ʿAkkā ",
+    "transliterated_name":"ʿAkka|ʿAkkā ",
     "Name":" عكا|عكة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3874,7 +3894,7 @@ var alMuqalUrd = [
     },
     "properties": {
     "kml_input_name":"al-Lajjūn / اللجون",
-    "Transliterated names":"al-Lajjūn ",
+    "transliterated_name":"al-Lajjūn ",
     "Name":" اللجون",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3914,7 +3934,7 @@ var alMuqalUrd = [
     },
     "properties": {
     "kml_input_name":"Baysān / بيسان",
-    "Transliterated names":"Baysān ",
+    "transliterated_name":"Baysān ",
     "Name":" بيسان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3954,7 +3974,7 @@ var alMuqalUrd = [
     },
     "properties": {
     "kml_input_name":"Kābul / كابل",
-    "Transliterated names":"Kābul ",
+    "transliterated_name":"Kābul ",
     "Name":" كابل",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -3994,7 +4014,7 @@ var alMuqalUrd = [
     },
     "properties": {
     "kml_input_name":"Qadas / قدس",
-    "Transliterated names":"Qadas ",
+    "transliterated_name":"Qadas ",
     "Name":" قدس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4034,7 +4054,7 @@ var alMuqalUrd = [
     },
     "properties": {
     "kml_input_name":"Ṣūr / صور",
-    "Transliterated names":"Ṣūr ",
+    "transliterated_name":"Ṣūr ",
     "Name":" صور",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4074,7 +4094,7 @@ var alMuqalUrd = [
     },
     "properties": {
     "kml_input_name":"Ṭabariyya / طبرية",
-    "Transliterated names":"Ṭabariyya ",
+    "transliterated_name":"Ṭabariyya ",
     "Name":" طبرية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4106,9 +4126,11 @@ var alMuqalUrd = [
     "Comments":""
     }
   }
-];
+]};
 
-var alMuqDim = [
+var alMuqDim = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -4117,7 +4139,7 @@ var alMuqDim = [
     },
     "properties": {
     "kml_input_name":"ʿArqa / عرقة",
-    "Transliterated names":"ʿArqa ",
+    "transliterated_name":"ʿArqa ",
     "Name":" عرقة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4157,7 +4179,7 @@ var alMuqDim = [
     },
     "properties": {
     "kml_input_name":"Aṭrābulus|Ṭarābulus / اطرابلس|طرابلس",
-    "Transliterated names":"Aṭrābulus|Ṭarābulus ",
+    "transliterated_name":"Aṭrābulus|Ṭarābulus ",
     "Name":" اطرابلس|طرابلس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4197,7 +4219,7 @@ var alMuqDim = [
     },
     "properties": {
     "kml_input_name":"Bāniyās / بانياس",
-    "Transliterated names":"Bāniyās ",
+    "transliterated_name":"Bāniyās ",
     "Name":" بانياس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4237,7 +4259,7 @@ var alMuqDim = [
     },
     "properties": {
     "kml_input_name":"Bayrūt / بيروت",
-    "Transliterated names":"Bayrūt ",
+    "transliterated_name":"Bayrūt ",
     "Name":" بيروت",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4277,7 +4299,7 @@ var alMuqDim = [
     },
     "properties": {
     "kml_input_name":"Dimashq / دمشق",
-    "Transliterated names":"Dimashq ",
+    "transliterated_name":"Dimashq ",
     "Name":" دمشق",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4317,7 +4339,7 @@ var alMuqDim = [
     },
     "properties": {
     "kml_input_name":"Ṣaydāʾ|Ṣaydā / صيدا|صيداء",
-    "Transliterated names":"Ṣaydāʾ|Ṣaydā ",
+    "transliterated_name":"Ṣaydāʾ|Ṣaydā ",
     "Name":" صيدا|صيداء",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4349,9 +4371,11 @@ var alMuqDim = [
     "Comments":""
     }
   }
-];
+]};
 
-var alMuqFil = [
+var alMuqFil = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -4360,7 +4384,7 @@ var alMuqFil = [
     },
     "properties": {
     "kml_input_name":"al-Ramla / الرملة",
-    "Transliterated names":"al-Ramla ",
+    "transliterated_name":"al-Ramla ",
     "Name":" الرملة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4400,7 +4424,7 @@ var alMuqFil = [
     },
     "properties": {
     "kml_input_name":"ʿAmmān / عمان",
-    "Transliterated names":"ʿAmmān ",
+    "transliterated_name":"ʿAmmān ",
     "Name":" عمان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4440,7 +4464,7 @@ var alMuqFil = [
     },
     "properties": {
     "kml_input_name":"Arsūf / أرسوف",
-    "Transliterated names":"Arsūf ",
+    "transliterated_name":"Arsūf ",
     "Name":" أرسوف",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4480,7 +4504,7 @@ var alMuqFil = [
     },
     "properties": {
     "kml_input_name":"ʿAsqalān / عسقلان",
-    "Transliterated names":"ʿAsqalān ",
+    "transliterated_name":"ʿAsqalān ",
     "Name":" عسقلان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4520,7 +4544,7 @@ var alMuqFil = [
     },
     "properties": {
     "kml_input_name":"Bayt al-Maqdis|al-Quds|Īliyā / بيت المقدس|القدس|إيليا",
-    "Transliterated names":"Bayt al-Maqdis|al-Quds|Īliyā ",
+    "transliterated_name":"Bayt al-Maqdis|al-Quds|Īliyā ",
     "Name":" بيت المقدس|القدس|إيليا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4560,7 +4584,7 @@ var alMuqFil = [
     },
     "properties": {
     "kml_input_name":"Bayt Jibrīl|Bayt Jibrīn / بيت جبريل|بيت جبرين",
-    "Transliterated names":"Bayt Jibrīl|Bayt Jibrīn ",
+    "transliterated_name":"Bayt Jibrīl|Bayt Jibrīn ",
     "Name":" بيت جبريل|بيت جبرين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4600,7 +4624,7 @@ var alMuqFil = [
     },
     "properties": {
     "kml_input_name":"Ghazza / غزة",
-    "Transliterated names":"Ghazza ",
+    "transliterated_name":"Ghazza ",
     "Name":" غزة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4640,7 +4664,7 @@ var alMuqFil = [
     },
     "properties": {
     "kml_input_name":"Mīmās / ميماس",
-    "Transliterated names":"Mīmās ",
+    "transliterated_name":"Mīmās ",
     "Name":" ميماس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4680,7 +4704,7 @@ var alMuqFil = [
     },
     "properties": {
     "kml_input_name":"Nābulus / نابلس",
-    "Transliterated names":"Nābulus ",
+    "transliterated_name":"Nābulus ",
     "Name":" نابلس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4720,7 +4744,7 @@ var alMuqFil = [
     },
     "properties": {
     "kml_input_name":"Qaysāriyya|Qaysariyya|Qaysārīh / قيساريّة|قيساريه|قيسرية",
-    "Transliterated names":"Qaysāriyya|Qaysariyya|Qaysārīh ",
+    "transliterated_name":"Qaysāriyya|Qaysariyya|Qaysārīh ",
     "Name":" قيساريّة|قيساريه|قيسرية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4760,7 +4784,7 @@ var alMuqFil = [
     },
     "properties": {
     "kml_input_name":"Riḥā|Rīḥā|Arīḥā|Arīḥāʾ / اريحاء|رحا|ريحا|أريحا",
-    "Transliterated names":"Riḥā|Rīḥā|Arīḥā|Arīḥāʾ ",
+    "transliterated_name":"Riḥā|Rīḥā|Arīḥā|Arīḥāʾ ",
     "Name":" اريحاء|رحا|ريحا|أريحا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4800,7 +4824,7 @@ var alMuqFil = [
     },
     "properties": {
     "kml_input_name":"Yāfā / يافا",
-    "Transliterated names":"Yāfā ",
+    "transliterated_name":"Yāfā ",
     "Name":" يافا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4832,9 +4856,11 @@ var alMuqFil = [
     "Comments":""
     }
   }
-];
+]};
 
-var alMuqHims = [
+var alMuqHims = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -4843,7 +4869,7 @@ var alMuqHims = [
     },
     "properties": {
     "kml_input_name":"al-Khunāṣira|Khunāṣira / خناصرة|الخناصرة",
-    "Transliterated names":"al-Khunāṣira|Khunāṣira ",
+    "transliterated_name":"al-Khunāṣira|Khunāṣira ",
     "Name":" خناصرة|الخناصرة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4883,7 +4909,7 @@ var alMuqHims = [
     },
     "properties": {
     "kml_input_name":"al-Lādhiqiyya|al-Lādhiqīh / اللاذقيه|اللاذقية",
-    "Transliterated names":"al-Lādhiqiyya|al-Lādhiqīh ",
+    "transliterated_name":"al-Lādhiqiyya|al-Lādhiqīh ",
     "Name":" اللاذقيه|اللاذقية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4923,7 +4949,7 @@ var alMuqHims = [
     },
     "properties": {
     "kml_input_name":"Anẓarẓūs|Anṭarṭūs|Anṭarsūs|Ṭarṭūs / انظرظوس|انطرطوس|انطرسوس|طرطوس",
-    "Transliterated names":"Anẓarẓūs|Anṭarṭūs|Anṭarsūs|Ṭarṭūs ",
+    "transliterated_name":"Anẓarẓūs|Anṭarṭūs|Anṭarsūs|Ṭarṭūs ",
     "Name":" انظرظوس|انطرطوس|انطرسوس|طرطوس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -4963,7 +4989,7 @@ var alMuqHims = [
     },
     "properties": {
     "kml_input_name":"Bulunyās / بلنياس",
-    "Transliterated names":"Bulunyās ",
+    "transliterated_name":"Bulunyās ",
     "Name":" بلنياس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5003,7 +5029,7 @@ var alMuqHims = [
     },
     "properties": {
     "kml_input_name":"Ḥimṣ / حمص",
-    "Transliterated names":"Ḥimṣ ",
+    "transliterated_name":"Ḥimṣ ",
     "Name":" حمص",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5043,7 +5069,7 @@ var alMuqHims = [
     },
     "properties": {
     "kml_input_name":"Ḥiṣn al-Khawābī / حصن الخوابي",
-    "Transliterated names":"Ḥiṣn al-Khawābī ",
+    "transliterated_name":"Ḥiṣn al-Khawābī ",
     "Name":" حصن الخوابي",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5083,7 +5109,7 @@ var alMuqHims = [
     },
     "properties": {
     "kml_input_name":"Ḥiṣn Salamiyya|Salamiyya / حصن سلمية|سلمية",
-    "Transliterated names":"Ḥiṣn Salamiyya|Salamiyya ",
+    "transliterated_name":"Ḥiṣn Salamiyya|Salamiyya ",
     "Name":" حصن سلمية|سلمية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5123,7 +5149,7 @@ var alMuqHims = [
     },
     "properties": {
     "kml_input_name":"Jabala|Jabalah / جبله|جبلة",
-    "Transliterated names":"Jabala|Jabalah ",
+    "transliterated_name":"Jabala|Jabalah ",
     "Name":" جبله|جبلة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5163,7 +5189,7 @@ var alMuqHims = [
     },
     "properties": {
     "kml_input_name":"Kafarṭāb / كفرطاب",
-    "Transliterated names":"Kafarṭāb ",
+    "transliterated_name":"Kafarṭāb ",
     "Name":" كفرطاب",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5203,7 +5229,7 @@ var alMuqHims = [
     },
     "properties": {
     "kml_input_name":"Tadmur / تدمر",
-    "Transliterated names":"Tadmur ",
+    "transliterated_name":"Tadmur ",
     "Name":" تدمر",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5235,9 +5261,11 @@ var alMuqHims = [
     "Comments":""
     }
   }
-];
+]};
 
-var alMuqQinn = [
+var alMuqQinn = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -5246,7 +5274,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"al-Suwaydiyya|al-Suwaydīh / السويديه|السويدية",
-    "Transliterated names":"al-Suwaydiyya|al-Suwaydīh ",
+    "transliterated_name":"al-Suwaydiyya|al-Suwaydīh ",
     "Name":" السويديه|السويدية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5286,7 +5314,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"Anṭākiya / أنطاكية",
-    "Transliterated names":"Anṭākiya ",
+    "transliterated_name":"Anṭākiya ",
     "Name":" أنطاكية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5326,7 +5354,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"Bālis / بالس",
-    "Transliterated names":"Bālis ",
+    "transliterated_name":"Bālis ",
     "Name":" بالس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5366,7 +5394,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"Bayyās / بياس",
-    "Transliterated names":"Bayyās ",
+    "transliterated_name":"Bayyās ",
     "Name":" بياس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5406,7 +5434,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"Ḥalab / حلب",
-    "Transliterated names":"Ḥalab ",
+    "transliterated_name":"Ḥalab ",
     "Name":" حلب",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5446,7 +5474,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"Ḥamā / حماة",
-    "Transliterated names":"Ḥamā ",
+    "transliterated_name":"Ḥamā ",
     "Name":" حماة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5486,7 +5514,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"Iskandarūna|Iskandariyya|al-Iskandariyya|al-Iskandarūnah / الاسكندرونه|اسكندرونة|اسكندريية|الاسكندريية",
-    "Transliterated names":"Iskandarūna|Iskandariyya|al-Iskandariyya|al-Iskandarūnah ",
+    "transliterated_name":"Iskandarūna|Iskandariyya|al-Iskandariyya|al-Iskandarūnah ",
     "Name":" الاسكندرونه|اسكندرونة|اسكندريية|الاسكندريية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5526,7 +5554,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"Jūsiya / جوسية",
-    "Transliterated names":"Jūsiya ",
+    "transliterated_name":"Jūsiya ",
     "Name":" جوسية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5566,7 +5594,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"Maʿarrat al-Nuʿmān|al-Maʿarra /المعرة|معرة النعمان",
-    "Transliterated names":"Maʿarrat al-Nuʿmān|al-Maʿarra ",
+    "transliterated_name":"Maʿarrat al-Nuʿmān|al-Maʿarra ",
     "Name":"المعرة|معرة النعمان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5606,7 +5634,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"Maʿarrat Qinnasrīn / معرة قنسرين",
-    "Transliterated names":"Maʿarrat Qinnasrīn ",
+    "transliterated_name":"Maʿarrat Qinnasrīn ",
     "Name":" معرة قنسرين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5646,7 +5674,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"Manbij / منبج",
-    "Transliterated names":"Manbij ",
+    "transliterated_name":"Manbij ",
     "Name":" منبج",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5686,7 +5714,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"Marʿash /  مرعش",
-    "Transliterated names":"Marʿash ",
+    "transliterated_name":"Marʿash ",
     "Name":"  مرعش",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5726,7 +5754,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"Qinnasrīn / قنسرين",
-    "Transliterated names":"Qinnasrīn ",
+    "transliterated_name":"Qinnasrīn ",
     "Name":" قنسرين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5766,7 +5794,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"Rafaniyya / رفنية",
-    "Transliterated names":"Rafaniyya ",
+    "transliterated_name":"Rafaniyya ",
     "Name":" رفنية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5806,7 +5834,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"Shayzar / شيزر",
-    "Transliterated names":"Shayzar ",
+    "transliterated_name":"Shayzar ",
     "Name":" شيزر",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5846,7 +5874,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"Sumaysāṭ / سميساط",
-    "Transliterated names":"Sumaysāṭ ",
+    "transliterated_name":"Sumaysāṭ ",
     "Name":" سميساط",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5886,7 +5914,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"Tīnāt|Ḥiṣn al-Tīnāt / تينات|حصن التينات",
-    "Transliterated names":"Tīnāt|Ḥiṣn al-Tīnāt ",
+    "transliterated_name":"Tīnāt|Ḥiṣn al-Tīnāt ",
     "Name":" تينات|حصن التينات",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5926,7 +5954,7 @@ var alMuqQinn = [
     },
     "properties": {
     "kml_input_name":"Wādī Buṭnān / وادي بطنان",
-    "Transliterated names":"Wādī Buṭnān ",
+    "transliterated_name":"Wādī Buṭnān ",
     "Name":" وادي بطنان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -5958,9 +5986,11 @@ var alMuqQinn = [
     "Comments":""
     }
   }
-];
+]};
 
-var alYaqalSham = [
+var alYaqalSham = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -5969,7 +5999,7 @@ var alYaqalSham = [
     },
     "properties": {
     "kml_input_name":"al-Miṣṣīṣa / المصيصة",
-    "Transliterated names":"al-Miṣṣīṣa ",
+    "transliterated_name":"al-Miṣṣīṣa ",
     "Name":" المصيصة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6009,7 +6039,7 @@ var alYaqalSham = [
     },
     "properties": {
     "kml_input_name":"Anṭākiya / أنطاكية",
-    "Transliterated names":"Anṭākiya ",
+    "transliterated_name":"Anṭākiya ",
     "Name":" أنطاكية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6049,7 +6079,7 @@ var alYaqalSham = [
     },
     "properties": {
     "kml_input_name":"ʿAyn Zarba / عين زربة",
-    "Transliterated names":"ʿAyn Zarba ",
+    "transliterated_name":"ʿAyn Zarba ",
     "Name":" عين زربة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6089,7 +6119,7 @@ var alYaqalSham = [
     },
     "properties": {
     "kml_input_name":"Ṭarsūs|Anṭarsūs|Anṭarṭūs / طرسوس|أنطرسوس|أنطرطوس",
-    "Transliterated names":"Ṭarsūs|Anṭarsūs|Anṭarṭūs ",
+    "transliterated_name":"Ṭarsūs|Anṭarsūs|Anṭarṭūs ",
     "Name":" طرسوس|أنطرسوس|أنطرطوس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6121,9 +6151,11 @@ var alYaqalSham = [
     "Comments":""
     }
   }
-];
+]};
 
-var alYaqalUrd = [
+var alYaqalUrd = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -6132,7 +6164,7 @@ var alYaqalUrd = [
     },
     "properties": {
     "kml_input_name":"ʿAkka|ʿAkkā / عكا|عكة",
-    "Transliterated names":"ʿAkka|ʿAkkā ",
+    "transliterated_name":"ʿAkka|ʿAkkā ",
     "Name":" عكا|عكة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6172,7 +6204,7 @@ var alYaqalUrd = [
     },
     "properties": {
     "kml_input_name":"Baysān|Babsān / ببسان|بيسان",
-    "Transliterated names":"Baysān|Babsān ",
+    "transliterated_name":"Baysān|Babsān ",
     "Name":" ببسان|بيسان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6212,7 +6244,7 @@ var alYaqalUrd = [
     },
     "properties": {
     "kml_input_name":"Fahl|Faḥl|Fiḥl / فحل|فهل",
-    "Transliterated names":"Fahl|Faḥl|Fiḥl ",
+    "transliterated_name":"Fahl|Faḥl|Fiḥl ",
     "Name":" فحل|فهل",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6252,7 +6284,7 @@ var alYaqalUrd = [
     },
     "properties": {
     "kml_input_name":"Jarash|Jurash / جرش",
-    "Transliterated names":"Jarash|Jurash ",
+    "transliterated_name":"Jarash|Jurash ",
     "Name":" جرش",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6292,7 +6324,7 @@ var alYaqalUrd = [
     },
     "properties": {
     "kml_input_name":"Qadas / قدس",
-    "Transliterated names":"Qadas ",
+    "transliterated_name":"Qadas ",
     "Name":" قدس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6332,7 +6364,7 @@ var alYaqalUrd = [
     },
     "properties": {
     "kml_input_name":"Ṣūr / صور",
-    "Transliterated names":"Ṣūr ",
+    "transliterated_name":"Ṣūr ",
     "Name":" صور",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6372,7 +6404,7 @@ var alYaqalUrd = [
     },
     "properties": {
     "kml_input_name":"Ṭabariyya / طبرية",
-    "Transliterated names":"Ṭabariyya ",
+    "transliterated_name":"Ṭabariyya ",
     "Name":" طبرية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6404,9 +6436,11 @@ var alYaqalUrd = [
     "Comments":""
     }
   }
-];
+]};
 
-var alYaqDim = [
+var alYaqDim = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -6415,7 +6449,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Adhriʿāt / أذرعات",
-    "Transliterated names":"Adhriʿāt ",
+    "transliterated_name":"Adhriʿāt ",
     "Name":" أذرعات",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6455,7 +6489,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Adhrūḥ|Adhruḥ / اذروح|اذرح",
-    "Transliterated names":"Adhrūḥ|Adhruḥ ",
+    "transliterated_name":"Adhrūḥ|Adhruḥ ",
     "Name":" اذروح|اذرح",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6495,7 +6529,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Balqāʾ / البلقاء",
-    "Transliterated names":"al-Balqāʾ ",
+    "transliterated_name":"al-Balqāʾ ",
     "Name":" البلقاء",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6535,7 +6569,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Bathaniyya / البثنية",
-    "Transliterated names":"al-Bathaniyya ",
+    "transliterated_name":"al-Bathaniyya ",
     "Name":" البثنية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6575,7 +6609,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Ghawr / الغور",
-    "Transliterated names":"al-Ghawr ",
+    "transliterated_name":"al-Ghawr ",
     "Name":" الغور",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6615,7 +6649,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Ghūṭa / الغوطة",
-    "Transliterated names":"al-Ghūṭa ",
+    "transliterated_name":"al-Ghūṭa ",
     "Name":" الغوطة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6655,7 +6689,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Ḥawrān|Ḥawrān / حوران|الحوران",
-    "Transliterated names":"al-Ḥawrān|Ḥawrān ",
+    "transliterated_name":"al-Ḥawrān|Ḥawrān ",
     "Name":" حوران|الحوران",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6695,7 +6729,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Jawlān / الجولان",
-    "Transliterated names":"al-Jawlān ",
+    "transliterated_name":"al-Jawlān ",
     "Name":" الجولان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6735,7 +6769,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Jibāl|Jibāl / الجبال|جبال",
-    "Transliterated names":"al-Jibāl|Jibāl ",
+    "transliterated_name":"al-Jibāl|Jibāl ",
     "Name":" الجبال|جبال",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6775,7 +6809,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Quṭayyifa / القطيفة",
-    "Transliterated names":"al-Quṭayyifa ",
+    "transliterated_name":"al-Quṭayyifa ",
     "Name":" القطيفة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6815,7 +6849,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Sharāt / الشرات",
-    "Transliterated names":"al-Sharāt ",
+    "transliterated_name":"al-Sharāt ",
     "Name":" الشرات",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6855,7 +6889,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"ʿAmmān / عمان",
-    "Transliterated names":"ʿAmmān ",
+    "transliterated_name":"ʿAmmān ",
     "Name":" عمان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6895,7 +6929,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"ʿAqabat al-Rummān / عقبة الرمان",
-    "Transliterated names":"ʿAqabat al-Rummān ",
+    "transliterated_name":"ʿAqabat al-Rummān ",
     "Name":" عقبة الرمان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6935,7 +6969,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"ʿArandal / عرندل",
-    "Transliterated names":"ʿArandal ",
+    "transliterated_name":"ʿArandal ",
     "Name":" عرندل",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -6975,7 +7009,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"ʿArqa|ʿArfa / عرفة|عرقة",
-    "Transliterated names":"ʿArqa|ʿArfa ",
+    "transliterated_name":"ʿArqa|ʿArfa ",
     "Name":" عرفة|عرقة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7015,7 +7049,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Aṭrābulus|Ṭarābulus / اطرابلس|طرابلس",
-    "Transliterated names":"Aṭrābulus|Ṭarābulus ",
+    "transliterated_name":"Aṭrābulus|Ṭarābulus ",
     "Name":" اطرابلس|طرابلس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7055,7 +7089,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Baʿlabakk / بعلبك",
-    "Transliterated names":"Baʿlabakk ",
+    "transliterated_name":"Baʿlabakk ",
     "Name":" بعلبك",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7095,7 +7129,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Bāniyās / بانياس",
-    "Transliterated names":"Bāniyās ",
+    "transliterated_name":"Bāniyās ",
     "Name":" بانياس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7135,7 +7169,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Bayrūt / بيروت",
-    "Transliterated names":"Bayrūt ",
+    "transliterated_name":"Bayrūt ",
     "Name":" بيروت",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7175,7 +7209,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Buṣrā / بصرى",
-    "Transliterated names":"Buṣrā ",
+    "transliterated_name":"Buṣrā ",
     "Name":" بصرى",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7215,7 +7249,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Dimashq / دمشق",
-    "Transliterated names":"Dimashq ",
+    "transliterated_name":"Dimashq ",
     "Name":" دمشق",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7255,7 +7289,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Jabal Sanīr / جبل سنير",
-    "Transliterated names":"Jabal Sanīr ",
+    "transliterated_name":"Jabal Sanīr ",
     "Name":" جبل سنير",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7295,7 +7329,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Jāsim / جاسم",
-    "Transliterated names":"Jāsim ",
+    "transliterated_name":"Jāsim ",
     "Name":" جاسم",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7335,7 +7369,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Jubayl / جبيل",
-    "Transliterated names":"Jubayl ",
+    "transliterated_name":"Jubayl ",
     "Name":" جبيل",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7375,7 +7409,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Khasfayn / خسفين",
-    "Transliterated names":"Khasfayn ",
+    "transliterated_name":"Khasfayn ",
     "Name":" خسفين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7415,7 +7449,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Maʾāb / مآب",
-    "Transliterated names":"Maʾāb ",
+    "transliterated_name":"Maʾāb ",
     "Name":" مآب",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7455,7 +7489,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Muʾta|Mūta / موتة|مؤتة",
-    "Transliterated names":"Muʾta|Mūta ",
+    "transliterated_name":"Muʾta|Mūta ",
     "Name":" موتة|مؤتة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7495,7 +7529,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Qāra|Qāra / قارة|قارا",
-    "Transliterated names":"Qāra|Qāra ",
+    "transliterated_name":"Qāra|Qāra ",
     "Name":" قارة|قارا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7535,7 +7569,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Riḥā|Rīḥā|Arīḥā|Arīḥāʾ / اريحاء|رحا|ريحا|أريحا",
-    "Transliterated names":"Riḥā|Rīḥā|Arīḥā|Arīḥāʾ ",
+    "transliterated_name":"Riḥā|Rīḥā|Arīḥā|Arīḥāʾ ",
     "Name":" اريحاء|رحا|ريحا|أريحا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7575,7 +7609,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Ṣaydāʾ|Ṣaydā / صيدا|صيداء",
-    "Transliterated names":"Ṣaydāʾ|Ṣaydā ",
+    "transliterated_name":"Ṣaydāʾ|Ṣaydā ",
     "Name":" صيدا|صيداء",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7615,7 +7649,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Ṣughar|Zughar / صغر|زغر",
-    "Transliterated names":"Ṣughar|Zughar ",
+    "transliterated_name":"Ṣughar|Zughar ",
     "Name":" صغر|زغر",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7655,7 +7689,7 @@ var alYaqDim = [
     },
     "properties": {
     "kml_input_name":"Suwaydāʾ|al-Suwaydā / السويدا|سويداء",
-    "Transliterated names":"Suwaydāʾ|al-Suwaydā ",
+    "transliterated_name":"Suwaydāʾ|al-Suwaydā ",
     "Name":" السويدا|سويداء",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7687,9 +7721,11 @@ var alYaqDim = [
     "Comments":""
     }
   }
-];
+]};
 
-var alYaqFil = [
+var alYaqFil = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -7698,7 +7734,7 @@ var alYaqFil = [
     },
     "properties": {
     "kml_input_name":"al-Ramla / الرملة",
-    "Transliterated names":"al-Ramla ",
+    "transliterated_name":"al-Ramla ",
     "Name":" الرملة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7738,7 +7774,7 @@ var alYaqFil = [
     },
     "properties": {
     "kml_input_name":"ʿAmawās / عمواس",
-    "Transliterated names":"ʿAmawās ",
+    "transliterated_name":"ʿAmawās ",
     "Name":" عمواس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7778,7 +7814,7 @@ var alYaqFil = [
     },
     "properties": {
     "kml_input_name":"ʿAsqalān / عسقلان",
-    "Transliterated names":"ʿAsqalān ",
+    "transliterated_name":"ʿAsqalān ",
     "Name":" عسقلان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7818,7 +7854,7 @@ var alYaqFil = [
     },
     "properties": {
     "kml_input_name":"Bayt al-Maqdis|al-Quds|Īliyā|Īliyāʾ / ايلياء|بيت المقدس|القدس|ايليا",
-    "Transliterated names":"Bayt al-Maqdis|al-Quds|Īliyā|Īliyāʾ ",
+    "transliterated_name":"Bayt al-Maqdis|al-Quds|Īliyā|Īliyāʾ ",
     "Name":" ايلياء|بيت المقدس|القدس|ايليا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7858,7 +7894,7 @@ var alYaqFil = [
     },
     "properties": {
     "kml_input_name":"Bayt Jibrīl|Bayt Jibrīn / بيت جبريل|بيت جبرين",
-    "Transliterated names":"Bayt Jibrīl|Bayt Jibrīn ",
+    "transliterated_name":"Bayt Jibrīl|Bayt Jibrīn ",
     "Name":" بيت جبريل|بيت جبرين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7898,7 +7934,7 @@ var alYaqFil = [
     },
     "properties": {
     "kml_input_name":"Buḥayrat al-Muntinat|Buḥayrat al-Maqlūbat|Buḥayrat al-Miyyatat|Buḥayrat al-Ṣughar / بحيرة المنتنة|بحيرة المقلوبة|بحيرة الميتة|بحيرة الصغر",
-    "Transliterated names":"Buḥayrat al-Muntinat|Buḥayrat al-Maqlūbat|Buḥayrat al-Miyyatat|Buḥayrat al-Ṣughar ",
+    "transliterated_name":"Buḥayrat al-Muntinat|Buḥayrat al-Maqlūbat|Buḥayrat al-Miyyatat|Buḥayrat al-Ṣughar ",
     "Name":" بحيرة المنتنة|بحيرة المقلوبة|بحيرة الميتة|بحيرة الصغر",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7938,7 +7974,7 @@ var alYaqFil = [
     },
     "properties": {
     "kml_input_name":"Ghazza / غزة",
-    "Transliterated names":"Ghazza ",
+    "transliterated_name":"Ghazza ",
     "Name":" غزة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -7978,7 +8014,7 @@ var alYaqFil = [
     },
     "properties": {
     "kml_input_name":"Ludd / لد",
-    "Transliterated names":"Ludd ",
+    "transliterated_name":"Ludd ",
     "Name":" لد",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8018,7 +8054,7 @@ var alYaqFil = [
     },
     "properties": {
     "kml_input_name":"Nābulus / نابلس",
-    "Transliterated names":"Nābulus ",
+    "transliterated_name":"Nābulus ",
     "Name":" نابلس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8058,7 +8094,7 @@ var alYaqFil = [
     },
     "properties": {
     "kml_input_name":"Qaysāriyya|Qaysariyya|Qaysārīh / قيساريّة|قيساريه|قيسرية",
-    "Transliterated names":"Qaysāriyya|Qaysariyya|Qaysārīh ",
+    "transliterated_name":"Qaysāriyya|Qaysariyya|Qaysārīh ",
     "Name":" قيساريّة|قيساريه|قيسرية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8098,7 +8134,7 @@ var alYaqFil = [
     },
     "properties": {
     "kml_input_name":"Sabasṭiya|Sabasṭa /  سبسطية|سبسطة",
-    "Transliterated names":"Sabasṭiya|Sabasṭa ",
+    "transliterated_name":"Sabasṭiya|Sabasṭa ",
     "Name":"  سبسطية|سبسطة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8138,7 +8174,7 @@ var alYaqFil = [
     },
     "properties": {
     "kml_input_name":"Yāfā|Yāfa / يافة|يافا",
-    "Transliterated names":"Yāfā|Yāfa ",
+    "transliterated_name":"Yāfā|Yāfa ",
     "Name":" يافة|يافا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8178,7 +8214,7 @@ var alYaqFil = [
     },
     "properties": {
     "kml_input_name":"Yubnā|Bīnā / بينا|يبنا",
-    "Transliterated names":"Yubnā|Bīnā ",
+    "transliterated_name":"Yubnā|Bīnā ",
     "Name":" بينا|يبنا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8210,9 +8246,11 @@ var alYaqFil = [
     "Comments":""
     }
   }
-];
+]};
 
-var alYaqHims = [
+var alYaqHims = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -8221,7 +8259,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"al-Aṭmīn|al-Laṭmīn|al-Iṭmīm / الإطميم|الأطمين|اللطمين",
-    "Transliterated names":"al-Aṭmīn|al-Laṭmīn|al-Iṭmīm ",
+    "transliterated_name":"al-Aṭmīn|al-Laṭmīn|al-Iṭmīm ",
     "Name":" الإطميم|الأطمين|اللطمين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8261,7 +8299,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"al-Bāra / البارة",
-    "Transliterated names":"al-Bāra ",
+    "transliterated_name":"al-Bāra ",
     "Name":" البارة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8301,7 +8339,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"al-Lādhiqiyya|al-Lādhiqīh / اللاذقيه|اللاذقية",
-    "Transliterated names":"al-Lādhiqiyya|al-Lādhiqīh ",
+    "transliterated_name":"al-Lādhiqiyya|al-Lādhiqīh ",
     "Name":" اللاذقيه|اللاذقية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8341,7 +8379,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"Anẓarẓūs|Anṭarṭūs|Anṭarsūs|Ṭarṭūs / انظرظوس|انطرطوس|انطرسوس|طرطوس",
-    "Transliterated names":"Anẓarẓūs|Anṭarṭūs|Anṭarsūs|Ṭarṭūs ",
+    "transliterated_name":"Anẓarẓūs|Anṭarṭūs|Anṭarsūs|Ṭarṭūs ",
     "Name":" انظرظوس|انطرطوس|انطرسوس|طرطوس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8381,7 +8419,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"Bulunyās / بلنياس",
-    "Transliterated names":"Bulunyās ",
+    "transliterated_name":"Bulunyās ",
     "Name":" بلنياس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8421,7 +8459,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"Fāmiyya|Afāmiya / افامية|فامية",
-    "Transliterated names":"Fāmiyya|Afāmiya ",
+    "transliterated_name":"Fāmiyya|Afāmiya ",
     "Name":" افامية|فامية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8461,7 +8499,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"Ḥamā / حماة",
-    "Transliterated names":"Ḥamā ",
+    "transliterated_name":"Ḥamā ",
     "Name":" حماة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8501,7 +8539,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"Ḥimṣ / حمص",
-    "Transliterated names":"Ḥimṣ ",
+    "transliterated_name":"Ḥimṣ ",
     "Name":" حمص",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8541,7 +8579,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"Ḥiṣn Salamiyya|Salamiyya|Bayt Salamiyya / بيت سلمية|حصن سلمية|سلمية",
-    "Transliterated names":"Ḥiṣn Salamiyya|Salamiyya|Bayt Salamiyya ",
+    "transliterated_name":"Ḥiṣn Salamiyya|Salamiyya|Bayt Salamiyya ",
     "Name":" بيت سلمية|حصن سلمية|سلمية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8581,7 +8619,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"Jabala|Jabalah / جبله|جبلة",
-    "Transliterated names":"Jabala|Jabalah ",
+    "transliterated_name":"Jabala|Jabalah ",
     "Name":" جبله|جبلة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8621,7 +8659,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"Jūsiya / جوسية",
-    "Transliterated names":"Jūsiya ",
+    "transliterated_name":"Jūsiya ",
     "Name":" جوسية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8661,7 +8699,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"Kafarṭāb / كفرطاب",
-    "Transliterated names":"Kafarṭāb ",
+    "transliterated_name":"Kafarṭāb ",
     "Name":" كفرطاب",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8701,7 +8739,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"Maʿarrat al-Nuʿmān|al-Maʿarra /المعرة|معرة النعمان",
-    "Transliterated names":"Maʿarrat al-Nuʿmān|al-Maʿarra ",
+    "transliterated_name":"Maʿarrat al-Nuʿmān|al-Maʿarra ",
     "Name":"المعرة|معرة النعمان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8741,7 +8779,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"Rastān|al-Rastan / الرستن|رستان",
-    "Transliterated names":"Rastān|al-Rastan ",
+    "transliterated_name":"Rastān|al-Rastan ",
     "Name":" الرستن|رستان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8781,7 +8819,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"Ṣawwarān / صوران",
-    "Transliterated names":"Ṣawwarān ",
+    "transliterated_name":"Ṣawwarān ",
     "Name":" صوران",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8821,7 +8859,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"Shayzar / شيزر",
-    "Transliterated names":"Shayzar ",
+    "transliterated_name":"Shayzar ",
     "Name":" شيزر",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8861,7 +8899,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"Tadmur / تدمر",
-    "Transliterated names":"Tadmur ",
+    "transliterated_name":"Tadmur ",
     "Name":" تدمر",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8901,7 +8939,7 @@ var alYaqHims = [
     },
     "properties": {
     "kml_input_name":"Tall Mannas / تل منس",
-    "Transliterated names":"Tall Mannas ",
+    "transliterated_name":"Tall Mannas ",
     "Name":" تل منس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8933,9 +8971,11 @@ var alYaqHims = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnalFaqalAw = [
+var ibnalFaqalAw = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -8944,7 +8984,7 @@ var ibnalFaqalAw = [
     },
     "properties": {
     "kml_input_name":"al-Jūma / الجومة",
-    "Transliterated names":"al-Jūma ",
+    "transliterated_name":"al-Jūma ",
     "Name":" الجومة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -8984,7 +9024,7 @@ var ibnalFaqalAw = [
     },
     "properties": {
     "kml_input_name":"al-Ruṣāfa|Ruṣāfa Hishām / رصافة هشام|الرصافة",
-    "Transliterated names":"al-Ruṣāfa|Ruṣāfa Hishām ",
+    "transliterated_name":"al-Ruṣāfa|Ruṣāfa Hishām ",
     "Name":" رصافة هشام|الرصافة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9024,7 +9064,7 @@ var ibnalFaqalAw = [
     },
     "properties": {
     "kml_input_name":"Anṭākiya / أنطاكية",
-    "Transliterated names":"Anṭākiya ",
+    "transliterated_name":"Anṭākiya ",
     "Name":" أنطاكية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9064,7 +9104,7 @@ var ibnalFaqalAw = [
     },
     "properties": {
     "kml_input_name":"Bālis / بالس",
-    "Transliterated names":"Bālis ",
+    "transliterated_name":"Bālis ",
     "Name":" بالس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9104,7 +9144,7 @@ var ibnalFaqalAw = [
     },
     "properties": {
     "kml_input_name":"Manbij / منبج",
-    "Transliterated names":"Manbij ",
+    "transliterated_name":"Manbij ",
     "Name":" منبج",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9144,7 +9184,7 @@ var ibnalFaqalAw = [
     },
     "properties": {
     "kml_input_name":"Qūrus / قورس",
-    "Transliterated names":"Qūrus ",
+    "transliterated_name":"Qūrus ",
     "Name":" قورس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9184,7 +9224,7 @@ var ibnalFaqalAw = [
     },
     "properties": {
     "kml_input_name":"Tīzīn|Tūzīn / تيزين|توزين",
-    "Transliterated names":"Tīzīn|Tūzīn ",
+    "transliterated_name":"Tīzīn|Tūzīn ",
     "Name":" تيزين|توزين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9216,9 +9256,11 @@ var ibnalFaqalAw = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnalFaqalUrd = [
+var ibnalFaqalUrd = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -9227,7 +9269,7 @@ var ibnalFaqalUrd = [
     },
     "properties": {
     "kml_input_name":"ʿAkka|ʿAkkā / عكا|عكة",
-    "Transliterated names":"ʿAkka|ʿAkkā ",
+    "transliterated_name":"ʿAkka|ʿAkkā ",
     "Name":" عكا|عكة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9267,7 +9309,7 @@ var ibnalFaqalUrd = [
     },
     "properties": {
     "kml_input_name":"Baysān / بيسان",
-    "Transliterated names":"Baysān ",
+    "transliterated_name":"Baysān ",
     "Name":" بيسان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9307,7 +9349,7 @@ var ibnalFaqalUrd = [
     },
     "properties": {
     "kml_input_name":"Fahl|Faḥl|Fiḥl / فحل|فهل",
-    "Transliterated names":"Fahl|Faḥl|Fiḥl ",
+    "transliterated_name":"Fahl|Faḥl|Fiḥl ",
     "Name":" فحل|فهل",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9347,7 +9389,7 @@ var ibnalFaqalUrd = [
     },
     "properties": {
     "kml_input_name":"Jarash|Jurash / جرش",
-    "Transliterated names":"Jarash|Jurash ",
+    "transliterated_name":"Jarash|Jurash ",
     "Name":" جرش",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9387,7 +9429,7 @@ var ibnalFaqalUrd = [
     },
     "properties": {
     "kml_input_name":"Qadas / قدس",
-    "Transliterated names":"Qadas ",
+    "transliterated_name":"Qadas ",
     "Name":" قدس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9427,7 +9469,7 @@ var ibnalFaqalUrd = [
     },
     "properties": {
     "kml_input_name":"Ṣūr / صور",
-    "Transliterated names":"Ṣūr ",
+    "transliterated_name":"Ṣūr ",
     "Name":" صور",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9467,7 +9509,7 @@ var ibnalFaqalUrd = [
     },
     "properties": {
     "kml_input_name":"Ṭabariyya / طبرية",
-    "Transliterated names":"Ṭabariyya ",
+    "transliterated_name":"Ṭabariyya ",
     "Name":" طبرية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9499,9 +9541,11 @@ var ibnalFaqalUrd = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnalFaqDim = [
+var ibnalFaqDim = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -9510,7 +9554,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Balqāʾ / البلقاء",
-    "Transliterated names":"al-Balqāʾ ",
+    "transliterated_name":"al-Balqāʾ ",
     "Name":" البلقاء",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9550,7 +9594,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Bathaniyya / البثنية",
-    "Transliterated names":"al-Bathaniyya ",
+    "transliterated_name":"al-Bathaniyya ",
     "Name":" البثنية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9590,7 +9634,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Biqāʿ / البقاع",
-    "Transliterated names":"al-Biqāʿ ",
+    "transliterated_name":"al-Biqāʿ ",
     "Name":" البقاع",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9630,7 +9674,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Ghūṭa / الغوطة",
-    "Transliterated names":"al-Ghūṭa ",
+    "transliterated_name":"al-Ghūṭa ",
     "Name":" الغوطة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9670,7 +9714,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Ḥawrān|Ḥawrān / حوران|الحوران",
-    "Transliterated names":"al-Ḥawrān|Ḥawrān ",
+    "transliterated_name":"al-Ḥawrān|Ḥawrān ",
     "Name":" حوران|الحوران",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9710,7 +9754,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Ḥula|al-Ḥūla / الحلة|الحولة",
-    "Transliterated names":"al-Ḥula|al-Ḥūla ",
+    "transliterated_name":"al-Ḥula|al-Ḥūla ",
     "Name":" الحلة|الحولة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9750,7 +9794,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Jābiya / الجابية",
-    "Transliterated names":"al-Jābiya ",
+    "transliterated_name":"al-Jābiya ",
     "Name":" الجابية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9790,7 +9834,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Jawlān / الجولان",
-    "Transliterated names":"al-Jawlān ",
+    "transliterated_name":"al-Jawlān ",
     "Name":" الجولان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9830,7 +9874,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Jibāl|Jibāl / الجبال|جبال",
-    "Transliterated names":"al-Jibāl|Jibāl ",
+    "transliterated_name":"al-Jibāl|Jibāl ",
     "Name":" الجبال|جبال",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9870,7 +9914,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Qaryatān|al-Qaryatayn / القريتين|القريتان",
-    "Transliterated names":"al-Qaryatān|al-Qaryatayn ",
+    "transliterated_name":"al-Qaryatān|al-Qaryatayn ",
     "Name":" القريتين|القريتان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9910,7 +9954,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"al-Sharāt / الشرات",
-    "Transliterated names":"al-Sharāt ",
+    "transliterated_name":"al-Sharāt ",
     "Name":" الشرات",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9950,7 +9994,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"ʿAmmān / عمان",
-    "Transliterated names":"ʿAmmān ",
+    "transliterated_name":"ʿAmmān ",
     "Name":" عمان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -9990,7 +10034,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"ʿArqa / عرقة",
-    "Transliterated names":"ʿArqa ",
+    "transliterated_name":"ʿArqa ",
     "Name":" عرقة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10030,7 +10074,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"Aṭrābulus|Ṭarābulus / اطرابلس|طرابلس",
-    "Transliterated names":"Aṭrābulus|Ṭarābulus ",
+    "transliterated_name":"Aṭrābulus|Ṭarābulus ",
     "Name":" اطرابلس|طرابلس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10070,7 +10114,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"Bayrūt / بيروت",
-    "Transliterated names":"Bayrūt ",
+    "transliterated_name":"Bayrūt ",
     "Name":" بيروت",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10110,7 +10154,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"Buṣrā / بصرى",
-    "Transliterated names":"Buṣrā ",
+    "transliterated_name":"Buṣrā ",
     "Name":" بصرى",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10150,7 +10194,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"Dimashq / دمشق",
-    "Transliterated names":"Dimashq ",
+    "transliterated_name":"Dimashq ",
     "Name":" دمشق",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10190,7 +10234,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"Jabal Sanīr / جبل سنير",
-    "Transliterated names":"Jabal Sanīr ",
+    "transliterated_name":"Jabal Sanīr ",
     "Name":" جبل سنير",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10230,7 +10274,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"Jubayl / جبيل",
-    "Transliterated names":"Jubayl ",
+    "transliterated_name":"Jubayl ",
     "Name":" جبيل",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10270,7 +10314,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"Maʾāb / مآب",
-    "Transliterated names":"Maʾāb ",
+    "transliterated_name":"Maʾāb ",
     "Name":" مآب",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10310,7 +10354,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"Ṣaydāʾ|Ṣaydā / صيدا|صيداء",
-    "Transliterated names":"Ṣaydāʾ|Ṣaydā ",
+    "transliterated_name":"Ṣaydāʾ|Ṣaydā ",
     "Name":" صيدا|صيداء",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10350,7 +10394,7 @@ var ibnalFaqDim = [
     },
     "properties": {
     "kml_input_name":"Ṣūr / صور",
-    "Transliterated names":"Ṣūr ",
+    "transliterated_name":"Ṣūr ",
     "Name":" صور",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10382,9 +10426,11 @@ var ibnalFaqDim = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnalFaqFil = [
+var ibnalFaqFil = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -10393,7 +10439,7 @@ var ibnalFaqFil = [
     },
     "properties": {
     "kml_input_name":"al-Ramla / الرملة",
-    "Transliterated names":"al-Ramla ",
+    "transliterated_name":"al-Ramla ",
     "Name":" الرملة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10433,7 +10479,7 @@ var ibnalFaqFil = [
     },
     "properties": {
     "kml_input_name":"ʿAmawās / عمواس",
-    "Transliterated names":"ʿAmawās ",
+    "transliterated_name":"ʿAmawās ",
     "Name":" عمواس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10473,7 +10519,7 @@ var ibnalFaqFil = [
     },
     "properties": {
     "kml_input_name":"ʿAsqalān / عسقلان",
-    "Transliterated names":"ʿAsqalān ",
+    "transliterated_name":"ʿAsqalān ",
     "Name":" عسقلان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10513,7 +10559,7 @@ var ibnalFaqFil = [
     },
     "properties": {
     "kml_input_name":"Bayt Jibrīl|Bayt Jibrīn / بيت جبريل|بيت جبرين",
-    "Transliterated names":"Bayt Jibrīl|Bayt Jibrīn ",
+    "transliterated_name":"Bayt Jibrīl|Bayt Jibrīn ",
     "Name":" بيت جبريل|بيت جبرين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10553,7 +10599,7 @@ var ibnalFaqFil = [
     },
     "properties": {
     "kml_input_name":"Ghazza / غزة",
-    "Transliterated names":"Ghazza ",
+    "transliterated_name":"Ghazza ",
     "Name":" غزة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10593,7 +10639,7 @@ var ibnalFaqFil = [
     },
     "properties": {
     "kml_input_name":"Ludd / لد",
-    "Transliterated names":"Ludd ",
+    "transliterated_name":"Ludd ",
     "Name":" لد",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10633,7 +10679,7 @@ var ibnalFaqFil = [
     },
     "properties": {
     "kml_input_name":"Nābulus / نابلس",
-    "Transliterated names":"Nābulus ",
+    "transliterated_name":"Nābulus ",
     "Name":" نابلس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10673,7 +10719,7 @@ var ibnalFaqFil = [
     },
     "properties": {
     "kml_input_name":"Qaysāriyya|Qaysariyya|Qaysārīh / قيساريّة|قيساريه|قيسرية",
-    "Transliterated names":"Qaysāriyya|Qaysariyya|Qaysārīh ",
+    "transliterated_name":"Qaysāriyya|Qaysariyya|Qaysārīh ",
     "Name":" قيساريّة|قيساريه|قيسرية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10713,7 +10759,7 @@ var ibnalFaqFil = [
     },
     "properties": {
     "kml_input_name":"Sabasṭiya|Sabasṭa /  سبسطية|سبسطة",
-    "Transliterated names":"Sabasṭiya|Sabasṭa ",
+    "transliterated_name":"Sabasṭiya|Sabasṭa ",
     "Name":"  سبسطية|سبسطة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10753,7 +10799,7 @@ var ibnalFaqFil = [
     },
     "properties": {
     "kml_input_name":"Yāfā|Yāfa / يافة|يافا",
-    "Transliterated names":"Yāfā|Yāfa ",
+    "transliterated_name":"Yāfā|Yāfa ",
     "Name":" يافة|يافا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10793,7 +10839,7 @@ var ibnalFaqFil = [
     },
     "properties": {
     "kml_input_name":"Yubnā / يبنا",
-    "Transliterated names":"Yubnā ",
+    "transliterated_name":"Yubnā ",
     "Name":" يبنا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10825,9 +10871,11 @@ var ibnalFaqFil = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnHawalJaz = [
+var ibnHawalJaz = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -10836,7 +10884,7 @@ var ibnHawalJaz = [
     },
     "properties": {
     "kml_input_name":"al-Ḥadath / الحدث",
-    "Transliterated names":"al-Ḥadath ",
+    "transliterated_name":"al-Ḥadath ",
     "Name":" الحدث",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10876,7 +10924,7 @@ var ibnHawalJaz = [
     },
     "properties": {
     "kml_input_name":"Ḥiṣn Manṣūr / حصن منصور",
-    "Transliterated names":"Ḥiṣn Manṣūr ",
+    "transliterated_name":"Ḥiṣn Manṣūr ",
     "Name":" حصن منصور",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10916,7 +10964,7 @@ var ibnHawalJaz = [
     },
     "properties": {
     "kml_input_name":"Malaṭya|Malaṭiyya / ملطية",
-    "Transliterated names":"Malaṭya|Malaṭiyya ",
+    "transliterated_name":"Malaṭya|Malaṭiyya ",
     "Name":" ملطية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10956,7 +11004,7 @@ var ibnHawalJaz = [
     },
     "properties": {
     "kml_input_name":"Marʿash /  مرعش",
-    "Transliterated names":"Marʿash ",
+    "transliterated_name":"Marʿash ",
     "Name":"  مرعش",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -10996,7 +11044,7 @@ var ibnHawalJaz = [
     },
     "properties": {
     "kml_input_name":"Qūrus / قورس",
-    "Transliterated names":"Qūrus ",
+    "transliterated_name":"Qūrus ",
     "Name":" قورس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11036,7 +11084,7 @@ var ibnHawalJaz = [
     },
     "properties": {
     "kml_input_name":"Shimshāṭ / شمشاط",
-    "Transliterated names":"Shimshāṭ ",
+    "transliterated_name":"Shimshāṭ ",
     "Name":" شمشاط",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11076,7 +11124,7 @@ var ibnHawalJaz = [
     },
     "properties": {
     "kml_input_name":"Sumaysāṭ / سميساط",
-    "Transliterated names":"Sumaysāṭ ",
+    "transliterated_name":"Sumaysāṭ ",
     "Name":" سميساط",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11116,7 +11164,7 @@ var ibnHawalJaz = [
     },
     "properties": {
     "kml_input_name":"Zibaṭra / زبطرة",
-    "Transliterated names":"Zibaṭra ",
+    "transliterated_name":"Zibaṭra ",
     "Name":" زبطرة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11148,9 +11196,11 @@ var ibnHawalJaz = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnHawalSham = [
+var ibnHawalSham = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -11159,7 +11209,7 @@ var ibnHawalSham = [
     },
     "properties": {
     "kml_input_name":"Adhana / أذنة",
-    "Transliterated names":"Adhana ",
+    "transliterated_name":"Adhana ",
     "Name":" أذنة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11199,7 +11249,7 @@ var ibnHawalSham = [
     },
     "properties": {
     "kml_input_name":"al-Hārūniyya / الهارونية",
-    "Transliterated names":"al-Hārūniyya ",
+    "transliterated_name":"al-Hārūniyya ",
     "Name":" الهارونية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11239,7 +11289,7 @@ var ibnHawalSham = [
     },
     "properties": {
     "kml_input_name":"al-Kanīsa / الكنيسة",
-    "Transliterated names":"al-Kanīsa ",
+    "transliterated_name":"al-Kanīsa ",
     "Name":" الكنيسة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11279,7 +11329,7 @@ var ibnHawalSham = [
     },
     "properties": {
     "kml_input_name":"al-Miṣṣīṣa / المصيصة",
-    "Transliterated names":"al-Miṣṣīṣa ",
+    "transliterated_name":"al-Miṣṣīṣa ",
     "Name":" المصيصة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11319,7 +11369,7 @@ var ibnHawalSham = [
     },
     "properties": {
     "kml_input_name":"Awlās / أولاس",
-    "Transliterated names":"Awlās ",
+    "transliterated_name":"Awlās ",
     "Name":" أولاس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11359,7 +11409,7 @@ var ibnHawalSham = [
     },
     "properties": {
     "kml_input_name":"ʿAyn Zarba / عين زربة",
-    "Transliterated names":"ʿAyn Zarba ",
+    "transliterated_name":"ʿAyn Zarba ",
     "Name":" عين زربة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11399,7 +11449,7 @@ var ibnHawalSham = [
     },
     "properties": {
     "kml_input_name":"Bayyās / بياس",
-    "Transliterated names":"Bayyās ",
+    "transliterated_name":"Bayyās ",
     "Name":" بياس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11439,7 +11489,7 @@ var ibnHawalSham = [
     },
     "properties": {
     "kml_input_name":"Iskandarūna|Iskandariyya|al-Iskandariyya|al-Iskandarūnah / الاسكندرونه|اسكندرونة|اسكندريية|الاسكندريية",
-    "Transliterated names":"Iskandarūna|Iskandariyya|al-Iskandariyya|al-Iskandarūnah ",
+    "transliterated_name":"Iskandarūna|Iskandariyya|al-Iskandariyya|al-Iskandarūnah ",
     "Name":" الاسكندرونه|اسكندرونة|اسكندريية|الاسكندريية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11479,7 +11529,7 @@ var ibnHawalSham = [
     },
     "properties": {
     "kml_input_name":"Ṭarsūs|Anṭarsūs|Anṭarṭūs / طرسوس|أنطرسوس|أنطرطوس",
-    "Transliterated names":"Ṭarsūs|Anṭarsūs|Anṭarṭūs ",
+    "transliterated_name":"Ṭarsūs|Anṭarsūs|Anṭarṭūs ",
     "Name":" طرسوس|أنطرسوس|أنطرطوس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11511,9 +11561,11 @@ var ibnHawalSham = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnHawalUrd = [
+var ibnHawalUrd = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -11522,7 +11574,7 @@ var ibnHawalUrd = [
     },
     "properties": {
     "kml_input_name":"ʿAkka|ʿAkkā / عكا|عكة",
-    "Transliterated names":"ʿAkka|ʿAkkā ",
+    "transliterated_name":"ʿAkka|ʿAkkā ",
     "Name":" عكا|عكة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11562,7 +11614,7 @@ var ibnHawalUrd = [
     },
     "properties": {
     "kml_input_name":"ʿAqabat al-Fīq|ʿAqaba Fīq|Afīq|Fīq / عقبة فيق|عقبة الفيق|أفيق|فيق",
-    "Transliterated names":"ʿAqabat al-Fīq|ʿAqaba Fīq|Afīq|Fīq ",
+    "transliterated_name":"ʿAqabat al-Fīq|ʿAqaba Fīq|Afīq|Fīq ",
     "Name":" عقبة فيق|عقبة الفيق|أفيق|فيق",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11602,7 +11654,7 @@ var ibnHawalUrd = [
     },
     "properties": {
     "kml_input_name":"Baysān / بيسان",
-    "Transliterated names":"Baysān ",
+    "transliterated_name":"Baysān ",
     "Name":" بيسان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11642,7 +11694,7 @@ var ibnHawalUrd = [
     },
     "properties": {
     "kml_input_name":"Jubb Yūsuf / جب يوسف",
-    "Transliterated names":"Jubb Yūsuf ",
+    "transliterated_name":"Jubb Yūsuf ",
     "Name":" جب يوسف",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11682,7 +11734,7 @@ var ibnHawalUrd = [
     },
     "properties": {
     "kml_input_name":"Ṣūr / صور",
-    "Transliterated names":"Ṣūr ",
+    "transliterated_name":"Ṣūr ",
     "Name":" صور",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11722,7 +11774,7 @@ var ibnHawalUrd = [
     },
     "properties": {
     "kml_input_name":"Ṭabariyya / طبرية",
-    "Transliterated names":"Ṭabariyya ",
+    "transliterated_name":"Ṭabariyya ",
     "Name":" طبرية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11754,9 +11806,11 @@ var ibnHawalUrd = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnHawDim = [
+var ibnHawDim = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -11765,7 +11819,7 @@ var ibnHawDim = [
     },
     "properties": {
     "kml_input_name":"Adhriʿāt / أذرعات",
-    "Transliterated names":"Adhriʿāt ",
+    "transliterated_name":"Adhriʿāt ",
     "Name":" أذرعات",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11805,7 +11859,7 @@ var ibnHawDim = [
     },
     "properties": {
     "kml_input_name":"al-Bathaniyya / البثنية",
-    "Transliterated names":"al-Bathaniyya ",
+    "transliterated_name":"al-Bathaniyya ",
     "Name":" البثنية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11845,7 +11899,7 @@ var ibnHawDim = [
     },
     "properties": {
     "kml_input_name":"al-Fīja / الفيجة",
-    "Transliterated names":"al-Fīja ",
+    "transliterated_name":"al-Fīja ",
     "Name":" الفيجة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11885,7 +11939,7 @@ var ibnHawDim = [
     },
     "properties": {
     "kml_input_name":"al-Ghūṭa / الغوطة",
-    "Transliterated names":"al-Ghūṭa ",
+    "transliterated_name":"al-Ghūṭa ",
     "Name":" الغوطة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11925,7 +11979,7 @@ var ibnHawDim = [
     },
     "properties": {
     "kml_input_name":"al-Ḥawrān|Ḥawrān / حوران|الحوران",
-    "Transliterated names":"al-Ḥawrān|Ḥawrān ",
+    "transliterated_name":"al-Ḥawrān|Ḥawrān ",
     "Name":" حوران|الحوران",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -11965,7 +12019,7 @@ var ibnHawDim = [
     },
     "properties": {
     "kml_input_name":"Aṭrābulus|Ṭarābulus / اطرابلس|طرابلس",
-    "Transliterated names":"Aṭrābulus|Ṭarābulus ",
+    "transliterated_name":"Aṭrābulus|Ṭarābulus ",
     "Name":" اطرابلس|طرابلس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12005,7 +12059,7 @@ var ibnHawDim = [
     },
     "properties": {
     "kml_input_name":"Baʿlabakk / بعلبك",
-    "Transliterated names":"Baʿlabakk ",
+    "transliterated_name":"Baʿlabakk ",
     "Name":" بعلبك",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12045,7 +12099,7 @@ var ibnHawDim = [
     },
     "properties": {
     "kml_input_name":"Bayrūt / بيروت",
-    "Transliterated names":"Bayrūt ",
+    "transliterated_name":"Bayrūt ",
     "Name":" بيروت",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12085,7 +12139,7 @@ var ibnHawDim = [
     },
     "properties": {
     "kml_input_name":"Dimashq / دمشق",
-    "Transliterated names":"Dimashq ",
+    "transliterated_name":"Dimashq ",
     "Name":" دمشق",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12125,7 +12179,7 @@ var ibnHawDim = [
     },
     "properties": {
     "kml_input_name":"Ṣaydāʾ|Ṣaydā / صيدا|صيداء",
-    "Transliterated names":"Ṣaydāʾ|Ṣaydā ",
+    "transliterated_name":"Ṣaydāʾ|Ṣaydā ",
     "Name":" صيدا|صيداء",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12157,9 +12211,11 @@ var ibnHawDim = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnHawFil = [
+var ibnHawFil = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -12168,7 +12224,7 @@ var ibnHawFil = [
     },
     "properties": {
     "kml_input_name":"al-Balqāʾ / البلقاء",
-    "Transliterated names":"al-Balqāʾ ",
+    "transliterated_name":"al-Balqāʾ ",
     "Name":" البلقاء",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12208,7 +12264,7 @@ var ibnHawFil = [
     },
     "properties": {
     "kml_input_name":"al-Lajjūn / اللجون",
-    "Transliterated names":"al-Lajjūn ",
+    "transliterated_name":"al-Lajjūn ",
     "Name":" اللجون",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12248,7 +12304,7 @@ var ibnHawFil = [
     },
     "properties": {
     "kml_input_name":"al-Ramla / الرملة",
-    "Transliterated names":"al-Ramla ",
+    "transliterated_name":"al-Ramla ",
     "Name":" الرملة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12288,7 +12344,7 @@ var ibnHawFil = [
     },
     "properties": {
     "kml_input_name":"ʿAsqalān / عسقلان",
-    "Transliterated names":"ʿAsqalān ",
+    "transliterated_name":"ʿAsqalān ",
     "Name":" عسقلان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12328,7 +12384,7 @@ var ibnHawFil = [
     },
     "properties": {
     "kml_input_name":"Ayla|Wayla / أيلة|ويلة",
-    "Transliterated names":"Ayla|Wayla ",
+    "transliterated_name":"Ayla|Wayla ",
     "Name":" أيلة|ويلة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12368,7 +12424,7 @@ var ibnHawFil = [
     },
     "properties": {
     "kml_input_name":"Ghazza / غزة",
-    "Transliterated names":"Ghazza ",
+    "transliterated_name":"Ghazza ",
     "Name":" غزة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12408,7 +12464,7 @@ var ibnHawFil = [
     },
     "properties": {
     "kml_input_name":"Ḥabrat|Ḥabrā|al-Khalīl|Ḥabrūn|Masjid Ibrāhīm|Qubr Ibrāhīm|Bayt Ibrāhīm / قبر ابراهيم|بيت ابراهيم|حبرة|حبرى|الخليل|حبرون|مسجد إبراهيم",
-    "Transliterated names":"Ḥabrat|Ḥabrā|al-Khalīl|Ḥabrūn|Masjid Ibrāhīm|Qubr Ibrāhīm|Bayt Ibrāhīm ",
+    "transliterated_name":"Ḥabrat|Ḥabrā|al-Khalīl|Ḥabrūn|Masjid Ibrāhīm|Qubr Ibrāhīm|Bayt Ibrāhīm ",
     "Name":" قبر ابراهيم|بيت ابراهيم|حبرة|حبرى|الخليل|حبرون|مسجد إبراهيم",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12448,7 +12504,7 @@ var ibnHawFil = [
     },
     "properties": {
     "kml_input_name":"Kafarsābā|Kafar Sābā / كفر سابا|كفرسابا",
-    "Transliterated names":"Kafarsābā|Kafar Sābā ",
+    "transliterated_name":"Kafarsābā|Kafar Sābā ",
     "Name":" كفر سابا|كفرسابا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12488,7 +12544,7 @@ var ibnHawFil = [
     },
     "properties": {
     "kml_input_name":"Nābulus / نابلس",
-    "Transliterated names":"Nābulus ",
+    "transliterated_name":"Nābulus ",
     "Name":" نابلس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12528,7 +12584,7 @@ var ibnHawFil = [
     },
     "properties": {
     "kml_input_name":"Qaysāriyya|Qaysariyya|Qaysārīh / قيساريّة|قيساريه|قيسرية",
-    "Transliterated names":"Qaysāriyya|Qaysariyya|Qaysārīh ",
+    "transliterated_name":"Qaysāriyya|Qaysariyya|Qaysārīh ",
     "Name":" قيساريّة|قيساريه|قيسرية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12568,7 +12624,7 @@ var ibnHawFil = [
     },
     "properties": {
     "kml_input_name":"Rafḥ|Rafaḥ / رفح",
-    "Transliterated names":"Rafḥ|Rafaḥ ",
+    "transliterated_name":"Rafḥ|Rafaḥ ",
     "Name":" رفح",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12608,7 +12664,7 @@ var ibnHawFil = [
     },
     "properties": {
     "kml_input_name":"Riḥā|Rīḥā|Arīḥā|Arīḥāʾ / اريحاء|رحا|ريحا|أريحا",
-    "Transliterated names":"Riḥā|Rīḥā|Arīḥā|Arīḥāʾ ",
+    "transliterated_name":"Riḥā|Rīḥā|Arīḥā|Arīḥāʾ ",
     "Name":" اريحاء|رحا|ريحا|أريحا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12648,7 +12704,7 @@ var ibnHawFil = [
     },
     "properties": {
     "kml_input_name":"Ṣughar|Zughar / صغر|زغر",
-    "Transliterated names":"Ṣughar|Zughar ",
+    "transliterated_name":"Ṣughar|Zughar ",
     "Name":" صغر|زغر",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12688,7 +12744,7 @@ var ibnHawFil = [
     },
     "properties": {
     "kml_input_name":"Yāfā / يافا",
-    "Transliterated names":"Yāfā ",
+    "transliterated_name":"Yāfā ",
     "Name":" يافا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12720,9 +12776,11 @@ var ibnHawFil = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnHawHims = [
+var ibnHawHims = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -12731,7 +12789,7 @@ var ibnHawHims = [
     },
     "properties": {
     "kml_input_name":"Anẓarẓūs|Anṭarṭūs|Anṭarsūs|Ṭarṭūs / انظرظوس|انطرطوس|انطرسوس|طرطوس",
-    "Transliterated names":"Anẓarẓūs|Anṭarṭūs|Anṭarsūs|Ṭarṭūs ",
+    "transliterated_name":"Anẓarẓūs|Anṭarṭūs|Anṭarsūs|Ṭarṭūs ",
     "Name":" انظرظوس|انطرطوس|انطرسوس|طرطوس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12771,7 +12829,7 @@ var ibnHawHims = [
     },
     "properties": {
     "kml_input_name":"Ḥamā / حماة",
-    "Transliterated names":"Ḥamā ",
+    "transliterated_name":"Ḥamā ",
     "Name":" حماة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12811,7 +12869,7 @@ var ibnHawHims = [
     },
     "properties": {
     "kml_input_name":"Ḥimṣ / حمص",
-    "Transliterated names":"Ḥimṣ ",
+    "transliterated_name":"Ḥimṣ ",
     "Name":" حمص",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12851,7 +12909,7 @@ var ibnHawHims = [
     },
     "properties": {
     "kml_input_name":"Shayzar / شيزر",
-    "Transliterated names":"Shayzar ",
+    "transliterated_name":"Shayzar ",
     "Name":" شيزر",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12883,9 +12941,11 @@ var ibnHawHims = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnHawQinn = [
+var ibnHawQinn = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -12894,7 +12954,7 @@ var ibnHawQinn = [
     },
     "properties": {
     "kml_input_name":"al-Athārib / الاثارب",
-    "Transliterated names":"al-Athārib ",
+    "transliterated_name":"al-Athārib ",
     "Name":" الاثارب",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12934,7 +12994,7 @@ var ibnHawQinn = [
     },
     "properties": {
     "kml_input_name":"al-Khunāṣira|Khunāṣira / خناصرة|الخناصرة",
-    "Transliterated names":"al-Khunāṣira|Khunāṣira ",
+    "transliterated_name":"al-Khunāṣira|Khunāṣira ",
     "Name":" خناصرة|الخناصرة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -12974,7 +13034,7 @@ var ibnHawQinn = [
     },
     "properties": {
     "kml_input_name":"Bālis / بالس",
-    "Transliterated names":"Bālis ",
+    "transliterated_name":"Bālis ",
     "Name":" بالس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13014,7 +13074,7 @@ var ibnHawQinn = [
     },
     "properties": {
     "kml_input_name":"Ḥalab / حلب",
-    "Transliterated names":"Ḥalab ",
+    "transliterated_name":"Ḥalab ",
     "Name":" حلب",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13054,7 +13114,7 @@ var ibnHawQinn = [
     },
     "properties": {
     "kml_input_name":"Ḥiṣn Barzūya / حصن برزوية",
-    "Transliterated names":"Ḥiṣn Barzūya ",
+    "transliterated_name":"Ḥiṣn Barzūya ",
     "Name":" حصن برزوية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13094,7 +13154,7 @@ var ibnHawQinn = [
     },
     "properties": {
     "kml_input_name":"Jabala|Jabalah / جبله|جبلة",
-    "Transliterated names":"Jabala|Jabalah ",
+    "transliterated_name":"Jabala|Jabalah ",
     "Name":" جبله|جبلة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13134,7 +13194,7 @@ var ibnHawQinn = [
     },
     "properties": {
     "kml_input_name":"Maʿarrat al-Nuʿmān|al-Maʿarra /المعرة|معرة النعمان",
-    "Transliterated names":"Maʿarrat al-Nuʿmān|al-Maʿarra ",
+    "transliterated_name":"Maʿarrat al-Nuʿmān|al-Maʿarra ",
     "Name":"المعرة|معرة النعمان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13174,7 +13234,7 @@ var ibnHawQinn = [
     },
     "properties": {
     "kml_input_name":"Manbij / منبج",
-    "Transliterated names":"Manbij ",
+    "transliterated_name":"Manbij ",
     "Name":" منبج",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13214,7 +13274,7 @@ var ibnHawQinn = [
     },
     "properties": {
     "kml_input_name":"Qinnasrīn / قنسرين",
-    "Transliterated names":"Qinnasrīn ",
+    "transliterated_name":"Qinnasrīn ",
     "Name":" قنسرين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13254,7 +13314,7 @@ var ibnHawQinn = [
     },
     "properties": {
     "kml_input_name":"Qūrus / قورس",
-    "Transliterated names":"Qūrus ",
+    "transliterated_name":"Qūrus ",
     "Name":" قورس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13286,9 +13346,11 @@ var ibnHawQinn = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnKhurralAw = [
+var ibnKhurralAw = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -13297,7 +13359,7 @@ var ibnKhurralAw = [
     },
     "properties": {
     "kml_input_name":"al-Jūma / الجومة",
-    "Transliterated names":"al-Jūma ",
+    "transliterated_name":"al-Jūma ",
     "Name":" الجومة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13337,7 +13399,7 @@ var ibnKhurralAw = [
     },
     "properties": {
     "kml_input_name":"al-Ruṣāfa / الرصافة",
-    "Transliterated names":"al-Ruṣāfa ",
+    "transliterated_name":"al-Ruṣāfa ",
     "Name":" الرصافة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13377,7 +13439,7 @@ var ibnKhurralAw = [
     },
     "properties": {
     "kml_input_name":"Anṭākiya / أنطاكية",
-    "Transliterated names":"Anṭākiya ",
+    "transliterated_name":"Anṭākiya ",
     "Name":" أنطاكية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13417,7 +13479,7 @@ var ibnKhurralAw = [
     },
     "properties": {
     "kml_input_name":"Bālis / بالس",
-    "Transliterated names":"Bālis ",
+    "transliterated_name":"Bālis ",
     "Name":" بالس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13457,7 +13519,7 @@ var ibnKhurralAw = [
     },
     "properties": {
     "kml_input_name":"Būqā / بوقا",
-    "Transliterated names":"Būqā ",
+    "transliterated_name":"Būqā ",
     "Name":" بوقا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13497,7 +13559,7 @@ var ibnKhurralAw = [
     },
     "properties": {
     "kml_input_name":"Manbij / منبج",
-    "Transliterated names":"Manbij ",
+    "transliterated_name":"Manbij ",
     "Name":" منبج",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13537,7 +13599,7 @@ var ibnKhurralAw = [
     },
     "properties": {
     "kml_input_name":"Qūrus / قورس",
-    "Transliterated names":"Qūrus ",
+    "transliterated_name":"Qūrus ",
     "Name":" قورس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13577,7 +13639,7 @@ var ibnKhurralAw = [
     },
     "properties": {
     "kml_input_name":"Tīzīn|Tūzīn / تيزين|توزين",
-    "Transliterated names":"Tīzīn|Tūzīn ",
+    "transliterated_name":"Tīzīn|Tūzīn ",
     "Name":" تيزين|توزين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13609,9 +13671,11 @@ var ibnKhurralAw = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnKhurralJaz = [
+var ibnKhurralJaz = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -13620,7 +13684,7 @@ var ibnKhurralJaz = [
     },
     "properties": {
     "kml_input_name":"al-Ḥadath / الحدث",
-    "Transliterated names":"al-Ḥadath ",
+    "transliterated_name":"al-Ḥadath ",
     "Name":" الحدث",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13660,7 +13724,7 @@ var ibnKhurralJaz = [
     },
     "properties": {
     "kml_input_name":"Dulūk / دلوك",
-    "Transliterated names":"Dulūk ",
+    "transliterated_name":"Dulūk ",
     "Name":" دلوك",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13700,7 +13764,7 @@ var ibnKhurralJaz = [
     },
     "properties": {
     "kml_input_name":"Ḥiṣn Manṣūr / حصن منصور",
-    "Transliterated names":"Ḥiṣn Manṣūr ",
+    "transliterated_name":"Ḥiṣn Manṣūr ",
     "Name":" حصن منصور",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13740,7 +13804,7 @@ var ibnKhurralJaz = [
     },
     "properties": {
     "kml_input_name":"Kamkh / كمخ",
-    "Transliterated names":"Kamkh ",
+    "transliterated_name":"Kamkh ",
     "Name":" كمخ",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13780,7 +13844,7 @@ var ibnKhurralJaz = [
     },
     "properties": {
     "kml_input_name":"Kaysūm / كيسوم",
-    "Transliterated names":"Kaysūm ",
+    "transliterated_name":"Kaysūm ",
     "Name":" كيسوم",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13820,7 +13884,7 @@ var ibnKhurralJaz = [
     },
     "properties": {
     "kml_input_name":"Malaṭya|Malaṭiyya / ملطية",
-    "Transliterated names":"Malaṭya|Malaṭiyya ",
+    "transliterated_name":"Malaṭya|Malaṭiyya ",
     "Name":" ملطية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13860,7 +13924,7 @@ var ibnKhurralJaz = [
     },
     "properties": {
     "kml_input_name":"Marʿash /  مرعش",
-    "Transliterated names":"Marʿash ",
+    "transliterated_name":"Marʿash ",
     "Name":"  مرعش",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13900,7 +13964,7 @@ var ibnKhurralJaz = [
     },
     "properties": {
     "kml_input_name":"Qūrus / قورس",
-    "Transliterated names":"Qūrus ",
+    "transliterated_name":"Qūrus ",
     "Name":" قورس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13940,7 +14004,7 @@ var ibnKhurralJaz = [
     },
     "properties": {
     "kml_input_name":"Raʿbān / رعبان",
-    "Transliterated names":"Raʿbān ",
+    "transliterated_name":"Raʿbān ",
     "Name":" رعبان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -13980,7 +14044,7 @@ var ibnKhurralJaz = [
     },
     "properties": {
     "kml_input_name":"Shimshāṭ / شمشاط",
-    "Transliterated names":"Shimshāṭ ",
+    "transliterated_name":"Shimshāṭ ",
     "Name":" شمشاط",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14020,7 +14084,7 @@ var ibnKhurralJaz = [
     },
     "properties": {
     "kml_input_name":"Zibaṭra / زبطرة",
-    "Transliterated names":"Zibaṭra ",
+    "transliterated_name":"Zibaṭra ",
     "Name":" زبطرة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14052,9 +14116,11 @@ var ibnKhurralJaz = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnKhurralSham = [
+var ibnKhurralSham = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -14063,7 +14129,7 @@ var ibnKhurralSham = [
     },
     "properties": {
     "kml_input_name":"al-Hārūniyya / الهارونية",
-    "Transliterated names":"al-Hārūniyya ",
+    "transliterated_name":"al-Hārūniyya ",
     "Name":" الهارونية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14103,7 +14169,7 @@ var ibnKhurralSham = [
     },
     "properties": {
     "kml_input_name":"al-Kanīsa / الكنيسة",
-    "Transliterated names":"al-Kanīsa ",
+    "transliterated_name":"al-Kanīsa ",
     "Name":" الكنيسة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14143,7 +14209,7 @@ var ibnKhurralSham = [
     },
     "properties": {
     "kml_input_name":"ʿAyn Zarba / عين زربة",
-    "Transliterated names":"ʿAyn Zarba ",
+    "transliterated_name":"ʿAyn Zarba ",
     "Name":" عين زربة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14175,9 +14241,11 @@ var ibnKhurralSham = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnKhurralUrd = [
+var ibnKhurralUrd = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -14186,7 +14254,7 @@ var ibnKhurralUrd = [
     },
     "properties": {
     "kml_input_name":"Ābil / آبل",
-    "Transliterated names":"Ābil ",
+    "transliterated_name":"Ābil ",
     "Name":" آبل",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14226,7 +14294,7 @@ var ibnKhurralUrd = [
     },
     "properties": {
     "kml_input_name":"ʿAkka|ʿAkkā / عكا|عكة",
-    "Transliterated names":"ʿAkka|ʿAkkā ",
+    "transliterated_name":"ʿAkka|ʿAkkā ",
     "Name":" عكا|عكة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14266,7 +14334,7 @@ var ibnKhurralUrd = [
     },
     "properties": {
     "kml_input_name":"Baysān / بيسان",
-    "Transliterated names":"Baysān ",
+    "transliterated_name":"Baysān ",
     "Name":" بيسان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14306,7 +14374,7 @@ var ibnKhurralUrd = [
     },
     "properties": {
     "kml_input_name":"Bayt al-Rām|Bayt Rāmat|Bayt al-Rās / بيت الرام|بيت رامة|بيت الراس",
-    "Transliterated names":"Bayt al-Rām|Bayt Rāmat|Bayt al-Rās ",
+    "transliterated_name":"Bayt al-Rām|Bayt Rāmat|Bayt al-Rās ",
     "Name":" بيت الرام|بيت رامة|بيت الراس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14346,7 +14414,7 @@ var ibnKhurralUrd = [
     },
     "properties": {
     "kml_input_name":"Fahl|Faḥl|Fiḥl / فحل|فهل",
-    "Transliterated names":"Fahl|Faḥl|Fiḥl ",
+    "transliterated_name":"Fahl|Faḥl|Fiḥl ",
     "Name":" فحل|فهل",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14386,7 +14454,7 @@ var ibnKhurralUrd = [
     },
     "properties": {
     "kml_input_name":"Jadar / جدر",
-    "Transliterated names":"Jadar ",
+    "transliterated_name":"Jadar ",
     "Name":" جدر",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14426,7 +14494,7 @@ var ibnKhurralUrd = [
     },
     "properties": {
     "kml_input_name":"Jarash|Jurash / جرش",
-    "Transliterated names":"Jarash|Jurash ",
+    "transliterated_name":"Jarash|Jurash ",
     "Name":" جرش",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14466,7 +14534,7 @@ var ibnKhurralUrd = [
     },
     "properties": {
     "kml_input_name":"Qadas / قدس",
-    "Transliterated names":"Qadas ",
+    "transliterated_name":"Qadas ",
     "Name":" قدس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14506,7 +14574,7 @@ var ibnKhurralUrd = [
     },
     "properties": {
     "kml_input_name":"Ṣaffūriyya /  صفورية",
-    "Transliterated names":"Ṣaffūriyya ",
+    "transliterated_name":"Ṣaffūriyya ",
     "Name":"  صفورية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14546,7 +14614,7 @@ var ibnKhurralUrd = [
     },
     "properties": {
     "kml_input_name":"Ṣūr / صور",
-    "Transliterated names":"Ṣūr ",
+    "transliterated_name":"Ṣūr ",
     "Name":" صور",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14586,7 +14654,7 @@ var ibnKhurralUrd = [
     },
     "properties": {
     "kml_input_name":"Ṭabariyya / طبرية",
-    "Transliterated names":"Ṭabariyya ",
+    "transliterated_name":"Ṭabariyya ",
     "Name":" طبرية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14618,9 +14686,11 @@ var ibnKhurralUrd = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnKhurrDim = [
+var ibnKhurrDim = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -14629,7 +14699,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"al-Balqāʾ / البلقاء",
-    "Transliterated names":"al-Balqāʾ ",
+    "transliterated_name":"al-Balqāʾ ",
     "Name":" البلقاء",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14669,7 +14739,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"al-Bathaniyya / البثنية",
-    "Transliterated names":"al-Bathaniyya ",
+    "transliterated_name":"al-Bathaniyya ",
     "Name":" البثنية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14709,7 +14779,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"al-Biqāʿ / البقاع",
-    "Transliterated names":"al-Biqāʿ ",
+    "transliterated_name":"al-Biqāʿ ",
     "Name":" البقاع",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14749,7 +14819,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"al-Ghūṭa / الغوطة",
-    "Transliterated names":"al-Ghūṭa ",
+    "transliterated_name":"al-Ghūṭa ",
     "Name":" الغوطة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14789,7 +14859,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"al-Ḥawrān|Ḥawrān / حوران|الحوران",
-    "Transliterated names":"al-Ḥawrān|Ḥawrān ",
+    "transliterated_name":"al-Ḥawrān|Ḥawrān ",
     "Name":" حوران|الحوران",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14829,7 +14899,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"al-Jābiya / الجابية",
-    "Transliterated names":"al-Jābiya ",
+    "transliterated_name":"al-Jābiya ",
     "Name":" الجابية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14869,7 +14939,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"al-Jawlān / الجولان",
-    "Transliterated names":"al-Jawlān ",
+    "transliterated_name":"al-Jawlān ",
     "Name":" الجولان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14909,7 +14979,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"al-Jibāl|Jibāl / الجبال|جبال",
-    "Transliterated names":"al-Jibāl|Jibāl ",
+    "transliterated_name":"al-Jibāl|Jibāl ",
     "Name":" الجبال|جبال",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14949,7 +15019,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"al-Sharāt / الشرات",
-    "Transliterated names":"al-Sharāt ",
+    "transliterated_name":"al-Sharāt ",
     "Name":" الشرات",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -14989,7 +15059,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"ʿAmmān / عمان",
-    "Transliterated names":"ʿAmmān ",
+    "transliterated_name":"ʿAmmān ",
     "Name":" عمان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15029,7 +15099,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"Aṭrābulus|Ṭarābulus / اطرابلس|طرابلس",
-    "Transliterated names":"Aṭrābulus|Ṭarābulus ",
+    "transliterated_name":"Aṭrābulus|Ṭarābulus ",
     "Name":" اطرابلس|طرابلس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15069,7 +15139,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"Baʿlabakk / بعلبك",
-    "Transliterated names":"Baʿlabakk ",
+    "transliterated_name":"Baʿlabakk ",
     "Name":" بعلبك",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15109,7 +15179,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"Bayrūt / بيروت",
-    "Transliterated names":"Bayrūt ",
+    "transliterated_name":"Bayrūt ",
     "Name":" بيروت",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15149,7 +15219,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"Buṣrā / بصرى",
-    "Transliterated names":"Buṣrā ",
+    "transliterated_name":"Buṣrā ",
     "Name":" بصرى",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15189,7 +15259,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"Jabal Lubnān / جبل لبنان",
-    "Transliterated names":"Jabal Lubnān ",
+    "transliterated_name":"Jabal Lubnān ",
     "Name":" جبل لبنان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15229,7 +15299,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"Jabal Sanīr / جبل سنير",
-    "Transliterated names":"Jabal Sanīr ",
+    "transliterated_name":"Jabal Sanīr ",
     "Name":" جبل سنير",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15269,7 +15339,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"Jubayl / جبيل",
-    "Transliterated names":"Jubayl ",
+    "transliterated_name":"Jubayl ",
     "Name":" جبيل",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15309,7 +15379,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"Juniyya|Jūniyya|Jūnīh / جونيه|جونية|جنية",
-    "Transliterated names":"Juniyya|Jūniyya|Jūnīh ",
+    "transliterated_name":"Juniyya|Jūniyya|Jūnīh ",
     "Name":" جونيه|جونية|جنية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15349,7 +15419,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"Maʾāb / مآب",
-    "Transliterated names":"Maʾāb ",
+    "transliterated_name":"Maʾāb ",
     "Name":" مآب",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15389,7 +15459,7 @@ var ibnKhurrDim = [
     },
     "properties": {
     "kml_input_name":"Ṣaydāʾ|Ṣaydā / صيدا|صيداء",
-    "Transliterated names":"Ṣaydāʾ|Ṣaydā ",
+    "transliterated_name":"Ṣaydāʾ|Ṣaydā ",
     "Name":" صيدا|صيداء",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15421,9 +15491,11 @@ var ibnKhurrDim = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnKhurrFil = [
+var ibnKhurrFil = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -15432,7 +15504,7 @@ var ibnKhurrFil = [
     },
     "properties": {
     "kml_input_name":"al-Ramla / الرملة",
-    "Transliterated names":"al-Ramla ",
+    "transliterated_name":"al-Ramla ",
     "Name":" الرملة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15472,7 +15544,7 @@ var ibnKhurrFil = [
     },
     "properties": {
     "kml_input_name":"ʿAmawās / عمواس",
-    "Transliterated names":"ʿAmawās ",
+    "transliterated_name":"ʿAmawās ",
     "Name":" عمواس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15512,7 +15584,7 @@ var ibnKhurrFil = [
     },
     "properties": {
     "kml_input_name":"ʿAsqalān / عسقلان",
-    "Transliterated names":"ʿAsqalān ",
+    "transliterated_name":"ʿAsqalān ",
     "Name":" عسقلان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15552,7 +15624,7 @@ var ibnKhurrFil = [
     },
     "properties": {
     "kml_input_name":"Bayt al-Maqdis|al-Quds|Īliyā / بيت المقدس|القدس|إيليا",
-    "Transliterated names":"Bayt al-Maqdis|al-Quds|Īliyā ",
+    "transliterated_name":"Bayt al-Maqdis|al-Quds|Īliyā ",
     "Name":" بيت المقدس|القدس|إيليا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15592,7 +15664,7 @@ var ibnKhurrFil = [
     },
     "properties": {
     "kml_input_name":"Bayt Jibrīl|Bayt Jibrīn / بيت جبريل|بيت جبرين",
-    "Transliterated names":"Bayt Jibrīl|Bayt Jibrīn ",
+    "transliterated_name":"Bayt Jibrīl|Bayt Jibrīn ",
     "Name":" بيت جبريل|بيت جبرين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15632,7 +15704,7 @@ var ibnKhurrFil = [
     },
     "properties": {
     "kml_input_name":"Ghazza / غزة",
-    "Transliterated names":"Ghazza ",
+    "transliterated_name":"Ghazza ",
     "Name":" غزة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15672,7 +15744,7 @@ var ibnKhurrFil = [
     },
     "properties": {
     "kml_input_name":"Ḥabrat|Ḥabrā|al-Khalīl|Ḥabrūn|Masjid Ibrāhīm|Qubr Ibrāhīm|Bayt Ibrāhīm / قبر ابراهيم|بيت ابراهيم|حبرة|حبرى|الخليل|حبرون|مسجد إبراهيم",
-    "Transliterated names":"Ḥabrat|Ḥabrā|al-Khalīl|Ḥabrūn|Masjid Ibrāhīm|Qubr Ibrāhīm|Bayt Ibrāhīm ",
+    "transliterated_name":"Ḥabrat|Ḥabrā|al-Khalīl|Ḥabrūn|Masjid Ibrāhīm|Qubr Ibrāhīm|Bayt Ibrāhīm ",
     "Name":" قبر ابراهيم|بيت ابراهيم|حبرة|حبرى|الخليل|حبرون|مسجد إبراهيم",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15712,7 +15784,7 @@ var ibnKhurrFil = [
     },
     "properties": {
     "kml_input_name":"Ludd / لد",
-    "Transliterated names":"Ludd ",
+    "transliterated_name":"Ludd ",
     "Name":" لد",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15752,7 +15824,7 @@ var ibnKhurrFil = [
     },
     "properties": {
     "kml_input_name":"Nābulus / نابلس",
-    "Transliterated names":"Nābulus ",
+    "transliterated_name":"Nābulus ",
     "Name":" نابلس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15792,7 +15864,7 @@ var ibnKhurrFil = [
     },
     "properties": {
     "kml_input_name":"Qaysāriyya|Qaysariyya|Qaysārīh / قيساريّة|قيساريه|قيسرية",
-    "Transliterated names":"Qaysāriyya|Qaysariyya|Qaysārīh ",
+    "transliterated_name":"Qaysāriyya|Qaysariyya|Qaysārīh ",
     "Name":" قيساريّة|قيساريه|قيسرية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15832,7 +15904,7 @@ var ibnKhurrFil = [
     },
     "properties": {
     "kml_input_name":"Sabasṭiya|Sabasṭa /  سبسطية|سبسطة",
-    "Transliterated names":"Sabasṭiya|Sabasṭa ",
+    "transliterated_name":"Sabasṭiya|Sabasṭa ",
     "Name":"  سبسطية|سبسطة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15872,7 +15944,7 @@ var ibnKhurrFil = [
     },
     "properties": {
     "kml_input_name":"Yāfā / يافا",
-    "Transliterated names":"Yāfā ",
+    "transliterated_name":"Yāfā ",
     "Name":" يافا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15912,7 +15984,7 @@ var ibnKhurrFil = [
     },
     "properties": {
     "kml_input_name":"Yubnā / يبنا",
-    "Transliterated names":"Yubnā ",
+    "transliterated_name":"Yubnā ",
     "Name":" يبنا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15944,9 +16016,11 @@ var ibnKhurrFil = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnKhurrHims = [
+var ibnKhurrHims = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -15955,7 +16029,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"al-Aṭmīn|al-Laṭmīn / الأطمين|اللطمين",
-    "Transliterated names":"al-Aṭmīn|al-Laṭmīn ",
+    "transliterated_name":"al-Aṭmīn|al-Laṭmīn ",
     "Name":" الأطمين|اللطمين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -15995,7 +16069,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"al-Bāra / البارة",
-    "Transliterated names":"al-Bāra ",
+    "transliterated_name":"al-Bāra ",
     "Name":" البارة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16035,7 +16109,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"al-Ḥula|al-Ḥūla / الحلة|الحولة",
-    "Transliterated names":"al-Ḥula|al-Ḥūla ",
+    "transliterated_name":"al-Ḥula|al-Ḥūla ",
     "Name":" الحلة|الحولة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16075,7 +16149,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"al-Lādhiqiyya|al-Lādhiqīh / اللاذقيه|اللاذقية",
-    "Transliterated names":"al-Lādhiqiyya|al-Lādhiqīh ",
+    "transliterated_name":"al-Lādhiqiyya|al-Lādhiqīh ",
     "Name":" اللاذقيه|اللاذقية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16115,7 +16189,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"al-Qasṭal / القسطل",
-    "Transliterated names":"al-Qasṭal ",
+    "transliterated_name":"al-Qasṭal ",
     "Name":" القسطل",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16128,7 +16202,7 @@ var ibnKhurrHims = [
     "location_certainty":"",
     "date":"",
     "descr":"",
-    "id":"there are three villages called al-Qastal in this area: al-Qastal (= Google Earth's al-Wastani); al-Qastal al-Shimali (to the North); and Qastal al-Ghazi (to the south)",
+    "id":"there are three villages called al-Qastal in this area: al-Qastal (Google Earth's al-Wastani); al-Qastal al-Shimali (to the North); and Qastal al-Ghazi (to the south)",
     "loc":"Geonames place marker al-Qastal (http://www.geonames.org/165947/al-qastal.html)",
     "note":"",
     "pic":"",
@@ -16155,8 +16229,8 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"Anẓarẓūs|Anṭarṭūs|Anṭarsūs|Ṭarṭūs / انظرظوس|انطرطوس|انطرسوس|طرطوس",
-    "Transliterated names":"Anẓarẓūs|Anṭarṭūs|Anṭarsūs|Ṭarṭūs ",
-    "Name":" انظرظوس|انطرطوس|انطرسوس|طرطوس",
+    "transliterated_name":"Anṭarsūs|Ṭarṭūs ",
+    "Name":" انظرظوس|انطرطوسس",
     "Standardised transliterated name":"",
     "standardized_name":"",
     "author-specific_name":"",
@@ -16195,7 +16269,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"Bulunyās / بلنياس",
-    "Transliterated names":"Bulunyās ",
+    "transliterated_name":"Bulunyās ",
     "Name":" بلنياس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16235,7 +16309,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"Fāmiyya / فامية",
-    "Transliterated names":"Fāmiyya ",
+    "transliterated_name":"Fāmiyya ",
     "Name":" فامية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16275,7 +16349,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"Ḥamā / حماة",
-    "Transliterated names":"Ḥamā ",
+    "transliterated_name":"Ḥamā ",
     "Name":" حماة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16315,7 +16389,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"Ḥiṣn Salamiyya|Salamiyya / حصن سلمية|سلمية",
-    "Transliterated names":"Ḥiṣn Salamiyya|Salamiyya ",
+    "transliterated_name":"Ḥiṣn Salamiyya|Salamiyya ",
     "Name":" حصن سلمية|سلمية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16355,7 +16429,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"Jabal Lubnān / جبل لبنان",
-    "Transliterated names":"Jabal Lubnān ",
+    "transliterated_name":"Jabal Lubnān ",
     "Name":" جبل لبنان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16395,7 +16469,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"Jabala|Jabalah / جبله|جبلة",
-    "Transliterated names":"Jabala|Jabalah ",
+    "transliterated_name":"Jabala|Jabalah ",
     "Name":" جبله|جبلة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16435,7 +16509,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"Jūsiya / جوسية",
-    "Transliterated names":"Jūsiya ",
+    "transliterated_name":"Jūsiya ",
     "Name":" جوسية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16475,7 +16549,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"Kafarṭāb / كفرطاب",
-    "Transliterated names":"Kafarṭāb ",
+    "transliterated_name":"Kafarṭāb ",
     "Name":" كفرطاب",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16515,7 +16589,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"Maʿarrat al-Nuʿmān|al-Maʿarra /المعرة|معرة النعمان",
-    "Transliterated names":"Maʿarrat al-Nuʿmān|al-Maʿarra ",
+    "transliterated_name":"Maʿarrat al-Nuʿmān|al-Maʿarra ",
     "Name":"المعرة|معرة النعمان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16555,7 +16629,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"Marāqiyya|Marāqīh / مراقيه|مراقية",
-    "Transliterated names":"Marāqiyya|Marāqīh ",
+    "transliterated_name":"Marāqiyya|Marāqīh ",
     "Name":" مراقيه|مراقية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16595,7 +16669,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"Rafaniyya / رفنية",
-    "Transliterated names":"Rafaniyya ",
+    "transliterated_name":"Rafaniyya ",
     "Name":" رفنية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16635,7 +16709,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"Ṣawwarān / صوران",
-    "Transliterated names":"Ṣawwarān ",
+    "transliterated_name":"Ṣawwarān ",
     "Name":" صوران",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16675,7 +16749,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"Shayzar / شيزر",
-    "Transliterated names":"Shayzar ",
+    "transliterated_name":"Shayzar ",
     "Name":" شيزر",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16715,7 +16789,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"Tadmur / تدمر",
-    "Transliterated names":"Tadmur ",
+    "transliterated_name":"Tadmur ",
     "Name":" تدمر",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16755,7 +16829,7 @@ var ibnKhurrHims = [
     },
     "properties": {
     "kml_input_name":"Tall Mannas / تل منس",
-    "Transliterated names":"Tall Mannas ",
+    "transliterated_name":"Tall Mannas ",
     "Name":" تل منس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16787,9 +16861,11 @@ var ibnKhurrHims = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnKhurrQinn = [
+var ibnKhurrQinn = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -16798,7 +16874,7 @@ var ibnKhurrQinn = [
     },
     "properties": {
     "kml_input_name":"Dulūk / دلوك",
-    "Transliterated names":"Dulūk ",
+    "transliterated_name":"Dulūk ",
     "Name":" دلوك",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16838,7 +16914,7 @@ var ibnKhurrQinn = [
     },
     "properties": {
     "kml_input_name":"Ḥalab / حلب",
-    "Transliterated names":"Ḥalab ",
+    "transliterated_name":"Ḥalab ",
     "Name":" حلب",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16878,7 +16954,7 @@ var ibnKhurrQinn = [
     },
     "properties": {
     "kml_input_name":"Ḥiyār Banī l-Qaʿqāʿ / حيار بنى القعقاع",
-    "Transliterated names":"Ḥiyār Banī l-Qaʿqāʿ ",
+    "transliterated_name":"Ḥiyār Banī l-Qaʿqāʿ ",
     "Name":" حيار بنى القعقاع",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16918,7 +16994,7 @@ var ibnKhurrQinn = [
     },
     "properties": {
     "kml_input_name":"Maʿarrat Qinnasrīn / معرة قنسرين",
-    "Transliterated names":"Maʿarrat Qinnasrīn ",
+    "transliterated_name":"Maʿarrat Qinnasrīn ",
     "Name":" معرة قنسرين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16958,7 +17034,7 @@ var ibnKhurrQinn = [
     },
     "properties": {
     "kml_input_name":"Martaḥwān / مرتحوان",
-    "Transliterated names":"Martaḥwān ",
+    "transliterated_name":"Martaḥwān ",
     "Name":" مرتحوان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -16998,7 +17074,7 @@ var ibnKhurrQinn = [
     },
     "properties": {
     "kml_input_name":"Raʿbān / رعبان",
-    "Transliterated names":"Raʿbān ",
+    "transliterated_name":"Raʿbān ",
     "Name":" رعبان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17038,7 +17114,7 @@ var ibnKhurrQinn = [
     },
     "properties": {
     "kml_input_name":"Sarmīn / سرمين",
-    "Transliterated names":"Sarmīn ",
+    "transliterated_name":"Sarmīn ",
     "Name":" سرمين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17070,9 +17146,11 @@ var ibnKhurrQinn = [
     "Comments":""
     }
   }
-];
+]};
 
-var qudalJaz = [
+var qudalJaz = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -17081,7 +17159,7 @@ var qudalJaz = [
     },
     "properties": {
     "kml_input_name":"al-Ḥadath / الحدث",
-    "Transliterated names":"al-Ḥadath ",
+    "transliterated_name":"al-Ḥadath ",
     "Name":" الحدث",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17121,7 +17199,7 @@ var qudalJaz = [
     },
     "properties": {
     "kml_input_name":"Ḥiṣn Manṣūr / حصن منصور",
-    "Transliterated names":"Ḥiṣn Manṣūr ",
+    "transliterated_name":"Ḥiṣn Manṣūr ",
     "Name":" حصن منصور",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17161,7 +17239,7 @@ var qudalJaz = [
     },
     "properties": {
     "kml_input_name":"Kaysūm / كيسوم",
-    "Transliterated names":"Kaysūm ",
+    "transliterated_name":"Kaysūm ",
     "Name":" كيسوم",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17201,7 +17279,7 @@ var qudalJaz = [
     },
     "properties": {
     "kml_input_name":"Malaṭya|Malaṭiyya / ملطية",
-    "Transliterated names":"Malaṭya|Malaṭiyya ",
+    "transliterated_name":"Malaṭya|Malaṭiyya ",
     "Name":" ملطية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17241,7 +17319,7 @@ var qudalJaz = [
     },
     "properties": {
     "kml_input_name":"Marʿash /  مرعش",
-    "Transliterated names":"Marʿash ",
+    "transliterated_name":"Marʿash ",
     "Name":"  مرعش",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17281,7 +17359,7 @@ var qudalJaz = [
     },
     "properties": {
     "kml_input_name":"Sumaysāṭ / سميساط",
-    "Transliterated names":"Sumaysāṭ ",
+    "transliterated_name":"Sumaysāṭ ",
     "Name":" سميساط",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17321,7 +17399,7 @@ var qudalJaz = [
     },
     "properties": {
     "kml_input_name":"Zibaṭra / زبطرة",
-    "Transliterated names":"Zibaṭra ",
+    "transliterated_name":"Zibaṭra ",
     "Name":" زبطرة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17353,9 +17431,11 @@ var qudalJaz = [
     "Comments":""
     }
   }
-];
+]};
 
-var qudalSham = [
+var qudalSham = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -17364,7 +17444,7 @@ var qudalSham = [
     },
     "properties": {
     "kml_input_name":"Adhana / أذنة",
-    "Transliterated names":"Adhana ",
+    "transliterated_name":"Adhana ",
     "Name":" أذنة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17404,7 +17484,7 @@ var qudalSham = [
     },
     "properties": {
     "kml_input_name":"al-Hārūniyya / الهارونية",
-    "Transliterated names":"al-Hārūniyya ",
+    "transliterated_name":"al-Hārūniyya ",
     "Name":" الهارونية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17444,7 +17524,7 @@ var qudalSham = [
     },
     "properties": {
     "kml_input_name":"al-Kanīsa / الكنيسة",
-    "Transliterated names":"al-Kanīsa ",
+    "transliterated_name":"al-Kanīsa ",
     "Name":" الكنيسة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17484,7 +17564,7 @@ var qudalSham = [
     },
     "properties": {
     "kml_input_name":"al-Miṣṣīṣa / المصيصة",
-    "Transliterated names":"al-Miṣṣīṣa ",
+    "transliterated_name":"al-Miṣṣīṣa ",
     "Name":" المصيصة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17524,7 +17604,7 @@ var qudalSham = [
     },
     "properties": {
     "kml_input_name":"ʿAyn Zarba / عين زربة",
-    "Transliterated names":"ʿAyn Zarba ",
+    "transliterated_name":"ʿAyn Zarba ",
     "Name":" عين زربة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17564,7 +17644,7 @@ var qudalSham = [
     },
     "properties": {
     "kml_input_name":"Bayyās / بياس",
-    "Transliterated names":"Bayyās ",
+    "transliterated_name":"Bayyās ",
     "Name":" بياس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17604,7 +17684,7 @@ var qudalSham = [
     },
     "properties": {
     "kml_input_name":"Ṭarsūs|Anṭarsūs|Anṭarṭūs / طرسوس|أنطرسوس|أنطرطوس",
-    "Transliterated names":"Ṭarsūs|Anṭarsūs|Anṭarṭūs ",
+    "transliterated_name":"Ṭarsūs|Anṭarsūs|Anṭarṭūs ",
     "Name":" طرسوس|أنطرسوس|أنطرطوس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17636,9 +17716,11 @@ var qudalSham = [
     "Comments":""
     }
   }
-];
+]};
 
-var qudalUrd = [
+var qudalUrd = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -17647,7 +17729,7 @@ var qudalUrd = [
     },
     "properties": {
     "kml_input_name":"ʿAkka|ʿAkkā / عكا|عكة",
-    "Transliterated names":"ʿAkka|ʿAkkā ",
+    "transliterated_name":"ʿAkka|ʿAkkā ",
     "Name":" عكا|عكة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17687,7 +17769,7 @@ var qudalUrd = [
     },
     "properties": {
     "kml_input_name":"al-Lajjūn / اللجون",
-    "Transliterated names":"al-Lajjūn ",
+    "transliterated_name":"al-Lajjūn ",
     "Name":" اللجون",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17727,7 +17809,7 @@ var qudalUrd = [
     },
     "properties": {
     "kml_input_name":"ʿAqabat al-Fīq|ʿAqaba Fīq|Afīq|Fīq / عقبة فيق|عقبة الفيق|أفيق|فيق",
-    "Transliterated names":"ʿAqabat al-Fīq|ʿAqaba Fīq|Afīq|Fīq ",
+    "transliterated_name":"ʿAqabat al-Fīq|ʿAqaba Fīq|Afīq|Fīq ",
     "Name":" عقبة فيق|عقبة الفيق|أفيق|فيق",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17767,7 +17849,7 @@ var qudalUrd = [
     },
     "properties": {
     "kml_input_name":"Baysān / بيسان",
-    "Transliterated names":"Baysān ",
+    "transliterated_name":"Baysān ",
     "Name":" بيسان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17807,7 +17889,7 @@ var qudalUrd = [
     },
     "properties": {
     "kml_input_name":"Bayt al-Rām|Bayt Rāmat|Bayt al-Rās|Bayt Raʾs / بيت رأس|بيت الرام|بيت رامة|بيت الراس",
-    "Transliterated names":"Bayt al-Rām|Bayt Rāmat|Bayt al-Rās|Bayt Raʾs ",
+    "transliterated_name":"Bayt al-Rām|Bayt Rāmat|Bayt al-Rās|Bayt Raʾs ",
     "Name":" بيت رأس|بيت الرام|بيت رامة|بيت الراس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17847,7 +17929,7 @@ var qudalUrd = [
     },
     "properties": {
     "kml_input_name":"Jarash|Jurash / جرش",
-    "Transliterated names":"Jarash|Jurash ",
+    "transliterated_name":"Jarash|Jurash ",
     "Name":" جرش",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17887,7 +17969,7 @@ var qudalUrd = [
     },
     "properties": {
     "kml_input_name":"Qadas / قدس",
-    "Transliterated names":"Qadas ",
+    "transliterated_name":"Qadas ",
     "Name":" قدس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17927,7 +18009,7 @@ var qudalUrd = [
     },
     "properties": {
     "kml_input_name":"Ṣaffūriyya /  صفورية",
-    "Transliterated names":"Ṣaffūriyya ",
+    "transliterated_name":"Ṣaffūriyya ",
     "Name":"  صفورية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17967,7 +18049,7 @@ var qudalUrd = [
     },
     "properties": {
     "kml_input_name":"Ṣūr / صور",
-    "Transliterated names":"Ṣūr ",
+    "transliterated_name":"Ṣūr ",
     "Name":" صور",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -17999,9 +18081,11 @@ var qudalUrd = [
     "Comments":""
     }
   }
-];
+]};
 
-var qudDim = [
+var qudDim = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -18010,7 +18094,7 @@ var qudDim = [
     },
     "properties": {
     "kml_input_name":"ʿArqa / عرقة",
-    "Transliterated names":"ʿArqa ",
+    "transliterated_name":"ʿArqa ",
     "Name":" عرقة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18050,7 +18134,7 @@ var qudDim = [
     },
     "properties": {
     "kml_input_name":"Bayrūt / بيروت",
-    "Transliterated names":"Bayrūt ",
+    "transliterated_name":"Bayrūt ",
     "Name":" بيروت",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18090,7 +18174,7 @@ var qudDim = [
     },
     "properties": {
     "kml_input_name":"Jubayl / جبيل",
-    "Transliterated names":"Jubayl ",
+    "transliterated_name":"Jubayl ",
     "Name":" جبيل",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18130,7 +18214,7 @@ var qudDim = [
     },
     "properties": {
     "kml_input_name":"Ṣaydāʾ|Ṣaydā / صيدا|صيداء",
-    "Transliterated names":"Ṣaydāʾ|Ṣaydā ",
+    "transliterated_name":"Ṣaydāʾ|Ṣaydā ",
     "Name":" صيدا|صيداء",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18162,9 +18246,11 @@ var qudDim = [
     "Comments":""
     }
   }
-];
+]};
 
-var qudFil = [
+var qudFil = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -18173,7 +18259,7 @@ var qudFil = [
     },
     "properties": {
     "kml_input_name":"ʿAmawās / عمواس",
-    "Transliterated names":"ʿAmawās ",
+    "transliterated_name":"ʿAmawās ",
     "Name":" عمواس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18213,7 +18299,7 @@ var qudFil = [
     },
     "properties": {
     "kml_input_name":"ʿAsqalān / عسقلان",
-    "Transliterated names":"ʿAsqalān ",
+    "transliterated_name":"ʿAsqalān ",
     "Name":" عسقلان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18253,7 +18339,7 @@ var qudFil = [
     },
     "properties": {
     "kml_input_name":"Bayt al-Maqdis|al-Quds|Īliyā|Īliyāʾ / ايلياء|بيت المقدس|القدس|ايليا",
-    "Transliterated names":"Bayt al-Maqdis|al-Quds|Īliyā|Īliyāʾ ",
+    "transliterated_name":"Bayt al-Maqdis|al-Quds|Īliyā|Īliyāʾ ",
     "Name":" ايلياء|بيت المقدس|القدس|ايليا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18293,7 +18379,7 @@ var qudFil = [
     },
     "properties": {
     "kml_input_name":"Bayt Jibrīl|Bayt Jibrīn / بيت جبريل|بيت جبرين",
-    "Transliterated names":"Bayt Jibrīl|Bayt Jibrīn ",
+    "transliterated_name":"Bayt Jibrīl|Bayt Jibrīn ",
     "Name":" بيت جبريل|بيت جبرين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18333,7 +18419,7 @@ var qudFil = [
     },
     "properties": {
     "kml_input_name":"Ghazza / غزة",
-    "Transliterated names":"Ghazza ",
+    "transliterated_name":"Ghazza ",
     "Name":" غزة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18373,7 +18459,7 @@ var qudFil = [
     },
     "properties": {
     "kml_input_name":"Ludd / لد",
-    "Transliterated names":"Ludd ",
+    "transliterated_name":"Ludd ",
     "Name":" لد",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18413,7 +18499,7 @@ var qudFil = [
     },
     "properties": {
     "kml_input_name":"Nābulus / نابلس",
-    "Transliterated names":"Nābulus ",
+    "transliterated_name":"Nābulus ",
     "Name":" نابلس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18453,7 +18539,7 @@ var qudFil = [
     },
     "properties": {
     "kml_input_name":"Qaysāriyya|Qaysariyya|Qaysārīh / قيساريّة|قيساريه|قيسرية",
-    "Transliterated names":"Qaysāriyya|Qaysariyya|Qaysārīh ",
+    "transliterated_name":"Qaysāriyya|Qaysariyya|Qaysārīh ",
     "Name":" قيساريّة|قيساريه|قيسرية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18493,7 +18579,7 @@ var qudFil = [
     },
     "properties": {
     "kml_input_name":"Rafḥ|Rafaḥ / رفح",
-    "Transliterated names":"Rafḥ|Rafaḥ ",
+    "transliterated_name":"Rafḥ|Rafaḥ ",
     "Name":" رفح",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18533,7 +18619,7 @@ var qudFil = [
     },
     "properties": {
     "kml_input_name":"Sabasṭiya|Sabasṭa /  سبسطية|سبسطة",
-    "Transliterated names":"Sabasṭiya|Sabasṭa ",
+    "transliterated_name":"Sabasṭiya|Sabasṭa ",
     "Name":"  سبسطية|سبسطة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18573,7 +18659,7 @@ var qudFil = [
     },
     "properties": {
     "kml_input_name":"Yāfā|Yāfa / يافة|يافا",
-    "Transliterated names":"Yāfā|Yāfa ",
+    "transliterated_name":"Yāfā|Yāfa ",
     "Name":" يافة|يافا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18613,7 +18699,7 @@ var qudFil = [
     },
     "properties": {
     "kml_input_name":"Yubnā / يبنا",
-    "Transliterated names":"Yubnā ",
+    "transliterated_name":"Yubnā ",
     "Name":" يبنا",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18645,9 +18731,11 @@ var qudFil = [
     "Comments":""
     }
   }
-];
+]};
 
-var qudHims = [
+var qudHims = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -18656,7 +18744,7 @@ var qudHims = [
     },
     "properties": {
     "kml_input_name":"al-Lādhiqiyya|al-Lādhiqīh / اللاذقيه|اللاذقية",
-    "Transliterated names":"al-Lādhiqiyya|al-Lādhiqīh ",
+    "transliterated_name":"al-Lādhiqiyya|al-Lādhiqīh ",
     "Name":" اللاذقيه|اللاذقية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18696,7 +18784,7 @@ var qudHims = [
     },
     "properties": {
     "kml_input_name":"al-Qasṭal / القسطل",
-    "Transliterated names":"al-Qasṭal ",
+    "transliterated_name":"al-Qasṭal ",
     "Name":" القسطل",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18736,7 +18824,7 @@ var qudHims = [
     },
     "properties": {
     "kml_input_name":"Anẓarẓūs|Anṭarṭūs|Anṭarsūs|Ṭarṭūs / انظرظوس|انطرطوس|انطرسوس|طرطوس",
-    "Transliterated names":"Anẓarẓūs|Anṭarṭūs|Anṭarsūs|Ṭarṭūs ",
+    "transliterated_name":"Anẓarẓūs|Anṭarṭūs|Anṭarsūs|Ṭarṭūs ",
     "Name":" انظرظوس|انطرطوس|انطرسوس|طرطوس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18776,7 +18864,7 @@ var qudHims = [
     },
     "properties": {
     "kml_input_name":"Bulunyās / بلنياس",
-    "Transliterated names":"Bulunyās ",
+    "transliterated_name":"Bulunyās ",
     "Name":" بلنياس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18816,7 +18904,7 @@ var qudHims = [
     },
     "properties": {
     "kml_input_name":"Fāmiyya|Afāmiya / افامية|فامية",
-    "Transliterated names":"Fāmiyya|Afāmiya ",
+    "transliterated_name":"Fāmiyya|Afāmiya ",
     "Name":" افامية|فامية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18856,7 +18944,7 @@ var qudHims = [
     },
     "properties": {
     "kml_input_name":"Fāsira|Kāsira|Qāsira|Fāsirah / فاسره|فاسرة|كاسرة|قاسرة",
-    "Transliterated names":"Fāsira|Kāsira|Qāsira|Fāsirah ",
+    "transliterated_name":"Fāsira|Kāsira|Qāsira|Fāsirah ",
     "Name":" فاسره|فاسرة|كاسرة|قاسرة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18896,7 +18984,7 @@ var qudHims = [
     },
     "properties": {
     "kml_input_name":"Ḥamā / حماة",
-    "Transliterated names":"Ḥamā ",
+    "transliterated_name":"Ḥamā ",
     "Name":" حماة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18936,7 +19024,7 @@ var qudHims = [
     },
     "properties": {
     "kml_input_name":"Ḥimṣ / حمص",
-    "Transliterated names":"Ḥimṣ ",
+    "transliterated_name":"Ḥimṣ ",
     "Name":" حمص",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -18976,7 +19064,7 @@ var qudHims = [
     },
     "properties": {
     "kml_input_name":"Ḥiṣn Salamiyya|Salamiyya|Bayt Salamiyya / بيت سلمية|حصن سلمية|سلمية",
-    "Transliterated names":"Ḥiṣn Salamiyya|Salamiyya|Bayt Salamiyya ",
+    "transliterated_name":"Ḥiṣn Salamiyya|Salamiyya|Bayt Salamiyya ",
     "Name":" بيت سلمية|حصن سلمية|سلمية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -19016,7 +19104,7 @@ var qudHims = [
     },
     "properties": {
     "kml_input_name":"Maʿarrat al-Nuʿmān|al-Maʿarra /المعرة|معرة النعمان",
-    "Transliterated names":"Maʿarrat al-Nuʿmān|al-Maʿarra ",
+    "transliterated_name":"Maʿarrat al-Nuʿmān|al-Maʿarra ",
     "Name":"المعرة|معرة النعمان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -19056,7 +19144,7 @@ var qudHims = [
     },
     "properties": {
     "kml_input_name":"Marāqiyya|Marāqīh / مراقيه|مراقية",
-    "Transliterated names":"Marāqiyya|Marāqīh ",
+    "transliterated_name":"Marāqiyya|Marāqīh ",
     "Name":" مراقيه|مراقية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -19096,7 +19184,7 @@ var qudHims = [
     },
     "properties": {
     "kml_input_name":"Shayzar / شيزر",
-    "Transliterated names":"Shayzar ",
+    "transliterated_name":"Shayzar ",
     "Name":" شيزر",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -19128,9 +19216,11 @@ var qudHims = [
     "Comments":""
     }
   }
-];
+]};
 
-var qudQinn = [
+var qudQinn = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -19139,7 +19229,7 @@ var qudQinn = [
     },
     "properties": {
     "kml_input_name":"al-Jūma / الجومة",
-    "Transliterated names":"al-Jūma ",
+    "transliterated_name":"al-Jūma ",
     "Name":" الجومة",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -19179,7 +19269,7 @@ var qudQinn = [
     },
     "properties": {
     "kml_input_name":"Anṭākiya / أنطاكية",
-    "Transliterated names":"Anṭākiya ",
+    "transliterated_name":"Anṭākiya ",
     "Name":" أنطاكية",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -19219,7 +19309,7 @@ var qudQinn = [
     },
     "properties": {
     "kml_input_name":"Bālis / بالس",
-    "Transliterated names":"Bālis ",
+    "transliterated_name":"Bālis ",
     "Name":" بالس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -19259,7 +19349,7 @@ var qudQinn = [
     },
     "properties": {
     "kml_input_name":"Dulūk / دلوك",
-    "Transliterated names":"Dulūk ",
+    "transliterated_name":"Dulūk ",
     "Name":" دلوك",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -19299,7 +19389,7 @@ var qudQinn = [
     },
     "properties": {
     "kml_input_name":"Ḥalab / حلب",
-    "Transliterated names":"Ḥalab ",
+    "transliterated_name":"Ḥalab ",
     "Name":" حلب",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -19339,7 +19429,7 @@ var qudQinn = [
     },
     "properties": {
     "kml_input_name":"Maʿarrat Qinnasrīn|Maʿarrat Misrīn / معرة مصرين|معرة قنسرين",
-    "Transliterated names":"Maʿarrat Qinnasrīn|Maʿarrat Misrīn ",
+    "transliterated_name":"Maʿarrat Qinnasrīn|Maʿarrat Misrīn ",
     "Name":" معرة مصرين|معرة قنسرين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -19379,7 +19469,7 @@ var qudQinn = [
     },
     "properties": {
     "kml_input_name":"Manbij / منبج",
-    "Transliterated names":"Manbij ",
+    "transliterated_name":"Manbij ",
     "Name":" منبج",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -19419,7 +19509,7 @@ var qudQinn = [
     },
     "properties": {
     "kml_input_name":"Martaḥwān / مرتحوان",
-    "Transliterated names":"Martaḥwān ",
+    "transliterated_name":"Martaḥwān ",
     "Name":" مرتحوان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -19459,7 +19549,7 @@ var qudQinn = [
     },
     "properties": {
     "kml_input_name":"Qinnasrīn / قنسرين",
-    "Transliterated names":"Qinnasrīn ",
+    "transliterated_name":"Qinnasrīn ",
     "Name":" قنسرين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -19499,7 +19589,7 @@ var qudQinn = [
     },
     "properties": {
     "kml_input_name":"Qūrus / قورس",
-    "Transliterated names":"Qūrus ",
+    "transliterated_name":"Qūrus ",
     "Name":" قورس",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -19539,7 +19629,7 @@ var qudQinn = [
     },
     "properties": {
     "kml_input_name":"Raʿbān / رعبان",
-    "Transliterated names":"Raʿbān ",
+    "transliterated_name":"Raʿbān ",
     "Name":" رعبان",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -19579,7 +19669,7 @@ var qudQinn = [
     },
     "properties": {
     "kml_input_name":"Sarmīn / سرمين",
-    "Transliterated names":"Sarmīn ",
+    "transliterated_name":"Sarmīn ",
     "Name":" سرمين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -19619,7 +19709,7 @@ var qudQinn = [
     },
     "properties": {
     "kml_input_name":"Tīzīn|Tūzīn / تيزين|توزين",
-    "Transliterated names":"Tīzīn|Tūzīn ",
+    "transliterated_name":"Tīzīn|Tūzīn ",
     "Name":" تيزين|توزين",
     "Standardised transliterated name":"",
     "standardized_name":"",
@@ -19651,4 +19741,4 @@ var qudQinn = [
     "Comments":""
     }
   }
-];
+]};

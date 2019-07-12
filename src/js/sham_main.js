@@ -27,7 +27,7 @@ var popupOptions = {
 }
 
 function onEachFeature(feature, layer) {
-	var popup = L.popup(popupOptions, layer).setContent("<h3>" + feature.properties.Name + "</h3><h5><b>" + feature.properties.kura_name + "</b></h5>");
+	var popup = L.popup(popupOptions, layer).setContent("<h3>" + feature.properties.transliterated_name + "</h3><h3>" + feature.properties.Name + "</h3><h5><b>Kura: </b>" + feature.properties.kura_name + "</h5>");
 	layer.bindPopup(popup);
     layer.on({
         click: zoomToFeature,
@@ -38,6 +38,7 @@ function onEachFeature(feature, layer) {
 		layer.on('mouseout', function(event) {
 			layer.closePopup();
 		});
+		feature.layer = layer;
 };
 
 // Data - Ibn Khurradadhbih
@@ -98,56 +99,42 @@ var ibnKhurrQinnLayer = L.geoJson(ibnKhurrQinn, {
 	onEachFeature: onEachFeature
 }).addTo(map);
 
-// Data - Ibn Hawqal
+// Data - al Ya'qubi
 
-var ibnHawalJazLayer = L.geoJson(ibnHawalJaz, {
-	pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, alJazStyle);
-    },
-	onEachFeature: onEachFeature
-}).addTo(map);
-
-var ibnHawalShamLayer = L.geoJson(ibnHawalSham, {
+var alYaqalShamLayer = L.geoJson(alYaqalSham, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, alShamStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
-var ibnHawalUrdLayer = L.geoJson(ibnHawalUrd, {
+var alYaqalUrdLayer = L.geoJson(alYaqalUrd, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, alUrdStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
-var ibnHawDimLayer = L.geoJson(ibnHawDim, {
+var alYaqDimLayer = L.geoJson(alYaqDim, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, dimStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
-var ibnHawFilLayer = L.geoJson(ibnHawFil, {
+var alYaqFilLayer = L.geoJson(alYaqFil, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, filStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
-var ibnHawHimsLayer = L.geoJson(ibnHawHims, {
+var alYaqHimsLayer = L.geoJson(alYaqHims, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, himsStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
-
-var ibnHawQinnLayer = L.geoJson(ibnHawQinn, {
-	pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, qinnStyle);
-    },
-	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
 // Data - Ibn al-Faqih
 
@@ -156,65 +143,79 @@ var ibnalFaqalAwLayer = L.geoJson(ibnalFaqalAw, {
         return L.circleMarker(latlng, alAwStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
 var ibnalFaqalUrdLayer = L.geoJson(ibnalFaqalUrd, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, alUrdStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
 var ibnalFaqDimLayer = L.geoJson(ibnalFaqDim, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, dimStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
 var ibnalFaqFilLayer = L.geoJson(ibnalFaqFil, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, filStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
-// Data - al Ya'qubi
+// Data - Ibn Hawqal
 
-var alYaqalShamLayer = L.geoJson(alYaqalSham, {
+var ibnHawalJazLayer = L.geoJson(ibnHawalJaz, {
+	pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, alJazStyle);
+    },
+	onEachFeature: onEachFeature
+});
+
+var ibnHawalShamLayer = L.geoJson(ibnHawalSham, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, alShamStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
-var alYaqalUrdLayer = L.geoJson(alYaqalUrd, {
+var ibnHawalUrdLayer = L.geoJson(ibnHawalUrd, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, alUrdStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
-var alYaqDimLayer = L.geoJson(alYaqDim, {
+var ibnHawDimLayer = L.geoJson(ibnHawDim, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, dimStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
-var alYaqFilLayer = L.geoJson(alYaqFil, {
+var ibnHawFilLayer = L.geoJson(ibnHawFil, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, filStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
-var alYaqHimsLayer = L.geoJson(alYaqHims, {
+var ibnHawHimsLayer = L.geoJson(ibnHawHims, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, himsStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
+
+var ibnHawQinnLayer = L.geoJson(ibnHawQinn, {
+	pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, qinnStyle);
+    },
+	onEachFeature: onEachFeature
+});
 
 // Data - al-Muqadassi
 
@@ -223,42 +224,42 @@ var alMuqalSharLayer = L.geoJson(alMuqalShar, {
         return L.circleMarker(latlng, alSharStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
 var alMuqalUrdLayer = L.geoJson(alMuqalUrd, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, alUrdStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
 var alMuqDimLayer = L.geoJson(alMuqDim, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, dimStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
 var alMuqFilLayer = L.geoJson(alMuqFil, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, filStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
 var alMuqHimsLayer = L.geoJson(alMuqHims, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, himsStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
 var alMuqQinnLayer = L.geoJson(alMuqQinn, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, qinnStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
 // Data - al-Istakhri
 
@@ -267,7 +268,7 @@ var alIstalAwLayer = L.geoJson(alIstalAw, {
         return L.circleMarker(latlng, alAwStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
 var alIstalJazLayer = L.geoJson(alIstalJaz, {
 	pointToLayer: function (feature, latlng) {
@@ -281,76 +282,104 @@ var alIstalShamLayer = L.geoJson(alIstalSham, {
         return L.circleMarker(latlng, alShamStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
 var alIstalUrdLayer = L.geoJson(alIstalUrd, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, alUrdStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
 var alIstDimLayer = L.geoJson(alIstDim, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, dimStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
 var alIstFilLayer = L.geoJson(alIstFil, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, filStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
 var alIstHimsLayer = L.geoJson(alIstHims, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, himsStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
 
 var alIstQinnLayer = L.geoJson(alIstQinn, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, qinnStyle);
     },
 	onEachFeature: onEachFeature
-}).addTo(map);
+});
+
+// Data - Cornu Routes
+
+var cornuRoutesLayer = L.geoJson(cornuRoutes, {
+	style: function (feature) {
+		return {
+			weight: 2,
+			color: "black",
+			opacity: 0.5,
+		};
+	}
+}).addTo(map).bringToBack();
 
 // Search control - searches H_loc geoJSON for layer that is currently open
 
-var searchLayer = L.layerGroup([ibnKhurralAwLayer, ibnKhurralJazLayer, ibnKhurralShamLayer, ibnKhurralUrdLayer, ibnKhurrDimLayer, ibnKhurrFilLayer, ibnKhurrHimsLayer, ibnKhurrQinnLayer, ibnHawalJazLayer, ibnHawalShamLayer, ibnHawalUrdLayer, ibnHawDimLayer, ibnHawFilLayer, ibnHawHimsLayer, ibnHawQinnLayer, ibnalFaqalAwLayer, ibnalFaqalUrdLayer, ibnalFaqDimLayer, ibnalFaqFilLayer, alYaqalShamLayer, alYaqalUrdLayer, alYaqDimLayer, alYaqFilLayer, alYaqHimsLayer, alMuqalSharLayer, alMuqalUrdLayer, alMuqDimLayer, alMuqFilLayer, alMuqHimsLayer, alMuqQinnLayer, alIstalAwLayer, alIstalJazLayer, alIstalShamLayer, alIstalUrdLayer, alIstDimLayer, alIstFilLayer, alIstHimsLayer, alIstQinnLayer]);
+var allData = [ibnKhurralAw, ibnKhurralJaz, ibnKhurralSham, ibnKhurralUrd, ibnKhurrDim, ibnKhurrFil, ibnKhurrHims, ibnKhurrQinn, ibnHawalJaz, ibnHawalSham, ibnHawalUrd, ibnHawDim, ibnHawFil, ibnHawHims, ibnHawQinn, ibnalFaqalAw, ibnalFaqalUrd, ibnalFaqDim, ibnalFaqFil, alYaqalSham, alYaqalUrd, alYaqDim, alYaqFil, alYaqHims, alMuqalShar, alMuqalUrd, alMuqDim, alMuqFil, alMuqHims, alMuqQinn, alIstalAw, alIstalJaz, alIstalSham, alIstalUrd, alIstDim, alIstFil, alIstHims, alIstQinn];
 
-L.control.search({
-layer: searchLayer,
-initial: false,
-propertyName: 'Name',
-buildTip: function(text, val) {
-	var type = val.layer.feature.properties.Name;
-	return '<a href="#" class="'+type+'">'+text+'<b>'+type+'</b></a>';
-}
-})
-.addTo(map);
+// Add fuse search control
+    var options = {
+        position: 'topleft',
+        title: 'Search',
+        placeholder: 'Search for place...',
+        maxResultLength: 15,
+        threshold: 0.5,
+        showInvisibleFeatures: true,
+        showResultFct: function(feature, container) {
+            props = feature.properties;
+            var name = L.DomUtil.create('b', null, container);
+            name.innerHTML = props.transliterated_name + " (" + props.Name + ")";
 
-map.eachLayer(function(layer) {
-	map.removeLayer(layer);
+            container.appendChild(L.DomUtil.create('br', null, container));
+
+            var cat = props.kura_name,
+                info = '' + cat + ', ' + props.author;
+            container.appendChild(document.createTextNode(info));
+        }
+    };
+    var fuseSearchCtrl = L.control.fuseSearch(options);
+    map.addControl(fuseSearchCtrl);
+
+    // Load the data
+			var allSearchableFeatures = {
+				type: "FeatureCollection",
+				features: []
+			};
+			for (var i = 0; i < allData.length; i++) {
+				for (var j = 0; j < allData[i].features.length; j++) {
+				allSearchableFeatures.features.push(allData[i].features[j]);
+				}
+			}
+
+			var props = ['transliterated_name', 'Name', 'kura_name'];
+			fuseSearchCtrl.indexFeatures(allSearchableFeatures.features, props);
+
+map.on("overlayadd", function (event) {
+	cornuRoutesLayer.bringToBack();
 });
-
-map.addLayer(mapboxTiles);
-map.addLayer(ibnKhurralAwLayer);
-map.addLayer(ibnKhurralJazLayer);
-map.addLayer(ibnKhurralShamLayer);
-map.addLayer(ibnKhurralUrdLayer);
-map.addLayer(ibnKhurrDimLayer);
-map.addLayer(ibnKhurrFilLayer);
-map.addLayer(ibnKhurrHimsLayer);
-map.addLayer(ibnKhurrQinnLayer);
 
 // Layer controls
 
 		var groupedOverlays = {
-		  "<span class='controlHeading'> Ibn Khurradadhbih</span>": {
+		  "<span class='controlHeading'> Ibn Khurradādhbih</span>": {
 				" al-ʿAwāṣim": ibnKhurralAwLayer,
 				" al-Thughūr al-Jazariyya": ibnKhurralJazLayer,
 				" al-Thughūr al-Shāmiyya": ibnKhurralShamLayer,
@@ -359,6 +388,29 @@ map.addLayer(ibnKhurrQinnLayer);
         " Falasṭīn": ibnKhurrFilLayer,
         " Ḥimṣ": ibnKhurrHimsLayer,
         " Qinnasrīn": ibnKhurrQinnLayer,
+		  },
+			"<span class='controlHeading'> al-Yaʿqūbī</span>": {
+				" al-Thughūr al-Shāmiyya": alYaqalShamLayer,
+				" al-Urdunn": alYaqalUrdLayer,
+				" Dimashq": alYaqDimLayer,
+				" Falasṭīn": alYaqFilLayer,
+				" Ḥimṣ": alYaqHimsLayer
+		  },
+			"<span class='controlHeading'> Ibn al-Faqīh</span>": {
+				" al-ʿAwāṣim": ibnalFaqalAwLayer,
+				" al-Urdunn": ibnalFaqalUrdLayer,
+				" Dimashq": ibnalFaqDimLayer,
+				" Falasṭīn": ibnalFaqFilLayer
+		  },
+			"<span class='controlHeading'> al-Iṣṭakhrī</span>": {
+				" al-ʿAwāṣim": alIstalAwLayer,
+				" al-Thughūr al-Jazariyya": alIstalJazLayer,
+				" al-Thughūr al-Shāmiyya": alIstalShamLayer,
+				" al-Urdunn": alIstalUrdLayer,
+				" Dimashq": alIstDimLayer,
+				" Falasṭīn": alIstFilLayer,
+        " Ḥimṣ": alIstHimsLayer,
+        " Qinnasrīn": alIstQinnLayer,
 		  },
 		  "<span class='controlHeading'> Ibn Hawqal</span>": {
 				" al-Thughūr al-Jazariyya": ibnHawalJazLayer,
@@ -369,20 +421,7 @@ map.addLayer(ibnKhurrQinnLayer);
 				" Ḥimṣ": ibnHawHimsLayer,
         " Qinnasrīn": ibnHawQinnLayer
 		  },
-			"<span class='controlHeading'> Ibn al-Faqih</span>": {
-				" al-ʿAwāṣim": ibnalFaqalAwLayer,
-				" al-Urdunn": ibnalFaqalUrdLayer,
-				" Dimashq": ibnalFaqDimLayer,
-				" Falasṭīn": ibnalFaqFilLayer
-		  },
-			"<span class='controlHeading'> al-Ya'qubi</span>": {
-				" al-Thughūr al-Shāmiyya": alYaqalShamLayer,
-				" al-Urdunn": alYaqalUrdLayer,
-				" Dimashq": alYaqDimLayer,
-				" Falasṭīn": alYaqFilLayer,
-				" Ḥimṣ": alYaqHimsLayer
-		  },
-			"<span class='controlHeading'> al-Muqaddasi</span>": {
+			"<span class='controlHeading'> al-Muqaddasī</span>": {
 				" al-Sharāt": alMuqalSharLayer,
 				" al-Urdunn": alMuqalUrdLayer,
 				" Dimashq": alMuqDimLayer,
@@ -390,17 +429,27 @@ map.addLayer(ibnKhurrQinnLayer);
 				" Ḥimṣ": alMuqHimsLayer,
 				" Qinnasrīn": alMuqQinnLayer
 		  },
-			"<span class='controlHeading'> al-Istakhri</span>": {
-				" al-ʿAwāṣim": alIstalAwLayer,
-				" al-Thughūr al-Jazariyya": alIstalJazLayer,
-				" al-Thughūr al-Shāmiyya": alIstalShamLayer,
-				" al-Urdunn": alIstalUrdLayer,
-				" Dimashq": alIstDimLayer,
-				" Falasṭīn": alIstFilLayer,
-        " Ḥimṣ": alIstHimsLayer,
-        " Qinnasrīn": alIstQinnLayer,
-		  }
+			"<span class='controlHeadingRoutes'> Routes</span>": {
+				" Routes": cornuRoutesLayer,
+		  },
 		};
+
+		window.addEventListener('load', function () {
+		var routesDropdown = document.getElementsByClassName("trigger")[6];
+		routesDropdown.style.display = "none";
+		var routesControl = document.getElementsByClassName("leaflet-control-layers-group-selector")[6];
+		routesControl.checked = true;
+		var routesStylingDiv = document.getElementById("leaflet-control-layers-group-6");
+		routesStylingDiv.style.borderTop = "3px solid white";
+		routesStylingDiv.style.borderRadius = "1.5px";
+		routesStylingDiv.style.marginTop = "20px";
+		routesStylingDiv.style.paddingTop = "10px";
+
+		var firstControl = document.getElementsByClassName("leaflet-control-layers-group-selector")[0];
+		firstControl.checked = true;
+		var firstControlDropdown = document.getElementsByClassName("leaflet-control-layers-group-label")[0];
+		firstControlDropdown.previousElementSibling.control.checked = true;
+		});
 
 		var options = {
 		  groupCheckboxes: true,
@@ -440,7 +489,7 @@ map.addLayer(ibnKhurrQinnLayer);
 	/* Open Mental Maps div */
 	function openMMDiv() {
 	document.getElementsByClassName("admin-maps-menu")[0].style.width = "0vw";
-	document.getElementsByClassName("mental-maps-menu")[0].style.width = "150px";
+	document.getElementsByClassName("mental-maps-menu")[0].style.width = "auto";
 	}
 
 	function closeMMDiv() {
@@ -450,7 +499,7 @@ map.addLayer(ibnKhurrQinnLayer);
 	/* Open Admin Maps div */
 	function openAMDiv() {
 	document.getElementsByClassName("mental-maps-menu")[0].style.width = "0vw";
-	document.getElementsByClassName("admin-maps-menu")[0].style.width = "150px";
+	document.getElementsByClassName("admin-maps-menu")[0].style.width = "auto";
 	}
 
 	function closeAMDiv() {

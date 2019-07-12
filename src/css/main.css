@@ -14,6 +14,43 @@ html {
     line-height: 1.4;
 }
 
+body {
+  font-family: 'Raleway', sans-serif;
+  color: #000;
+  background-color: #222;
+}
+
+body a {
+    text-decoration: none;
+    color: #d1c851;
+}
+
+body a:hover {
+  color: #00aeff;
+}
+
+.about-container {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.section-header {
+  text-align: center;
+  font-variant: small-caps;
+}
+
+.section-link {
+  font-size: 14pt;
+}
+
+.map-types-menu {
+  font-style: italic;
+}
+
+#contents {
+  text-align: center;
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
@@ -230,7 +267,7 @@ textarea {
   background-color: rgba(0,0,0,0.9);
   width: 0vw;
   height: auto;
-  margin-top: 120px;
+  margin-top: 80px;
   left: 20vw;
   overflow-y: auto;
   line-height: 1;
@@ -248,11 +285,12 @@ textarea {
   background-color: rgba(0,0,0,0.9);
   width: 0vw;
   height: auto;
-  margin-top: 110px;
+  margin-top: 170px;
   left: 20vw;
   overflow-y: auto;
   line-height: 1;
   font-family: 'Raleway';
+  white-space: nowrap;
   font-size: 18pt;
   padding-bottom: 5px;
   margin-left: 10px;
@@ -285,7 +323,7 @@ textarea {
    padding-bottom: 0px;
  }
  .admin-maps-menu {
-   margin-top: 100px;
+   margin-top: 150px;
  }
 }
 
@@ -336,6 +374,7 @@ textarea {
   font-weight: 600;
   padding-left: 10px;
   cursor: pointer;
+  color: #111;
 }
 
 #menu:hover {

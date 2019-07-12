@@ -1,4 +1,6 @@
-var alIstalJaz = [
+var alIstalJaz = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -159,9 +161,11 @@ var alIstalJaz = [
     "Comments":""
     }
   }
-];
+]};
 
-var alIstDiyMud = [
+var alIstDiyMud = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -202,9 +206,11 @@ var alIstDiyMud = [
     "Comments":""
     }
   }
-];
+]};
 
-var alIstDiyRab = [
+var alIstDiyRab = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -245,9 +251,11 @@ var alIstDiyRab = [
     "Comments":""
     }
   }
-];
+]};
 
-var alIstNoKura = [
+var alIstNoKura = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -1248,9 +1256,11 @@ var alIstNoKura = [
     "Comments":""
     }
   }
-];
+]};
 
-var alMuqalKhab = [
+var alMuqalKhab = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -1571,9 +1581,11 @@ var alMuqalKhab = [
     "Comments":""
     }
   }
-];
+]};
 
-var alMuqDiyBak = [
+var alMuqDiyBak = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -1734,9 +1746,11 @@ var alMuqDiyBak = [
     "Comments":""
     }
   }
-];
+]};
 
-var alMuqDiyMud = [
+var alMuqDiyMud = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -2177,9 +2191,11 @@ var alMuqDiyMud = [
     "Comments":""
     }
   }
-];
+]};
 
-var alMuqDiyRab = [
+var alMuqDiyRab = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -3060,9 +3076,11 @@ var alMuqDiyRab = [
     "Comments":""
     }
   }
-];
+]};
 
-var alMuqTariq = [
+var alMuqTariq = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -3263,9 +3281,11 @@ var alMuqTariq = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnalFaqalKhab = [
+var ibnalFaqalKhab = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -3546,9 +3566,11 @@ var ibnalFaqalKhab = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnalFaqalMaw = [
+var ibnalFaqalMaw = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -3949,9 +3971,11 @@ var ibnalFaqalMaw = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnalFaqDiyMud = [
+var ibnalFaqDiyMud = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -4312,9 +4336,11 @@ var ibnalFaqDiyMud = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnalFaqDiyRab = [
+var ibnalFaqDiyRab = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -4675,9 +4701,11 @@ var ibnalFaqDiyRab = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnalFaqNoKura = [
+var ibnalFaqNoKura = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -4758,9 +4786,11 @@ var ibnalFaqNoKura = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnalFaqTariq = [
+var ibnalFaqTariq = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -4961,9 +4991,11 @@ var ibnalFaqTariq = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnHawalMaw = [
+var ibnHawalMaw = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -5044,9 +5076,11 @@ var ibnHawalMaw = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnHawDiyMud = [
+var ibnHawDiyMud = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -5447,9 +5481,11 @@ var ibnHawDiyMud = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnHawNoKura = [
+var ibnHawNoKura = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -6930,9 +6966,11 @@ var ibnHawNoKura = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnKhurralJaz = [
+var ibnKhurralJaz = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -7373,9 +7411,11 @@ var ibnKhurralJaz = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnKhurralKhab = [
+var ibnKhurralKhab = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -7696,9 +7736,11 @@ var ibnKhurralKhab = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnKhurralMaw = [
+var ibnKhurralMaw = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -8019,9 +8061,11 @@ var ibnKhurralMaw = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnKhurrDiyMud = [
+var ibnKhurrDiyMud = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -8582,9 +8626,11 @@ var ibnKhurrDiyMud = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnKhurrDiyRab = [
+var ibnKhurrDiyRab = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -9185,9 +9231,11 @@ var ibnKhurrDiyRab = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnKhurrNoKura = [
+var ibnKhurrNoKura = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -9388,9 +9436,11 @@ var ibnKhurrNoKura = [
     "Comments":""
     }
   }
-];
+]};
 
-var ibnKhurrTariq = [
+var ibnKhurrTariq = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -9631,9 +9681,11 @@ var ibnKhurrTariq = [
     "Comments":""
     }
   }
-];
+]};
 
-var qudalJaz = [
+var qudalJaz = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -9954,9 +10006,11 @@ var qudalJaz = [
     "Comments":""
     }
   }
-];
+]};
 
-var qudalMaw = [
+var qudalMaw = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -10237,9 +10291,11 @@ var qudalMaw = [
     "Comments":""
     }
   }
-];
+]};
 
-var qudDiyMud = [
+var qudDiyMud = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -10480,9 +10536,11 @@ var qudDiyMud = [
     "Comments":""
     }
   }
-];
+]};
 
-var qudDiyRab = [
+var qudDiyRab = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -10883,9 +10941,11 @@ var qudDiyRab = [
     "Comments":""
     }
   }
-];
+]};
 
-var qudNoKura = [
+var qudNoKura = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -11566,9 +11626,11 @@ var qudNoKura = [
     "Comments":""
     }
   }
-];
+]};
 
-var qudTariq = [
+var qudTariq = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -12089,4 +12151,4 @@ var qudTariq = [
     "Comments":""
     }
   }
-];
+]};

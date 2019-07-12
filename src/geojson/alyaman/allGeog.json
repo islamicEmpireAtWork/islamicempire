@@ -1,4 +1,6 @@
-var alYaqNoKura =  [
+var alYaqNoKura = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -7,7 +9,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"Makka",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"مكة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -21,7 +23,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"Al-Malakān",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"الملكان",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -35,7 +37,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"Yalamlam",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"يلملم",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -49,7 +51,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"al-Lith",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"اللث",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -63,7 +65,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"ʿUlyab (wādī)",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"عليب (وادي)",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -77,7 +79,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"ʿUlyab",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"عليب",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -91,7 +93,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"Qanawnā",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"قنونا",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -105,7 +107,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"Yaba",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"يبة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -119,7 +121,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"Yaba (wādī)",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"يبة (وادي)",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -133,7 +135,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"Yaba (wādī)",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"يبة (وادي)",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -147,7 +149,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"Al-Maʿqir",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"المعقر",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -161,7 +163,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"Ḍankān",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"ضنكان",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -175,7 +177,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"Zanīf",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"زنيف",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -189,7 +191,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"Rīm",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"ريم",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -203,7 +205,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"Baysh",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"بيش",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -217,7 +219,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"ʿUrsh min Jāzān",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"عرش من جازان",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -231,7 +233,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"al-Sharja",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"الشرجة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -245,7 +247,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"Balḥa",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"بلحة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -259,7 +261,7 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"al-Mahjam",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"المهجم",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
@@ -273,15 +275,18 @@ var alYaqNoKura =  [
     },
     "properties": {
     "standardised_transliterated_name":"Sawadān",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"سودان",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"al-Ya'qubi"
     }
   }
-];
+]
+};
 
-var alYaqSan = [
+var alYaqSan = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -289,16 +294,19 @@ var alYaqSan = [
        "coordinates":  [ 44.21589854,15.35134061 ]
     },
     "properties": {
-    "standardised_transliterated_name":"Sanʿāʾ",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"Ṣanʿāʾ",
+    "standardized_arabic_name":"صنعاء",
     "region name":"al-Yaman",
     "kura_subregion_name":"Sanʿāʾ",
     "author":"al-Ya'qubi"
     }
   }
-];
+]
+};
 
-var ibnKhurralJan = [
+var ibnKhurralJan = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -307,15 +315,18 @@ var ibnKhurralJan = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Janad",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"الجند",
     "region name":"al-Yaman",
     "kura_subregion_name":"al-Janad",
     "author":"Ibn Khurradadhbih"
     }
   }
-];
+]
+};
 
-var ibnKhurrHad = [
+var ibnKhurrHad = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -324,15 +335,18 @@ var ibnKhurrHad = [
     },
     "properties": {
     "standardised_transliterated_name":"ʿAndal",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"عندل",
     "region name":"al-Yaman",
     "kura_subregion_name":"Hadramaut",
     "author":"Ibn Khurradadhbih"
     }
   }
-];
+]
+};
 
-var ibnKhurrNoKura = [
+var ibnKhurrNoKura = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -341,7 +355,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Shiḥr",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"الشحر",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -355,7 +369,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"ʿAdan",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"عدن",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -369,7 +383,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Mecca",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"مكة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -383,7 +397,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Qarn al-Manāzil",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"قرن المنازل",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -397,7 +411,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Turaba",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"تربة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -411,7 +425,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Ranya",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"رنية",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -425,7 +439,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Tabāla",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"تبالة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -439,7 +453,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Bīsha",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"بيشة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -453,7 +467,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Banāt Ḥarb",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"بنات حرب",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -467,7 +481,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Tathlīth",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"تثليث",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -481,7 +495,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Kutnah",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"كتنه",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -495,7 +509,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Jurash",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"جرش",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -509,7 +523,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Mahjara",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"المهجرة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -522,8 +536,8 @@ var ibnKhurrNoKura = [
        "coordinates":  [ 43.76528695,16.93886817 ]
     },
     "properties": {
-    "standardised_transliterated_name":"̣̣Saʿda",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"Ṣaʿda",
+    "standardized_arabic_name":"صعدة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -536,8 +550,8 @@ var ibnKhurrNoKura = [
        "coordinates":  [ 43.93415269,16.5819525 ]
     },
     "properties": {
-    "standardised_transliterated_name":"al-ʿAmashīya",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"al-Aʿmashiyya",
+    "standardized_arabic_name":"الأعمشية",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -551,7 +565,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Khaywān",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"خيوان",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -565,7 +579,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"ʾAthāfit",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"أثافت",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -578,8 +592,8 @@ var ibnKhurrNoKura = [
        "coordinates":  [ 44.13097186,15.78024104 ]
     },
     "properties": {
-    "standardised_transliterated_name":"Nāʿit",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"Nāʿiṭ",
+    "standardized_arabic_name":"ناعط",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -593,7 +607,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Rayda",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"ريدة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -607,7 +621,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Khayrij",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"خيرج",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -621,7 +635,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Dhamār",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"ذمار",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -635,7 +649,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Nasfān",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"نسفان",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -649,7 +663,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Kaḥlān",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"كحلان",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -663,7 +677,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Qarīya ʿAdan",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"قرية عدن",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -676,8 +690,8 @@ var ibnKhurrNoKura = [
        "coordinates":  [ 44.40232507,14.21365091 ]
     },
     "properties": {
-    "standardised_transliterated_name":"Higher Yaḥsib/ Zafār",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"Higher Yaḥṣib/ Ẓafār",
+    "standardized_arabic_name":"يحصب الأعلى/ ظفار",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -691,7 +705,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Thujja today Ibb",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"الثجة (إب)",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -705,7 +719,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Suḥūl",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"السحول",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -719,7 +733,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Mudhaykhira",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"المذيخرة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -733,7 +747,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Zabīd",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"زبيد",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -747,7 +761,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Ghalāfiqa",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"غلافقة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -761,7 +775,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Mandab",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"المندب",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -774,8 +788,8 @@ var ibnKhurrNoKura = [
        "coordinates":  [ 42.74090689,15.73729659 ]
     },
     "properties": {
-    "standardised_transliterated_name":"al-Ḥirdah",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"al-Ḥirda",
+    "standardized_arabic_name":"الحردة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -789,7 +803,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Dahlak",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"دهلك",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -803,7 +817,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Sharja",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"الشرجة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -817,7 +831,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"ʿAthr",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"عثر",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -831,7 +845,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Shibām (ʾAqjān)",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"شبام (أقجان)",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -845,7 +859,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Māʾrib",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"مأرب",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -859,7 +873,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Aḥwar",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"احور",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -873,7 +887,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Farq",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"فرق",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -886,8 +900,8 @@ var ibnKhurrNoKura = [
        "coordinates":  [ 43.36473935,16.89857917 ]
     },
     "properties": {
-    "standardised_transliterated_name":"Khawlān Dhu Suhaym?",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"Khawlān Dhu Suhaym",
+    "standardized_arabic_name":"خولان ذو سهيم؟",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -901,7 +915,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"ʿUrsh",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"عرش",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -915,7 +929,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"ʿUrsh min Jāzān",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"عرش من جازان",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -929,7 +943,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Ḍankān",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"ضنكان",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -943,7 +957,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Qanawnā",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"قنونا",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -957,7 +971,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Hali",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"الحلي",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -971,7 +985,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Qanawnā",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"قنونا",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -985,7 +999,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Dawqa",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"الدوقة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -999,7 +1013,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Sirrayn",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"السرين",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -1013,7 +1027,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"ʿUlyab",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"عليب",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -1027,7 +1041,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Lith",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"اللث",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -1041,7 +1055,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Yalamlam",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"يلملم",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -1055,7 +1069,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Al-Malakān",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"الملكان",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -1069,7 +1083,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Shuʿayb",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"الشعيب",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -1083,7 +1097,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Jidda",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"جدة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -1097,7 +1111,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Kharj",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"الخرج",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -1111,7 +1125,7 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Ghamra",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"غمرة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -1124,8 +1138,8 @@ var ibnKhurrNoKura = [
        "coordinates":  [ 43.56666672,17.52027779 ]
     },
     "properties": {
-    "standardised_transliterated_name":"al-Majāẓa",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"al-Majāza",
+    "standardized_arabic_name":"المجازة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
@@ -1139,15 +1153,18 @@ var ibnKhurrNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Najrān",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"نجران",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Ibn Khurradadhbih"
     }
   }
-];
+]
+};
 
-var ibnKhurrSan = [
+var ibnKhurrSan = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -1155,16 +1172,19 @@ var ibnKhurrSan = [
        "coordinates":  [ 44.21589854,15.35134061 ]
     },
     "properties": {
-    "standardised_transliterated_name":"Sanʿāʾ",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"Ṣanʿāʾ",
+    "standardized_arabic_name":"صنعاء",
     "region name":"al-Yaman",
     "kura_subregion_name":"Sanʿāʾ",
     "author":"Ibn Khurradadhbih"
     }
   }
-];
+]
+};
 
-var qudNoKura = [
+var qudNoKura = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -1173,7 +1193,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Mecca",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"مكة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1186,8 +1206,8 @@ var qudNoKura = [
        "coordinates":  [ 40.42737991,21.63314114 ]
     },
     "properties": {
-    "standardised_transliterated_name":"Qarn al-Manāzil (Miqāt Ahl al-Yaman wa al-Ṭaīf)",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"Qarn al-Manāzil (Miqāt Ahl al-Yaman wa-al-Ṭaīf)",
+    "standardized_arabic_name":"قرن المنازل (مقات اهل اليمن والطائف)",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1201,7 +1221,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Ghamra",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"غمرة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1215,7 +1235,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Turaba",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"تربة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1229,7 +1249,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Ranya",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"رنية",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1243,7 +1263,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Tabāla",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"تبالة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1257,7 +1277,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Bīsha",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"بيشة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1271,7 +1291,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Banāt Ḥarm",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"بنات حرم",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1285,7 +1305,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Jurash",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"جرش",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1299,7 +1319,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Ruḥāba",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"رحابة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1313,7 +1333,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Qaṣaba",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"القصبة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1326,8 +1346,8 @@ var qudNoKura = [
        "coordinates":  [ 43.36473935,16.89857917 ]
     },
     "properties": {
-    "standardised_transliterated_name":"Khawlān Dhu Suhaym",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"Khawlān Dhū Suhaym",
+    "standardized_arabic_name":"خولان ذو سهيم",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1341,7 +1361,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-ʿUrsh",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"العرش",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1355,7 +1375,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Ḍankān",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"ضنكان",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1369,7 +1389,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Hali",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"حلي",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1383,7 +1403,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Yaba",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"يبة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1397,7 +1417,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"ʿUlyab",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"عليب",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1411,7 +1431,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Lith",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"اللث",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1425,7 +1445,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Yalamlam",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"يلملم",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1439,7 +1459,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Al-Malakān",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"الملكان",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1453,7 +1473,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Farak",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"فرك",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1467,7 +1487,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Shiḥr",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"الشحر",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1481,7 +1501,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Abyan",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"أبين",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1495,7 +1515,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"ʿAdan",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"عدن",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1509,7 +1529,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Mandab",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"المندب",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1522,8 +1542,8 @@ var qudNoKura = [
        "coordinates":  [ 42.74090689,15.73729659 ]
     },
     "properties": {
-    "standardised_transliterated_name":"al-Ḥirdah",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"al-Ḥirda",
+    "standardized_arabic_name":"الحردة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1537,7 +1557,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"ʿAthr",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"عثر",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1551,7 +1571,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"al-Mahjara",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"المهجرة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1564,8 +1584,8 @@ var qudNoKura = [
        "coordinates":  [ 43.76528695186703,16.93886817 ]
     },
     "properties": {
-    "standardised_transliterated_name":"̣̣Saʿda",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"Ṣaʿda",
+    "standardized_arabic_name":"صعدة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1578,8 +1598,8 @@ var qudNoKura = [
        "coordinates":  [ 43.93415268719482,16.5819525 ]
     },
     "properties": {
-    "standardised_transliterated_name":"al-ʿAmashīya",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"al-Aʿmashiyya",
+    "standardized_arabic_name":"الأعمشية",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1593,7 +1613,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Khaywān",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"خيوان",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1607,7 +1627,7 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"ʾAthāfit",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"أثافت",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
@@ -1621,15 +1641,18 @@ var qudNoKura = [
     },
     "properties": {
     "standardised_transliterated_name":"Rayda",
-    "standardized arabic name":"",
+    "standardized_arabic_name":"ريدة",
     "region name":"al-Yaman",
     "kura_subregion_name":"No district identified",
     "author":"Qudama"
     }
   }
-];
+]
+};
 
-var qudSan = [
+var qudSan = {
+   "type": "FeatureCollection",
+   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -1637,11 +1660,12 @@ var qudSan = [
        "coordinates":  [ 44.21589854168849,15.35134061 ]
     },
     "properties": {
-    "standardised_transliterated_name":"Sanʿāʾ",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"Ṣanʿāʾ",
+    "standardized_arabic_name":"صنعاء",
     "region name":"al-Yaman",
     "kura_subregion_name":"Sanʿāʾ",
     "author":"Qudama"
     }
   }
-];
+]
+};

@@ -20,6 +20,12 @@ body {
   font-size: 1.5em;
 }
 
+.controlHeadingRoutes {
+  font-size: 16pt;
+  font-weight: 400;
+  font-style: italic;
+}
+
 /* leaflet layers control plugin css */
 .leaflet-control-layers {
   background: rgba(10,10,10,0.8);
