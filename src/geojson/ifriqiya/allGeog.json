@@ -786,10 +786,10 @@ var ibnKhurrNoKura = {
        "coordinates":  [ 10.104942,33.88525556 ]
     },
     "properties": {
-    "Standardised transliterated name":"Qabis",
-    "standardized arabic name":"قابس",
+    "standardised_transliterated_name":"Qabis",
+    "standardized_arabic_name":"قابس",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"Ibn Khurradadhbih"
     }
   },
@@ -800,10 +800,10 @@ var ibnKhurrNoKura = {
        "coordinates":  [ 9.1262,35.2293 ]
     },
     "properties": {
-    "Standardised transliterated name":"Subaytla",
-    "standardized arabic name":"سبيطلة",
+    "standardised_transliterated_name":"Subaytla",
+    "standardized_arabic_name":"سبيطلة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"Ibn Khurradadhbih"
     }
   },
@@ -814,10 +814,10 @@ var ibnKhurrNoKura = {
        "coordinates":  [ 9.4951,30.1318 ]
     },
     "properties": {
-    "Standardised transliterated name":"Ghadamis",
-    "standardized arabic name":"غدامس",
+    "standardised_transliterated_name":"Ghadamis",
+    "standardized_arabic_name":"غدامس",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"Ibn Khurradadhbih"
     }
   },
@@ -828,10 +828,10 @@ var ibnKhurrNoKura = {
        "coordinates":  [ 8.784711,34.42232222 ]
     },
     "properties": {
-    "Standardised transliterated name":"Qafsa",
-    "standardized arabic name":"قفسة",
+    "standardised_transliterated_name":"Qafsa",
+    "standardized_arabic_name":"قفسة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"Ibn Khurradadhbih"
     }
   },
@@ -842,10 +842,10 @@ var ibnKhurrNoKura = {
        "coordinates":  [ 8.1229,33.9185 ]
     },
     "properties": {
-    "Standardised transliterated name":"Qastiliya",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"Qastiliya",
+    "standardized_arabic_name":"",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"Ibn Khurradadhbih"
     }
   },
@@ -856,10 +856,10 @@ var ibnKhurrNoKura = {
        "coordinates":  [ 5.751,34.837 ]
     },
     "properties": {
-    "Standardised transliterated name":"Tahuda",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"Tahuda",
+    "standardized_arabic_name":"",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"Ibn Khurradadhbih"
     }
   },
@@ -870,10 +870,10 @@ var ibnKhurrNoKura = {
        "coordinates":  [ 9.430765999,32.4833 ]
     },
     "properties": {
-    "Standardised transliterated name":"Medinat al-Zab",
-    "standardized arabic name":"مدينة الزاب",
+    "standardised_transliterated_name":"Medinat al-Zab",
+    "standardized_arabic_name":"مدينة الزاب",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"Ibn Khurradadhbih"
     }
   },
@@ -884,10 +884,10 @@ var ibnKhurrNoKura = {
        "coordinates":  [ 16.143924,29.16217222 ]
     },
     "properties": {
-    "Standardised transliterated name":"Waddan",
-    "standardized arabic name":"ودان",
+    "standardised_transliterated_name":"Waddan",
+    "standardized_arabic_name":"ودان",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"Ibn Khurradadhbih"
     }
   },
@@ -898,10 +898,10 @@ var ibnKhurrNoKura = {
        "coordinates":  [ 10.271937,36.89266111 ]
     },
     "properties": {
-    "Standardised transliterated name":"Tunus",
-    "standardized arabic name":"تونس",
+    "standardised_transliterated_name":"Tunus",
+    "standardized_arabic_name":"تونس",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"Ibn Khurradadhbih"
     }
   },
@@ -912,10 +912,10 @@ var ibnKhurrNoKura = {
        "coordinates":  [ 20.884034,32.505525 ]
     },
     "properties": {
-    "Standardised transliterated name":"Barqa",
-    "standardized arabic name":"برقة",
+    "standardised_transliterated_name":"Barqa",
+    "standardized_arabic_name":"برقة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"Ibn Khurradadhbih"
     }
   },
@@ -926,10 +926,10 @@ var ibnKhurrNoKura = {
        "coordinates":  [ 20.243938,30.77276667 ]
     },
     "properties": {
-    "Standardised transliterated name":"Ajdabiya",
-    "standardized arabic name":"أجدابية",
+    "standardised_transliterated_name":"Ajdabiya",
+    "standardized_arabic_name":"أجدابية",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"Ibn Khurradadhbih"
     }
   },
@@ -940,10 +940,10 @@ var ibnKhurrNoKura = {
        "coordinates":  [ 16.596903,31.20588056 ]
     },
     "properties": {
-    "Standardised transliterated name":"Surt",
-    "standardized arabic name":"سرت",
+    "standardised_transliterated_name":"Surt",
+    "standardized_arabic_name":"سرت",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"Ibn Khurradadhbih"
     }
   },
@@ -954,10 +954,10 @@ var ibnKhurrNoKura = {
        "coordinates":  [ 13.175897,32.89805278 ]
     },
     "properties": {
-    "Standardised transliterated name":"Tripoli",
-    "standardized arabic name":"طرابلس",
+    "standardised_transliterated_name":"Tripoli",
+    "standardized_arabic_name":"طرابلس",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"Ibn Khurradadhbih"
     }
   },
@@ -968,10 +968,10 @@ var ibnKhurrNoKura = {
        "coordinates":  [ 10.104942,33.88525556 ]
     },
     "properties": {
-    "Standardised transliterated name":"Qabis",
-    "standardized arabic name":"قابس",
+    "standardised_transliterated_name":"Qabis",
+    "standardized_arabic_name":"قابس",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"Ibn Khurradadhbih"
     }
   },
@@ -982,10 +982,10 @@ var ibnKhurrNoKura = {
        "coordinates":  [ 10.1005,35.6712 ]
     },
     "properties": {
-    "Standardised transliterated name":"Qayrawan",
-    "standardized arabic name":"قيروان",
+    "standardised_transliterated_name":"Qayrawan",
+    "standardized_arabic_name":"قيروان",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"Ibn Khurradadhbih"
     }
   }
@@ -1002,10 +1002,10 @@ var ibnKhurrSuf = {
        "coordinates":  [ -5.8407,30.3459 ]
     },
     "properties": {
-    "Standardised transliterated name":"D’ra",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"D’ra",
+    "standardized_arabic_name":"",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"Sufrid",
+    "kura_subregion_name":"Sufrid",
     "author":"Ibn Khurradadhbih"
     }
   },
@@ -1016,10 +1016,10 @@ var ibnKhurrSuf = {
        "coordinates":  [ -4.7278,31.9051 ]
     },
     "properties": {
-    "Standardised transliterated name":"Ziz",
-    "standardized arabic name":"زيز",
+    "standardised_transliterated_name":"Ziz",
+    "standardized_arabic_name":"زيز",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"Sufrid",
+    "kura_subregion_name":"Sufrid",
     "author":"Ibn Khurradadhbih"
     }
   }
@@ -1172,10 +1172,10 @@ var alYaqNoKura = {
        "coordinates":  [ 11.0389,37.0833 ]
     },
     "properties": {
-    "Standardised transliterated name":"Jazīrat Abī Sharīk",
-    "standardized arabic name":"جزيرة ابي شريك",
+    "standardised_transliterated_name":"Jazīrat Abī Sharīk",
+    "standardized_arabic_name":"جزيرة ابي شريك",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1186,10 +1186,10 @@ var alYaqNoKura = {
        "coordinates":  [ 6.9102,36.8715 ]
     },
     "properties": {
-    "Standardised transliterated name":"Skikda",
-    "standardized arabic name":"سككدة",
+    "standardised_transliterated_name":"Skikda",
+    "standardized_arabic_name":"سككدة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1200,10 +1200,10 @@ var alYaqNoKura = {
        "coordinates":  [ 10.171744,36.798034 ]
     },
     "properties": {
-    "Standardised transliterated name":"Tūnis",
-    "standardized arabic name":"تونس",
+    "standardised_transliterated_name":"Tūnis",
+    "standardized_arabic_name":"تونس",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1214,10 +1214,10 @@ var alYaqNoKura = {
        "coordinates":  [ 9.182313,36.723572 ]
     },
     "properties": {
-    "Standardised transliterated name":"Bājja",
-    "standardized arabic name":"باجة",
+    "standardised_transliterated_name":"Bājja",
+    "standardized_arabic_name":"باجة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1228,10 +1228,10 @@ var alYaqNoKura = {
        "coordinates":  [ 5.9833,36.718 ]
     },
     "properties": {
-    "Standardised transliterated name":"Jījil",
-    "standardized arabic name":"جيجل",
+    "standardised_transliterated_name":"Jījil",
+    "standardized_arabic_name":"جيجل",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1242,10 +1242,10 @@ var alYaqNoKura = {
        "coordinates":  [ 3.000022,36.599998 ]
     },
     "properties": {
-    "Standardised transliterated name":"Mattīja",
-    "standardized arabic name":"متيجة",
+    "standardised_transliterated_name":"Mattīja",
+    "standardized_arabic_name":"متيجة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1256,10 +1256,10 @@ var alYaqNoKura = {
        "coordinates":  [ 8.7757,36.5072 ]
     },
     "properties": {
-    "Standardised transliterated name":"Saṭfūra",
-    "standardized arabic name":"سطفورة",
+    "standardised_transliterated_name":"Saṭfūra",
+    "standardized_arabic_name":"سطفورة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1270,10 +1270,10 @@ var alYaqNoKura = {
        "coordinates":  [ 4.6715,36.1341 ]
     },
     "properties": {
-    "Standardised transliterated name":"Majjāna",
-    "standardized arabic name":"مجانة",
+    "standardised_transliterated_name":"Majjāna",
+    "standardized_arabic_name":"مجانة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1284,10 +1284,10 @@ var alYaqNoKura = {
        "coordinates":  [ 8.921615,36.098441 ]
     },
     "properties": {
-    "Standardised transliterated name":"Lurbus",
-    "standardized arabic name":"لربس",
+    "standardised_transliterated_name":"Lurbus",
+    "standardized_arabic_name":"لربس",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1298,10 +1298,10 @@ var alYaqNoKura = {
        "coordinates":  [ 10.637754,35.825157 ]
     },
     "properties": {
-    "Standardised transliterated name":"Sūsa",
-    "standardized arabic name":"سوسة",
+    "standardised_transliterated_name":"Sūsa",
+    "standardized_arabic_name":"سوسة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1312,10 +1312,10 @@ var alYaqNoKura = {
        "coordinates":  [ 5.072629,35.600085 ]
     },
     "properties": {
-    "Standardised transliterated name":"Maqqara",
-    "standardized arabic name":"مقرة",
+    "standardised_transliterated_name":"Maqqara",
+    "standardized_arabic_name":"مقرة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1326,10 +1326,10 @@ var alYaqNoKura = {
        "coordinates":  [ 8.444596,35.566091 ]
     },
     "properties": {
-    "Standardised transliterated name":"Marmājanna",
-    "standardized arabic name":"مرماجنة",
+    "standardised_transliterated_name":"Marmājanna",
+    "standardized_arabic_name":"مرماجنة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1340,10 +1340,10 @@ var alYaqNoKura = {
        "coordinates":  [ 5.5932,35.5566 ]
     },
     "properties": {
-    "Standardised transliterated name":"N'Gaous",
-    "standardized arabic name":"نقاوس",
+    "standardised_transliterated_name":"N'Gaous",
+    "standardized_arabic_name":"نقاوس",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1354,10 +1354,10 @@ var alYaqNoKura = {
        "coordinates":  [ 9.1262,35.2293 ]
     },
     "properties": {
-    "Standardised transliterated name":"Subayṭla",
-    "standardized arabic name":"سبيطلة",
+    "standardised_transliterated_name":"Subayṭla",
+    "standardized_arabic_name":"سبيطلة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1368,10 +1368,10 @@ var alYaqNoKura = {
        "coordinates":  [ 9.484966,35.038314 ]
     },
     "properties": {
-    "Standardised transliterated name":"Qamūda",
-    "standardized arabic name":"قمودة",
+    "standardised_transliterated_name":"Qamūda",
+    "standardized_arabic_name":"قمودة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1382,10 +1382,10 @@ var alYaqNoKura = {
        "coordinates":  [ -1.53298,34.826205 ]
     },
     "properties": {
-    "Standardised transliterated name":"Ṣabra",
-    "standardized arabic name":"صبرة",
+    "standardised_transliterated_name":"Ṣabra",
+    "standardized_arabic_name":"صبرة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1396,10 +1396,10 @@ var alYaqNoKura = {
        "coordinates":  [ 10.760235,34.736662 ]
     },
     "properties": {
-    "Standardised transliterated name":"Asfāqus",
-    "standardized arabic name":"اسفاقس",
+    "standardised_transliterated_name":"Asfāqus",
+    "standardized_arabic_name":"اسفاقس",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1410,10 +1410,10 @@ var alYaqNoKura = {
        "coordinates":  [ 8.208096,33.976022 ]
     },
     "properties": {
-    "Standardised transliterated name":"Taqyūs",
-    "standardized arabic name":"تقيوس",
+    "standardised_transliterated_name":"Taqyūs",
+    "standardized_arabic_name":"تقيوس",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1424,10 +1424,10 @@ var alYaqNoKura = {
        "coordinates":  [ 8.1229,33.9185 ]
     },
     "properties": {
-    "Standardised transliterated name":"Qasṭīliya",
-    "standardized arabic name":"قسطيلية",
+    "standardised_transliterated_name":"Qasṭīliya",
+    "standardized_arabic_name":"قسطيلية",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1438,10 +1438,10 @@ var alYaqNoKura = {
        "coordinates":  [ 10.0975,33.8881 ]
     },
     "properties": {
-    "Standardised transliterated name":"Tacapae",
-    "standardized arabic name":"",
+    "standardised_transliterated_name":"Tacapae",
+    "standardized_arabic_name":"",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1452,10 +1452,10 @@ var alYaqNoKura = {
        "coordinates":  [ 7.875313,33.872552 ]
     },
     "properties": {
-    "Standardised transliterated name":"Nafṭa",
-    "standardized arabic name":"نفطة",
+    "standardised_transliterated_name":"Nafṭa",
+    "standardized_arabic_name":"نفطة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1466,10 +1466,10 @@ var alYaqNoKura = {
        "coordinates":  [ 8.972481,33.704214 ]
     },
     "properties": {
-    "Standardised transliterated name":"Nifzāwa",
-    "standardized arabic name":"نفزاوة",
+    "standardised_transliterated_name":"Nifzāwa",
+    "standardized_arabic_name":"نفزاوة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1480,10 +1480,10 @@ var alYaqNoKura = {
        "coordinates":  [ 20.9417,32.7013 ]
     },
     "properties": {
-    "Standardised transliterated name":"Ṭulamaytha",
-    "standardized arabic name":"طلميثة",
+    "standardised_transliterated_name":"Ṭulamaytha",
+    "standardized_arabic_name":"طلميثة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1494,10 +1494,10 @@ var alYaqNoKura = {
        "coordinates":  [ 14.2948,32.6343 ]
     },
     "properties": {
-    "Standardised transliterated name":"Labda",
-    "standardized arabic name":"لبدة",
+    "standardised_transliterated_name":"Labda",
+    "standardized_arabic_name":"لبدة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1508,10 +1508,10 @@ var alYaqNoKura = {
        "coordinates":  [ 20.5871,32.5326 ]
     },
     "properties": {
-    "Standardised transliterated name":"Ājiya",
-    "standardized arabic name":"آجية",
+    "standardised_transliterated_name":"Ājiya",
+    "standardized_arabic_name":"آجية",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1522,10 +1522,10 @@ var alYaqNoKura = {
        "coordinates":  [ 20.09111,32.11139 ]
     },
     "properties": {
-    "Standardised transliterated name":"Berenike",
-    "standardized arabic name":"برنيق",
+    "standardised_transliterated_name":"Berenike",
+    "standardized_arabic_name":"برنيق",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1536,10 +1536,10 @@ var alYaqNoKura = {
        "coordinates":  [ 16.5702,31.1897 ]
     },
     "properties": {
-    "Standardised transliterated name":"Surt",
-    "standardized arabic name":"سرت",
+    "standardised_transliterated_name":"Surt",
+    "standardized_arabic_name":"سرت",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1550,10 +1550,10 @@ var alYaqNoKura = {
        "coordinates":  [ 5.8407,30.3459 ]
     },
     "properties": {
-    "Standardised transliterated name":"Darʿa",
-    "standardized arabic name":"درعة",
+    "standardised_transliterated_name":"Darʿa",
+    "standardized_arabic_name":"درعة",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1564,10 +1564,10 @@ var alYaqNoKura = {
        "coordinates":  [ 20.1403,30.2146 ]
     },
     "properties": {
-    "Standardised transliterated name":"Ajdābiyya",
-    "standardized arabic name":"اجدابية",
+    "standardised_transliterated_name":"Ajdābiyya",
+    "standardized_arabic_name":"اجدابية",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1578,10 +1578,10 @@ var alYaqNoKura = {
        "coordinates":  [ 16.1463,29.1561 ]
     },
     "properties": {
-    "Standardised transliterated name":"Waddān",
-    "standardized arabic name":"ودان",
+    "standardised_transliterated_name":"Waddān",
+    "standardized_arabic_name":"ودان",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1592,10 +1592,10 @@ var alYaqNoKura = {
        "coordinates":  [ 21.4991,29.0406 ]
     },
     "properties": {
-    "Standardised transliterated name":"Jālū",
-    "standardized arabic name":"جالو",
+    "standardised_transliterated_name":"Jālū",
+    "standardized_arabic_name":"جالو",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1606,10 +1606,10 @@ var alYaqNoKura = {
        "coordinates":  [ 15.4068,14.8781 ]
     },
     "properties": {
-    "Standardised transliterated name":"Kawār",
-    "standardized arabic name":"كوار",
+    "standardised_transliterated_name":"Kawār",
+    "standardized_arabic_name":"كوار",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   },
@@ -1620,10 +1620,10 @@ var alYaqNoKura = {
        "coordinates":  [ 13.1546,11.8428 ]
     },
     "properties": {
-    "Standardised transliterated name":"Fazzān",
-    "standardized arabic name":"فزان",
+    "standardised_transliterated_name":"Fazzān",
+    "standardized_arabic_name":"فزان",
     "region name":"Ifriqiya",
-    "kura/sub-region name":"No sub-region mentioned",
+    "kura_subregion_name":"No sub-region mentioned",
     "author":"al-Ya'qubi"
     }
   }
