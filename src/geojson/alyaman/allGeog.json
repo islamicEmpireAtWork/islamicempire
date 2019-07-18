@@ -1669,3 +1669,1760 @@ var qudSan = {
   }
 ]
 };
+
+var alMuqTih = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  43.316782, 14.195312 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Zabīd",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Tihāma",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.295278, 14.306667 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Maʿqir",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Tihāma",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.233331, 14.833331 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Kadrā",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Tihāma",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.965404,  15.665271 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Mawr",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Tihāma",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.774701, 16.401503 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Sharja",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Tihāma",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.766074, 16.375358 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Duwayma",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Tihāma",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.747943, 17.960749 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Ḥamiḍa",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Tihāma",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.016305, 14.431757 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ghalāfiqa",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Tihāma",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.245600, 13.317175 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Mukhā",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Tihāma",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.607928, 15.230545 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Kamarān",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Tihāma",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.815166, 15.275184 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿAṭana",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Tihāma",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.740907, 15.737297 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Ḥirda",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Tihāma",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.026623, 14.822899 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Sharma",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Tihāma",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.199219, 15.270683 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Mahjam",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Tihāma",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.843468, 16.632531 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Khaṣūf",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Tihāma",
+    "author":"al-Muqaddāsi"
+    }
+  },
+]
+};
+
+var alMuqAby = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  45.081919, 12.916267 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Abyan",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Abyan",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.029047, 12.774201 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿAdan",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Abyan",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.883611, 13.057500 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Lahj",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Abyan",
+    "author":"al-Muqaddāsi"
+    }
+  }
+]
+};
+
+var alMuqAthr = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.371964, 17.204923 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿAthr",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"ʿAthr",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.536250, 17.373956 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Baysh",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"ʿAthr",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.347175, 18.683544 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Halī",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"ʿAthr",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.312846, 20.117057 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Al-Sirrayn",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"ʿAthr",
+    "author":"al-Muqaddāsi"
+    }
+  }
+]
+};
+
+var alMuqalSar = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.215899, 15.351341 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Sanʿāʾ",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"al-Sarāt",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.765287, 16.938868 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Saʿda",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"al-Sarāt",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.096290, 17.480558 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Nadjrān",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"al-Sarāt",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.824262, 18.202992 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Jurash",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"al-Sarāt",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.983211, 14.032491 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Jublān",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"al-Sarāt",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.166412, 13.668688 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Janad",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"al-Sarāt",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.406519, 14.546052 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Dhamār",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"al-Sarāt",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.051015, 14.400084 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Nasfān",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"al-Sarāt",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.402325, 14.213651 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Yaḥsib",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"al-Sarāt",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.966847, 13.885521 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Mudhaykhira",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"al-Sarāt",
+    "author":"al-Muqaddāsi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.493704, 15.185207 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Khawlān",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"al-Sarāt",
+    "author":"al-Muqaddāsi"
+    }
+  }
+]
+};
+
+var alMuqalAhq = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.464502, 16.923790 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ḥaḍramawt",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"al-Aḥqāf",
+    "author":"al-Muqaddāsi"
+    }
+  }
+]};
+
+var alMuqMah = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.605440, 14.753101 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Shiḥr",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mahra",
+    "author":"al-Muqaddāsi"
+    }
+  }
+]};
+
+var alMuqSab = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.355930, 15.404198 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Maʾrib",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Sabʾā",
+    "author":"al-Muqaddāsi"
+    }
+  }
+]};
+
+var alHamSad = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.765287, 16.938868 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Saʿda",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.802858, 16.807310 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʾAsal",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.683341, 16.750004 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Jabal Bani ʿUwayr",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.285833, 16.948056 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Nuʿmān",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.194443, 16.927222 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Nuʿmān",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.353889, 16.937222 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Mawqir",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.711666, 16.872222 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Farwa",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.510000, 17.016944 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-ʿAshsha",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.804444, 16.891944 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Dammāj",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.376191, 17.282456 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Baṭina",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.784166, 16.897223 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Khāniq",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.770826, 16.926391 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Raḥbān",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.764037, 16.915787 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qaḍḍān",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.329697, 16.965170 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Ghayl",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.797214, 16.987780 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿAkwān",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.767778, 17.020000 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Wādī Rubaʾy",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.722778, 16.943333 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Nasrīn",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.737238, 16.925920 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Ṣaḥn",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.682242, 16.868313 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Wādī ʿAlāf",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.725833, 17.033889 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ḥaḍbar",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.695278, 17.126389 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Sarūm",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.393515, 16.660059 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-ʾAkhbāb",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.196935, 17.292067 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Ḥāḍina",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.614228, 16.962304 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ṣabar",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.702778, 17.005555 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Khabt",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.433454, 17.299174 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Yasnam",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.503411, 17.209642 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Rughāfa",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.403281, 17.185966 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Bawṣān",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.260782, 16.935590 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Rāziḥ",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.720545, 17.048570 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Abqūr",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.396198, 17.325231 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Qaywān",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.286391, 16.892222 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ghaylān",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.242778, 16.849167 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"‘Arāsh",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.525000, 16.876944 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Sāqayn",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.364167, 16.795556 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿAfāra",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.432750, 16.777111 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ḥaydān",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.769223, 16.637570 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Mawtak",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.789444, 16.953056 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Kahlān (Wādī)",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.683056, 16.885278 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Al-ʿAblā (Jabal)",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.428333, 16.779167 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-ʿArḍ",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.532500, 16.823056 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ḥarjab",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ṣaʿada",
+    "author":"al-Hamdānī"
+    }
+  },
+]};
+
+var alHamDhu = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.086047, 14.695131 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"al-Ḥada",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Dhu Jura",
+    "author":"al-Hamdānī"
+    }
+  }
+]};
+
+var alHamAns = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.674035, 14.571035 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Jibal Isbīl",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf ʿAns",
+    "author":"al-Hamdānī"
+    }
+  }
+]};
+
+var alHamMay = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.262692, 13.913112 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Maytam",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Maytam",
+    "author":"al-Hamdānī"
+    }
+  }
+]};
+
+var alHamShab = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.024906, 15.369955 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Shabwa",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Shabwa",
+    "author":"al-Hamdānī"
+    }
+  }
+]};
+
+var alHamHali = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.347175, 18.683544 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Ḥalī",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Ḥalī",
+    "author":"al-Hamdānī"
+    }
+  }
+]};
+
+var alHamAthr = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.371964, 17.204923 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"ʿAthr",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Athr",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.536250, 17.373956 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Baysh",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Athr",
+    "author":"al-Hamdānī"
+    }
+  },
+]};
+
+var alHamHays = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.481105, 13.931076 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Hays",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Hays",
+    "author":"al-Hamdānī"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.522578, 13.888900 ]
+    },
+    "properties": {
+    "standardised_transliterated_name":"Wādī al-Milḥ",
+    "standardized_arabic_name":"",
+    "region name":"al-Yaman",
+    "kura_subregion_name":"Mikhlāf Hays",
+    "author":"al-Hamdānī"
+    }
+  }
+]};
+
+var alHamHam = {
+"type": "FeatureCollection",
+"standardised_transliterated_name": "alHamHam",
+"crs": { "type": "standardised_transliterated_name", "properties": { "standardised_transliterated_name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Saʿda", "description": "#id# modern city with the name ̣̣Saʿda\n#loc# modern city with the same name, al-Hadi Mosque that dates back to the 9th century, the ancient city wall, http:\/\/www.geonames.org\/71334\/sa-dah.html\n#ref# al-Hamdānī p. 67, 109",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.765286951867033, 16.938868171157111 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Sanʿāʾ", "description": "#id# modern city with the name Ṣanʿāʾ\n#loc# ancient city, Bab Al-Yaman, modern city with the same name, http:\/\/www.geonames.org\/71137\/sanaa.html\n#ref# al-Hamdānī 55-66, 109",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.215898541688489, 15.35134060805701 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Ṣamaʿ", "description": "#loc# modern mountain with the name al-Ṣamaʿ, Forrer 1942:110 Glaser L. Peterm. Mitt) on the right side of Wadi Khārid\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/71161\/jabal-as-sama.html\n#ref# al-Hamdānī p. 81, 109, 168, Wilson 1989:215",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.293035928745581, 15.60722741791845 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Ṣamaʿ ", "description": "#loc# modern place with the name Ṣamaʿ\n#id# modern place with the same name, http:\/\/www.geonames.org\/71163\/sama.html\n#ref# al-Hamdānī p. 81, 109, 168, Wilson 1989:215",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.783336375176347, 15.98333535511466 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥadaqān ", "description": "#loc# modern place  with the name Ḥadaqān\n#id# modern place with the same name, http:\/\/www.geonames.org\/7866901\/hadqan.html\n#ref# al-Hamdānī p. 109, Wilson 1989:133",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.446944400483488, 17.220000000008461 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥadaqān", "description": "#loc# modern place (ruins) with the name Ḥadaqān\n#id# modern place with the same name, http:\/\/www.geonames.org\/10942410\/hadaqan.html\n#ref# al-Hamdānī p. 109, Wilson 1989:133",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.253611009482562, 15.572500185863509 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Raḥba (al-Raḥaba)", "description": "#loc# modern place with the name al-Raḥba, might be today al-Raḥaba\n#id# modern place with the same name, http:\/\/www.geonames.org\/8020398\/ar-rahabah.html\n#ref# al-Hamdānī p. 108, Wilson 1989:173",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.711655154412867, 16.176090240870838 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Raḥba", "description": "#loc# modern place with the name al-Raḥba\n#id# modern place with the same name, http:\/\/www.geonames.org\/9975021\/ar-rahbah.html\n#ref# al-Hamdānī p. 108, Wilson 1989:173",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.568333299905461, 16.439166700192541 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Shaʿr ", "description": "#loc# modern place with the name al-Shaʿr\n#id# modern place with the same name, http:\/\/www.geonames.org\/8020525\/ash-shar.html\n#ref# al-Hamdānī p. 109",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.703055599547319, 16.083611100009321 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Maṭra (Maṭira) ", "description": "#loc# modern place with the name Maṭra, both مطرة , according to Forrer 1943:183 it seems that the place is in the Nihm area,\n#id# modern place with the same name, http:\/\/www.geonames.org\/7631647\/matrah.html\n#ref# al-Hamdānī p. 109",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.230840219374649, 16.285587427630631 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Maṭra (Maṭira) ", "description": "#loc# modern place with the name Maṭra, both مطرة , according to Forrer 1943:183 it seems that the place is in the Nihm area, thus this place would be not the one reffered to \n#id# modern place with the same name, http:\/\/www.geonames.org\/7345990\/matrah.html\n#ref# al-Hamdānī p. 109",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.261959450236041, 17.223076915424699 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Nihm", "description": "#loc# modern admin. area with the name Nihm\n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/6940800\/nihm.html\n#ref# Forrer 1942:183, fn 8, it seems that wadi Sharʿ and Maṭira are located in this area",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.574717205990801, 15.750819377911061 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Thājir", "description": "#loc# modern place with the name Thājir\n#id# modern place with the same name, http:\/\/www.geonames.org\/7362240\/thajir.html\n#ref# al-Hamdānī p. 109",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.487499999760573, 15.62777780025897 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Milḥ", "description": "#loc# modern village with the name Milḥ\n#id# modern place with the same name, http:\/\/www.geonames.org\/7342788\/qaryat-milh.html\n#ref# al-Hamdānī p. 109",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.591950170154767, 15.70860720812526 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Barrān", "description": "#loc# modern place with the name Barrān\n#id# modern place with the same name, http:\/\/www.geonames.org\/34742\/barran.html, http:\/\/www.geonames.org\/8300146\/barran.html\n#ref# al-Hamdānī p. 109",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.570913665470172, 15.74161085609733 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Murhiba", "description": "#loc# modern admin. area with the name Murhiba, like the name of the tribe, mentioned by al-Hamdānī\n#id# modern admin. adrea with the same name\n#ref# al-Hamdānī p. 109",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.113901600925637, 16.064435880710519 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Maḥsim", "description": "#loc# modern place with the name Maḥsim\n#id# modern place with the same name, http:\/\/www.geonames.org\/404905\/mahsim.html\n#ref# al-Hamdānī p. 109",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.236110538705603, 15.84166773950113 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Itwa", "description": "#loc# moder place with the same name Itwa\n#id# modern place with the same name, http:\/\/www.geonames.org\/404935\/itwah.html\n#ref# al-Hamdānī p. 109,\nhttp:\/\/www.yemen-nic.info\/contents\/Tourism\/detail.phpID=7594&print=Y,  https:\/\/ar.wikipedia.org\/wiki\/%D8%A7%D8%AA%D9%88%D8%A9_%28%D8%A3%D8%B1%D8%AD%D8%A8%29",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.273720498087577, 15.784377750182291 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Riyām", "description": "#loc# modern mountain with the name Riyām, Itwa is supposed to be border (yaqtʿa) with the mountain.\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/71450\/jabal-riyam.html\n#ref# al-Hamdānī p. 109, http:\/\/www.yemen-nic.info\/contents\/Tourism\/detail.phpID=7594&print=Y",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.275878684912243, 15.7966395019034 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "(al-Marfiq  and Ḥarama ) near Riyām", "description": "#id# Forrer 1942:184, fn 2 are located on the Jabil Irwa near Riyām\n#loc#  modern place with the name Riyām http:\/\/www.geonames.org\/404934\/riyam.html\n#ref# al-Hamdānī p. 109",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.279714172802628, 15.79284220928364 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Dhaybān ", "description": "#loc# modern place with the name Dhaybān\n#id# modern place with the same name, http:\/\/wikimapia.org\/#lang=de&lat=16.059671&lon=44.282455&z=11&m=b&show=\/33260295\/Deeban&search=%D8%B0%D9%8A%D8%A8%D8%A7%D9%86\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.284139485930027, 15.9032608258251 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Nihm", "description": "#loc# modern mountain with the name Nihm\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/72362\/jibal-naham.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.583333299923147, 15.633333299874151 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Haylān", "description": "#loc# modern place with the name Haylān\n#id# moder place with the same name, http:\/\/www.geonames.org\/9976228\/haylan.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 45.08083329975932, 15.498333300379461 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "ʿAyāl Ghufayr", "description": "#loc# modern admin. area with the name ʿAyāl Ghufayr\n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/8736336\/-ayal-ghufayr.html",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.646270045144142, 15.62548543750251 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥarīb al-Raḍrāḍ  (Jabal Ṣalab)", "description": "#loc# modern place with the name Jabal Ṣalab, which is within the ʿAyāl Ghufayr https:\/\/ar.wikipedia.org\/wiki\/%D8%AC%D8%A8%D9%84_%D8%B5%D9%84%D8%A8_%28%D9%86%D9%87%D9%85%29\n\n and Ḥarīb al-Raḍrāḍ has been somewhere in this area, http:\/\/www.yemen-nic.info\/contents\/Tourism\/detail.phpID=7595 \n2\/8\/16\n#id# modern place with the samen name https:\/\/ar.wikipedia.org\/wiki\/%D8%B4%D8%B1%D9%83%D8%A9_%D8%AC%D8%A8%D9%84_%D8%B5%D9%84%D8%A8_%28%D8%A7%D9%84%D9%8A%D9%85%D9%86%29\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.773553250203001, 15.61247385020631 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Barāqish", "description": "#loc# modern place with the name Barāqish\n#id# modern place with the same name, http:\/\/www.geonames.org\/77129\/baraqish.html http:\/\/www.geonames.org\/7874862\/baraqish.html, \n#ref# al-Hamdānī p. 110, 167",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.804243514196223, 16.019059093920522 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Hayna", "description": "#loc# modern wadi with the name Hayna\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/7342898\/wadi-hayna.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.632541708904597, 15.53236788985455 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Hirrān", "description": "#loc# modenr place with the name Hirrān\n#id# modern place with the same name, http:\/\/www.geonames.org\/7890582\/hiran.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.81498086148995, 16.140049384800459 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Hirrān", "description": "http:\/\/www.geonames.org\/407122\/wadi-hirran.html",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.397313376222243, 16.048692404251138 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Dāʿim", "description": "#loc# modern place with the name  Dāʿim\n#id# modern place with the same name, http:\/\/www.geonames.org\/7362767\/da-im.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.329457821707628, 16.043613812735021 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Dāʿim ", "description": "#loc# modern place with the name  Dāʿim\n#id# modern place with the same name, http:\/\/www.geonames.org\/9974306\/da-im.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.234996300935173, 16.044133317909122 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Khawīr", "description": "#loc# modern place with the name al-Khawīr\n#id# modern place with the same name, http:\/\/www.geonames.org\/7362787\/al-khawir.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.329715301578169, 16.793290370393919 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal al-ʿAql", "description": "#loc# modern mountain with the name Jabal al-ʿAql\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/407021\/jabal-al-aql.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.765092006661391, 16.22741576160351 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Warwar ", "description": "#loc# modern wadi with the name Warwar, no place as such or  mountain as mentioned by al-Hamdānī is to be located\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/69650\/wadi-warwar.html\n#ref# al-Hamdānī p. 110, 111",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.187223377155057, 15.99860997830617 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Razwa ", "description": "#loc# modern place with the name al-Razwa\n#id# modern place with the same name, http:\/\/www.geonames.org\/9633789\/al-razwah.html\n\npossible other Razwa\nhttp:\/\/www.geonames.org\/9634912\/ar-razwah.html\n\n\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.797782730764339, 16.098057263600818 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Razwa ", "description": "#loc# modern place with the name al-Razwa\n#id# modern place with the same name, \nhttp:\/\/www.geonames.org\/9634912\/ar-razwah.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.857873493017422, 16.030489212658519 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥabāsha (Wādī Jawfān wa Ḥabāsha)", "description": "#loc# modern wadi with the name Jawfān wa Ḥabāsha, might indicate the location of Ḥabāsha mentioned by al-Hamdānī. However al-Hamdānī states that  Ḥabāsha is located in lower Maḥṣam, while this place is north of Maḥṣam\n#id# modern wadi with parts of the name, \nhttp:\/\/www.geonames.org\/8737170\/wadi-jawfan-wa-habashah.html\n#ref# al-Hamdānī p 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.027533463275311, 16.563952778480051 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥabāsha (Ḥibāsha)", "description": "#loc# modern place with the name Ḥibāsha, However al-Hamdānī states that  Ḥabāsha is located in lower Maḥṣam, while this place is north of Maḥṣam\n#id# modern place with an identical name *arabic same word, \nhttp:\/\/www.geonames.org\/7362183\/hibashah.html\n#ref# al-Hamdānī p 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.235833299859522, 15.95666670015898 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Muwallida", "description": "#loc# modern place with the name al-Muwallida \n#id# modern place with the same name, http:\/\/www.geonames.org\/9975497\/al-mawlidah.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.146666700137636, 15.955555600156559 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Sawlān", "description": "#loc# modern place with the name Sawlān\n#id# modern place with the same name, http:\/\/www.geonames.org\/8300368\/sawlan.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.138611100131229, 16.013888888888889 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Sawlān", "description": "#loc# modern place with the name Sawlān\n#id# modern place with the same name, http:\/\/www.geonames.org\/8300369\/sawlan.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.129131457969322, 16.023333477229482 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Sawlān", "description": "#loc# modern mountain with the name Sawlān\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/71031\/jabal-sawlan.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.12950410943079, 15.99176501110793 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Kharfān", "description": "#loc# modern place with the name Kharfān\n#id# modern place with the same name, http:\/\/www.geonames.org\/407113\/kharfan.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 44.107809737003272, 16.04525965579818 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Kasād", "description": "#loc# modern village with the name al-Kasād, located in the subdistrict (ʿazala) Marhaba, http:\/\/www.yemenna.com\/index.phpgo=guide&op=show_vill&ide=40229\n#id# modern sub district with the name Marhaba\nhttp:\/\/wikimapia.org\/#lang=de&lat=16.080785&lon=44.094315&z=12&m=b&show=\/7437412\/%D9%85%D8%B1%D9%87%D8%A8%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1&search=%D9%85%D8%B1%D9%87%D8%A8%D9%87\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.094165411229277, 16.080555764858161 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Ṣabīʿ", "description": "#loc#  modern place with the name al-Ṣabīʿ\n#id# modern place with the same name, http:\/\/www.geonames.org\/77892\/as-sabi.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.966666699996168, 16.116666699673079 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Ṣabīʿ (village)", "description": "#loc#  modern place with the name al-Ṣabīʿ\n#id# modern place with the same name, http:\/\/www.geonames.org\/407070\/qaryat-as-sabi.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.03777780058914, 16.108333299153468 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥayrān", "description": "#ref# al-Hamdānī p. 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.047278191772811, 16.129845985653201 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḍāhya", "description": "#loc# modern place with the name Gharib Ḍāhya\n#id# modern place with the same name, \nhttp:\/\/www.geonames.org\/7632199\/gharib-dahiyah.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.274748165678503, 16.129557504324101 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "ʿIyān ", "description": "#loc# modern admin. area with the name Wādī ʿIyān, with a village named ʿIyān, http:\/\/www.yemenna.com\/index.phpgo=guide&op=show_vill&ide=39512\n#loc# modern admin. area with the same name http:\/\/www.geonames.org\/8737171\/wadi-ayan.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.969237349867683, 16.459582635288459 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Khaywān", "description": "#id# modern village with the name Khaywān\n#loc# modern village with the same name, http:\/\/www.geonames.org\/73756\/khaywan.html\n#ref# al-Hamdānī p. 66, 110, 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.065853794168362, 16.27998015389969 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Barkān\/ Birkān", "description": "#loc# modern place with the name Barkān, Birkān\n#id# moden place with the same name http:\/\/www.geonames.org\/76774\/burkan.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.032944544858161, 16.461108441917229 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Barkān ", "description": "#loc# modern place with the name Barkān\n#id# moden place with the same name http:\/\/www.geonames.org\/7687029\/burkan.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.837049430090033, 16.865939855492289 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Madhāb", "description": "#loc# modern place with the name Madhāb\n#id# modern place with the same name, http:\/\/www.geonames.org\/9974352\/madhab.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.327899579671183, 16.4538339792424 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Madhāb", "description": "#loc# modern place with the name Madhāb\n#id# modern place with the same name, http:\/\/www.geonames.org\/9974352\/madhab.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.200719603494129, 16.54836458944661 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Quṣrān (Jabal)", "description": "#loc# modern mountain with the name Jabal Quṣrān\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/406789\/jabal-qusran.html, \n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.934722219733267, 16.72805557215705 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Witrān (Jabal) ", "description": "#loc# modern mountain with the name Jabal Witrān\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/7342297\/jabal-witran.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.080084303030013, 15.253597071717319 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Ḥajr ", "description": "#loc# modern place with the name al-Ḥjr, nevertheless the name is quite freqeuent thus it might be a different place. \n#id# modern place with the same name, http:\/\/www.geonames.org\/9975464\/al-hajr.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.119444399689911, 15.975833299921581 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Ḥajar", "description": "#loc# modern place with the name al-Ḥjr, nevertheless the name is quite freqeuent thus it might be a different place. \n#id# modern place with the same name, http:\/\/www.geonames.org\/7683885\/al-hajar.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.98222220052331, 16.978888899554349 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Baraṭ", "description": "#loc# modern place with the name Baraṭ\n#id# modern place with the same name, http:\/\/www.geonames.org\/77124\/barat.html, \n#ref# al-Hamdānī p. 82, 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.253195420871897, 16.590580213102761 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ṭulāḥ", "description": "#loc# modern place with the name Ṭulāḥ\n#id# modern place with the same name, http:\/\/www.geonames.org\/7794803\/talah.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.54972439375063, 17.094722930438081 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥalaf", "description": "#loc# modern place with the name Ḥalaf\n#id# modern place with the same name, http:\/\/www.geonames.org\/7927060\/al-halaf.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.384166699888482, 16.890833300181789 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Maṣādir (too far south)", "description": "#loc# modern place with the name al-Maṣādir\n#id# modern place with the same name, http:\/\/www.geonames.org\/10332050\/al-masadir.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.963055600645902, 15.45777780018407 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Rishāḥa", "description": "#loc# modern area with the name Rishāḥa\n#id# modern area with the same name, http:\/\/www.geonames.org\/7345073\/rishahah.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.497063278223777, 17.32917167706664 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Rishāḥa", "description": "#loc# modern wadi with the name Rishāḥa\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/7345071\/wadi-rishahah.html\n#ref# al-Hamdānī p. 110",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.48342367360803, 17.316510669956418 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Marāshī", "description": "#loc# modern place with the name al-Marāshī\n#id# modern place with the same name, marked in google earth\n#ref# al-Hamdānī p. 110, 167",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.334917206580698, 16.520954190347631 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Ḥaḍan", "description": "#loc# modern mountain with the name Ḥaḍan\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/7362712\/jabal-al-hadan.html\n#ref# al-Hamdānī p. 111",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.004166699767062, 16.964166721960819 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Rayda", "description": "#loc# modern place with the name Rayda, \n#id# modern place with the same name, http:\/\/www.geonames.org\/8737269\/raydah.html\n#ref# al-Hamdānī p. 111, wa āmā al-Bawn fa qurāhu",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.035520869839672, 15.81589390179499 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Jirāf", "description": "#loc# modern place with the name al-Jirāf\n#id# modern place with the same name, http:\/\/www.geonames.org\/79246\/al-jiraf.html\n#ref# al-Hamdānī p. 111",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.207222200198537, 15.402500000766789 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Dahbān (al-Rawda)", "description": "#loc# modern place within the admin. area of al-Rawda, https:\/\/ar.wikipedia.org\/wiki\/%D8%AD%D8%A7%D8%B1%D8%A9_%D8%B0%D9%87%D8%A8%D8%A7%D9%86_%28%D8%B5%D9%86%D8%B9%D8%A7%D8%A1%29\n#id# modern place with the name al-Rawda, http:\/\/www.geonames.org\/8737306\/ar-rawdah.html\n#ref# al-Hamdānī p. 111",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.223329606318963, 15.4213902168385 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "ʿAshr", "description": "#loc# modern place with the name ʿAshr\n#id# modern place with the same name, http:\/\/www.geonames.org\/7890499\/-ashar.html\n#ref# al-Hamdānī p. 111",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.127504922775849, 15.45555389368602 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "ʿAlmān", "description": "#loc# modern place with the name ʿAlmān\n#id# modern place with the same name, http:\/\/www.geonames.org\/403743\/-alman.html\n#ref# al-Hamdānī p. 111",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.142790974420897, 15.462215521926799 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Raḥāba  (Ruḥāba)", "description": "#loc# modern place with the name Raḥāba  (Ruḥāba)\n#id# modern place with the same name, http:\/\/www.geonames.org\/78168\/ar-rahabah.html\n#ref# al-Hamdānī p. 111",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.250000000073712, 15.533333299909311 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥāz", "description": "#loc# modern village with the name Ḥāz\n#id# modern village with the same name, http:\/\/www.geonames.org\/74897\/haz.html\n#ref# al-Hamdānī p. 107, 111",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.002499479593332, 15.516360107749531 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Bawn (plains)", "description": "#loc# modern plains with the name al-Bawn\n#id# modern plains with the same name, http:\/\/www.geonames.org\/7361763\/qa-al-bawn.html\n#ref# al-Hamdānī p. 111",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.466633120106863, 15.730137957155341 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Bawn (plains)", "description": "#loc# modern plains with the name al-Bawn\n#id# modern plains with the same name,  http:\/\/www.geonames.org\/77037\/qa-al-bawn.html\n#ref# al-Hamdānī p. 111",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.997059430491532, 15.729857157056379 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Qāʿ Jahrān (Ḥaql)", "description": "#loc# modern area with the name Qāʿ Jahrān (Qāʿ and Ḥaql having almost equivalent meanings)\n#id# modern place with the same name, \nhttp:\/\/www.geonames.org\/72027\/qa-jahran.html\n#ref# al-Hamdānī p. 111",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.383334139359803, 14.949913821338709 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jahrān", "description": "#loc# modern admin. area with the name Jahrān\n#id# modern admin area with the same name, http:\/\/www.geonames.org\/6940772\/jahran.html\n#ref# al-Hamdānī p. 111",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.313988206990842, 14.73175325672945 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḍāf", "description": "#loc# modern place with the name Ḍāf\n#id# modern place with the same name, http:\/\/www.geonames.org\/34759\/daf.html\n#ref# al-Hamdānī p. 111 (Qarya)",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.276944541739418, 14.89444331855649 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Tafāḍul (Tafāḍil)", "description": "#loc# modern place named Tafāḍul, located in the subdistict of ʿAlu Jahrān, Forrer 1942:187 fn 5 southeast of Ḍāf http:\/\/www.yemenna.com\/index.phpgo=guide&op=show_vill&ide=8728\nhttp:\/\/www.geonames.org\/7361159\/tafadil.html\n#ref# al-Hamdānī p. 111 (Qarya)",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.323332610755337, 14.871366632270171 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Madāra (ʿAlu Jahrān)", "description": "#loc# modern place named al-Madāra located in the subdistict of ʿAlu Jahrān, Forrer 1942:187 fn 5 southeast of Ḍāf http:\/\/www.yemenna.com\/index.phpgo=guide&op=show_vill&ide=8730\nhttp:\/\/www.geonames.org\/8735617\/-alw-jahran.html\n#ref# al-Hamdānī p. 111 (Qarya)",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.280549186625862, 14.8710842501781 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Yakārān (Yakār)", "description": "#loc# modern place with the name Yakārān\n#id# modern place with the  name Yakār, http:\/\/www.geonames.org\/402249\/yakar.html\n#ref# al-Hamdānī p. 111 (Qarya)",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.313613982781632, 14.91387496298225 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Khirba (Kharba)", "description": "#loc# modern place with the name Khirba\n#id# modern place with the name Kharba, http:\/\/www.geonames.org\/79146\/al-kharbah.html\n#ref# al-Hamdānī p. 111 (Qarya)",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.299679770948522, 14.91658888737963 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-ʿUlayb", "description": "#loc# modern place with the name al-ʿUlayb \n#id# modern place with the same name, http:\/\/www.geonames.org\/7361056\/al-ulayb.html\n#ref# al-Hamdānī p. 111 (Qarya)",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.32584523835876, 14.795138753358451 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Qubātil", "description": "#loc# modern place with the name Qubātil\n#id# modern place with the same name, http:\/\/www.geonames.org\/403040\/qubatil.html\n#ref# al-Hamdānī p. 111 (Qarya)",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.319176480105597, 14.662625636881261 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Dhu Ḥashrān (Ḥashrān)", "description": "#loc# modern place with the name Ḥashrān\n#id# modern place with the name Ḥashrān, http:\/\/www.geonames.org\/75049\/hashran.html\n#ref# al-Hamdānī p. 111 (Qarya)",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.283333300158972, 14.89999999991962 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ṭulkhāma (Ṭilkhāma)", "description": "#loc# modern place with the name Ṭilkhāma \n#id# modern place with the same name, http:\/\/www.geonames.org\/70005\/tilhamah.html\n #ref# al-Hamdānī p. 111 (Qarya)",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.283333310342627, 14.80000692714872 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ṭulkhāma (Ṭilkhāma)", "description": "#loc# modern place with the name Ṭilkhāma, Forrer 1942:187 places it between Maʿbar and Qubatil\n#id# modern place with the same name, http:\/\/www.geonames.org\/403011\/tilhamah.html\n #ref# al-Hamdānī p. 111 (Qarya)",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.300415901021204, 14.741994365254669 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Maʿbar", "description": "#loc# modern place with the name Maʿbar\n#id# modern place with the same name, http:\/\/www.geonames.org\/73409\/ma-bar.html\n #ref# al-Hamdānī p. 111 (Qarya)",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.293547478308291, 14.79350508247779 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "ʿAsam (Qarn ʿAsam)", "description": "#loc# modern place with the name ʿAsam\n#id# modern place with the same name, http:\/\/www.geonames.org\/402241\/-asam.html\n #ref# al-Hamdānī p. 111 (Qarya)",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.329158948888647, 14.7522318218814 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wasiṭa", "description": "#loc# modern palce with the name Wasiṭa\n#id# modern place with the same name, http:\/\/www.geonames.org\/69628\/wasitah.html\n#ref# al-Hamdānī p. 111 (Qarya)",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.280846578685143, 14.82026279455313 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥamuda", "description": "#loc# modern admin. area with the name Ḥamuda\n#id# modern admin. area with the same name, \nhttp:\/\/www.geonames.org\/8737270\/hamadah.html\n#ref# al-Hamdānī p. 111, wa āmā al-Bawn fa qurāhu",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.971534352231139, 15.841168082612681 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "ʿAthār (al-Asfal)", "description": "#loc# modern place with the name ʿAthār al-Asfal, further ʿAthār is located in the subdivision of Khārif http:\/\/www.geonames.org\/6940872\/kharif.html, http:\/\/www.g11y.com\/vb\/showthread.phpt=14232\n#id# modern place with the same name, http:\/\/www.geonames.org\/9975341\/-athar-al-asfal.html\n#ref# al-Hamdānī p. 111, wa āmā al-Bawn fa qurāhu",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.074719883996757, 15.883400002105841 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Masāk (Sāk)", "description": "#loc# modern place with the name Sāk, according to ʿAbd al-ʿĀṭa, ʿAbd al-Ghana Maḥmūd (2002): Sira Imām ʿAḥmad bin Sulaymān li Sulaymān bin Yahiya al-Thaqafi 225- 235 Higri, Tārikh al-Jazira al-Arab,Ein For Human and Social Studies, Cairo. p. 252 fn 1, Masāk is todays Sāk. Sāk is located in the subdistrict Kharif in the section Khamīs Abū Dhibah (http:\/\/www.yemenna.com\/index.phpgo=guide&op=show_pri&ide=2111),\n#id# modern place with the name Maḥall Sāk in the according subdivision\nhttp:\/\/www.geonames.org\/404906\/mahall-sak.html\n#ref# al-Hamdānī p. 111 wa āmā al-Bawn fa qurāhu",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.119712529746813, 15.810662881814251 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jawb", "description": "#loc# modern place with the nama Jawb\n#id# modern place with the same name, http:\/\/www.geonames.org\/74226\/al-jawb.html\n#ref# al-Hamdānī p. 111, wa āmā al-Bawn fa qurāhu",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.001119152359671, 15.778039610946269 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḍabbāʿīn", "description": "#loc# modern place with the name Ḍabbāʿīn, located in the subdivision Ar Rab‘ ash Sharqī  (http:\/\/www.geonames.org\/8737272\/ar-rab-ash-sharqi.html), http:\/\/www.yemenna.com\/index.phpgo=guide&op=show_vill&ide=40376\n#id# modern place with the same name, http:\/\/wikimapia.org\/8590221\/ar\/%D9%82%D8%B1%D9%8A%D8%A9-%D8%B6%D8%A8%D8%A7%D8%B9%D9%8A%D9%86, \n#ref# al-Hamdānī p. 111, wa āmā al-Bawn fa qurāhu",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.93111110839024, 15.727222248475581 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Jannāt", "description": "#loc# modern place with the name al-Jannāt\n#id# modern place with the same name, http:\/\/www.geonames.org\/79295\/al-jannat.html\n#ref# al-Hamdānī p. 111, wa āmā al-Bawn fa qurāhu",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.94221768589793, 15.68417181294469 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Lughāba", "description": "#loc# modern place with the name Lughāba\n#id# modern place with the same name, http:\/\/www.geonames.org\/7344736\/lughabah.html\n#ref# al-Hamdānī p. 111, wa āmā al-Bawn fa qurāhu",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.880894444500903, 15.680938889083061 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "ʿAqār (Wādī)", "description": "#loc# modern wadi with the name ʿAqār\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/7344687\/wadi-aqar.html\n#ref# al-Hamdānī p. 111, wa āmā al-Bawn fa qurāhu",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.850001518747789, 15.647223856164899 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Qāʿah ", "description": "#loc# modern place with the name al-Qāʿah\n#id# modern place with the same name, http:\/\/www.geonames.org\/8354840\/qa-ah.html\n#ref# al-Hamdānī p. 111, wa āmā al-Bawn fa qurāhu",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.853055599784213, 15.65277780001124 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Qāʿah", "description": "#loc# modern place with the name al-Qāʿah\n#id# modern place with the same name, http:\/\/www.geonames.org\/8737201\/qa-ah.html\n#ref# al-Hamdānī p. 111, wa āmā al-Bawn fa qurāhu",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.776456234200971, 16.40885500284514 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Quhāl", "description": "#loc# modern place with the name Quhāl\n#id# modern place with the same name, http:\/\/www.geonames.org\/404918\/quhal.html\n#ref# al-Hamdānī p. 111, wa āmā al-Bawn fa qurāhu",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.01527780032928, 15.66305559973722 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Warik", "description": "#loc# modern place with the name al-Warik\n#id# modern place with the same name, http:\/\/www.geonames.org\/403304\/al-warik.html\n#ref# al-Hamdānī p. 111, wa āmā al-Bawn fa qurāhu",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.978053520848462, 15.66527824101396 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Yanāʿa ", "description": "#loc# modern village with the name al-Yanāʿa in the subdivision of the Khamis al-Qāʿfi (http:\/\/www.geonames.org\/8737261\/khamis-al-qa-fi.html) in the subdistrict of Khārif http:\/\/www.yemenna.com\/index.phpgo=guide&op=show_vill&ide=40285\n#id# modern place with the name Khamis al-Qāʿfi http:\/\/www.geonames.org\/8737261\/khamis-al-qa-fi.html\n#ref# al-Hamdānī p. 111, al-Khashabu qurāhu takthīr",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.154999999873958, 15.831944400038889 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Dhū Bīn", "description": "#loc# modern place with the name Dhū Bīn\n#id# modern place with the same name, http:\/\/www.geonames.org\/76147\/dhaybin.html\n#ref# al-Hamdānī p. 111, al-Khashabu qurāhu takthīr",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.129166700078272, 15.97722219997919 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Madar", "description": "#loc# modern place with the name Madar, possibly to far south as it was not listed as a village of the al-Bawn plains, nevertheless this Madar is close to al-Bawn\n#id# modern place with the same name, http:\/\/www.geonames.org\/404907\/madar.html\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.231701714538097, 15.76956220572581 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ẓahir (Sanām al-Ẓahir)", "description": "#loc# modern place with the name Ẓahir, also a tribe living in that area (http:\/\/www.geonames.org\/7363536\/bani-zahir.html), Sanām (hump of a camel) might be a description of mountains.\n#id# modern place with the same name, http:\/\/www.geonames.org\/7363521\/az-zahir.html\n#ref# al-Hamdānī p. 112, it is not completely clear wheather he refers to the tribe or the place.",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.709167290208221, 16.078056358547411 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Sirr", "description": "#loc# modern wadi with the name Sirr\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/7361836\/wadi-as-sirr.html\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.978610152826292, 16.319999989549888 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-ʿUnayb ", "description": "#loc# modern place with the name al-ʿUnayb, which is appearently the same as al-ʿUyayb, Forrer 1942:189\n#id# modern place with the same name, http:\/\/www.geonames.org\/7683749\/al-unayb.html\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.795645055337701, 16.8363405244361 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Bahmān", "description": "#loc# modern place with the name Bahmān\n#id#modern place with the same name, \nhttp:\/\/www.geonames.org\/9635177\/bahman.html\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.984995627024126, 16.139172860198169 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥūth", "description": "#loc# modern admin. area with the name Ḥūth\n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/8737177\/huth.html\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.955830834818052, 16.22361175149037 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Nāshir", "description": "#loc# modern place with the name Nāshir\n#id# modern place with the same name, http:\/\/www.geonames.org\/8737277\/nashir.html\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.795555792685803, 15.96361147139601 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Qushub (Falīḥ)", "description": "#loc# modern village with the name al-Qushub, in the subdivision of Falīḥ (http:\/\/www.geonames.org\/8737214\/falih.html), in the village al-Aʿjim (http:\/\/www.yemenna.com\/index.phpgo=guide&op=show_part&ide=88746)\n#id# modern place with the name Falīḥ, http:\/\/www.geonames.org\/8737214\/falih.htm\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.635780664864981, 16.096494265512629 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Shākir", "description": "#loc# modern place with the name Shākir\n#id# modern place with the same name, http:\/\/www.geonames.org\/7343598\/shakir.html\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.892766666950919, 15.972088370766739 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Khamir", "description": "#loc# modern place with the name Khamir\n#id# modern place with the same name, http:\/\/www.geonames.org\/73861\/khamir.html\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.953611100098477, 15.98805559979899 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Yashīʿ", "description": "#loc# modern place with the name Yashīʿ\n#id# modern place with the same name, http:\/\/www.geonames.org\/69552\/yashi.html\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.915278935753619, 15.89000290608945 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Nughāsh", "description": "#loc# modern place with the name Nughāsh\n#id# modern place with the same name, http:\/\/www.geonames.org\/7344706\/nughash.html\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.862313549061732, 15.717006400583591 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Athāfit", "description": "#loc# Robert T. O Wilson 1989 states that nowadays al-Qalaʿh, Bayt al-Buqayli (http:\/\/www.geonames.org\/9973796\/bayt-al-buqayli.html) and Bayt al-Zimām (http:\/\/www.geonames.org\/7362639\/bayt-zimam.html) are on the site of the ancient Athāfit\n#id# located in the area of todays http:\/\/www.geonames.org\/9973796\/bayt-al-buqayli.html, http:\/\/www.geonames.org\/7362639\/bayt-zimam.html\n#ref# al-Hamdānī p. 66, 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.031786059727857, 16.077297035721511 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Jabjab", "description": "#loc# modern place with the name al-Jabjab\n#id# modern place with the same name, http:\/\/www.geonames.org\/7362076\/al-jabjab.html\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.90583345930569, 16.513332510851839 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Faqʿa", "description": "#loc# modern place with the name al-Faqʿa\n#id# modern place with the same name, http:\/\/www.geonames.org\/7683877\/al-faqa.html\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.760840104817021, 16.754447205816462 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Ramīḍ", "description": "#loc# modern mountain with the name Ramīḍ\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/71611\/jabal-ramid.html\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.994722198761878, 16.210833303555749 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Būbān", "description": "#loc# modern admin. area with the name Būbān\n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/8737191\/buban.html\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.037222262862358, 16.303611049059629 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Sannatān", "description": "#loc# modern place with the name al-Sannatān\n#id# modern place with the same name, http:\/\/www.geonames.org\/77761\/as-sanatayn.html\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.971112763456972, 15.96305836256365 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥilamlam\/ Ḥalumlum", "description": "#loc# modern place with the name Ḥalumlum\n#id# modern place with the same name, http:\/\/www.geonames.org\/7344671\/halumlum-al-asfal.html, http:\/\/www.geonames.org\/7344666\/halumlum-al-a-la.html\n#ref# al-Hamdānī p. 107 Ḥilamlam, 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.755555599950164, 15.680000000089819 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Qārin", "description": "#loc# modern place with the name Qārin\n#id# modern place with the same name, http:\/\/www.geonames.org\/34798\/qarin.html\n#ref# al-Hamdānī p. 68, 107, 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.811875310340703, 15.67043793961526 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Lāʿa", "description": "#loc# modern admin. area with the name Lāʿa\n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/8736843\/la-ah.html\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.678333299971527, 15.541666700129969 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Aḥzam", "description": "#loc# modern place with the name al-Aḥzam, while al-Hamdānī describes Jabal al-Aḥzam\n#id# modern place with the same name as the mountain, http:\/\/www.geonames.org\/402033\/al-ahzam.html\n#ref# al-Hamdānī p. 112",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.649734686741169, 15.493827721565751 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Milḥān", "description": "#loc# modern mountain with the name Milḥān\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/72663\/jibal-milhan.html\n#ref# al-Hamdānī p. 68, 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.353397500928551, 15.31928282122629 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Ḥufāsh", "description": "#loc# modern mountain with the name Ḥufāsh\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/74586\/jibal-hufash.html\n#ref# al-Hamdānī p. 69, 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.433421701305079, 15.36553330818507 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Jurābī (too far north)", "description": "#loc# modern place with the name Jurābī, this one seems to be too far north, see Wilson 1989:116\n#id# modern place with the same namehttp:\/\/www.geonames.org\/7926906\/al-jurabi.html\n#ref# al-Hamdānī p. 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.338553958632012, 16.777063983308832 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Mạdrib", "description": "#loc# modern place with the name al-Mạdrib\n#id# modern place with the same name, http:\/\/www.geonames.org\/7854828\/al-mudrib.html\n#ref# al-Hamdānī p. 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.271944399826168, 16.510555599889479 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Waḍra", "description": "#loc# modern admin. area with the name al-Waḍra \n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/8736101\/wadarah.html\nhttp:\/\/www.geonames.org\/69731\/jabal-wadarah.html\n#ref# al-Hamdānī p. 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.482222180706557, 15.70361120800316 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "ʿŪlī", "description": "#loc# modern mountain with the name Jabal ʿŪlī \n#id# modern mountain with the same name, http:\/\/www.geonames.org\/34823\/jabal-uli.html\n#ref# al-Hamdānī p. 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.595555599721557, 15.619166700046289 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Waʿīla (al-Sharāqī)", "description": "#loc# modern mountain with the name al-Sharāqī which is supposed to be Waʿīla according to Wilson 1989: 341\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/403317\/jibal-ash-sharaqi.html\n#ref# al-Hamdānī p. 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.617777800184591, 15.631944399809051 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Jurayb ", "description": "#loc# modern place with the name al-Jurayb\n#id# modern place with the same name, http:\/\/www.geonames.org\/8379500\/al-jurayb.html\n#ref# al-Hamdānī p. 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.427777799874413, 16.33388889997482 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Jurayb ", "description": "#loc# modern place with the name al-Jurayb\n#id# modern place with the same name, http:\/\/www.geonames.org\/8379500\/al-jurayb.html\n#ref# al-Hamdānī p. 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.384586446697647, 16.145056763533589 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jurābī ", "description": "#loc# modern place named Maḥal Jurābī in the village Shanyf that is located in the subdistrict al-Maḥalāḥna in the district of Hufāsh (http:\/\/www.yemenna.com\/index.phpgo=guide&op=show_part&ide=55777), Wilson 1989:116, Arendonk places it northeast of Milḥan\n#id# modern place named Jurābī in the district of Hufāsh,http:\/\/www.geonames.org\/6940850\/hufash.html\n#ref# al-Hamdānī p. 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.426495107286989, 15.37211046390099 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥajūr (area)", "description": "#loc# modern tribal area with the name Ḥajūr, according to Wilson 1989:131 including al-Sharafayn (http:\/\/www.geonames.org\/7366772\/jibal-ash-sharafayn.html), the district to the north, extending westwards to where the western mountains reach the Tihāma while its eastern edges extents the eastern edge of the low-lying plain of al-Baṭanah (http:\/\/www.geonames.org\/8737206\/al-batanah.html) west and below the towns of Khamir and Hūth...\n#id# modern tribal area with the same name, http:\/\/www.geonames.org\/74571\/hujur.html\n#ref# al-Hamdānī p. 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.450122412061049, 16.366363448050841 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Hajja", "description": "#id# modern town with the name Hajja\n#loc# modern town with the same name, http:\/\/www.geonames.org\/8736124\/hajah.html\n#ref# al-Hamdānī p. 69, 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.607074487522119, 15.69561884808066 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Hayrān ", "description": "#loc# modern admin. area with the name Hayrān\n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/6940606\/hayran.html\n#ref# al-Hamdānī p. 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.107728370132833, 16.269494011032752 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Mawtak", "description": "#loc# modern place with the name Mawtak\n#id# modern place with the same name, http:\/\/www.geonames.org\/406815\/mawtak.html, http:\/\/www.geonames.org\/406816\/jabal-mawtak.html (next to Mawtak)\n#ref# al-Hamdānī p. 69, 113, 114",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.769223009915123, 16.637570005717642 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Akhrāf", "description": "#loc# modern wadi with the name Akhrāf\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/7343617\/wadi-akhraf.html\n#ref# al-Hamdānī p. 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.583055600169182, 15.884722199928291 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Akhrāf", "description": "#loc# modern wadi with the name Akhrāf\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/80068\/wadi-akhraf.html\n#ref# al-Hamdānī p. 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.808719399762133, 16.16392172973967 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Baṭna", "description": "#loc# modern admin. area with the name al-Baṭna\n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/8737195\/al-batnah.html\n#ref# al-Hamdānī p. 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.837156944347051, 16.187657804660208 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Baṭana", "description": "#loc# modern admin. area with the name al-Baṭana\n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/8737206\/al-batanah.html\n#ref# al-Hamdānī p. 113, no vocalization, both possible",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.780894988698172, 16.179355432959071 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ẓulayma (Jabal)", "description": "#loc# modern mountain with the name Ẓulayma, an admin. district withe the name Ẓulayma Ḥabūr (http:\/\/www.geonames.org\/407096\/habur.html), http:\/\/www.yemenna.com\/index.phpgo=guide&op=show_pri&ide=2097\n#id# modern mountain with the same name,  http:\/\/www.geonames.org\/69393\/jabal-zulaymah.html\n#ref# al-Hamdānī p. 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.716668514852699, 16.083335546840232 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Maswar", "description": "#loc# modern mountain with the name Maswar\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/8737294\/jabal-masawar.html\n#ref# al-Hamdānī p. 69, 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.671586662498953, 15.6062711221679 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Hamil (Hamal)", "description": "#loc# modern wadi with the name Hamil, that was identified by al-Akwaʿ a as the Hamal mentioned al-Hamdānī (Wilson 1989:337)\n#id# modern wadi with the same name http:\/\/www.geonames.org\/7344325\/wadi-hamil.html\n#ref# al-Hamdānī p. 69, 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.716898700645892, 15.749919118916511 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Hamil ", "description": "#loc# modern place with the name Hamil, however probably not the one mentioned here by Hamdānī\n#id# modern place with the same name http:\/\/www.geonames.org\/8300139\/hamil.html\n#ref# al-Hamdānī p. 69, 113",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 44.185006462440299, 15.228351710941251 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Kalābij (Kalābī)", "description": "#loc# al-Kalābij, referred to by al-Akwa identifies al-Kalābij as the wādī now know as al-Kalābī to the south of al-Sūdah\n#id# modern place with the name al-Kalābī, http:\/\/www.geonames.org\/403325\/wadi-al-kalabi.html\n#ref# al-Hamdānī p. 69, 113 (market)",  "standardized_arabic_name":"", "kura_subregion_name":"Balad Hamdān"}, "geometry": { "type": "Point", "coordinates": [ 43.711932534317413, 15.90050463281232 ] } }
+]
+};
+
+var alHamKhaw = {
+"type": "FeatureCollection",
+"standardised_transliterated_name": "alHamKhaw",
+"crs": { "type": "standardised_transliterated_name", "properties": { "standardised_transliterated_name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Khawlān", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern area with the name Khawlān\n#id# modern area with the same name, marked in google earth, \n#ref# al-Hamdānī p. 107",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.49374263096442, 15.18524547363744 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī al-Sirr", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name al-Sirr\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/70501\/wadi-as-sirr.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.28871888404926, 15.546848794177629 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Rijām", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name Rijām\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/71472\/wadi-rijam.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.29999999997257, 15.466666699944 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Sirr", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern place with the name al-Sirr\n#id# modern place with the same name, http:\/\/www.geonames.org\/77781\/as-sirr.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.416659791894489, 15.549980992545651 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Rijām (Rajām)", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern admin. area with the name Rajām\n#id# modenr admin. area with the same name, http:\/\/www.geonames.org\/8736342\/rajam.html\n#ref# al-Hamdānī p. 108 Jabal Rijām is probably the mountain in this area",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.354954393664521, 15.45427332119678 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Ḍabāb", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern mountain with the name Jabal Ḍabāb\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/76059\/jabal-dhabab.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.396946959040903, 15.536963531686579 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Ṣaraʿ", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern mountain with the name Jabal Ṣaraʿ\n#id# modern mountain with the same name, \nhttp:\/\/www.geonames.org\/71096\/jabal-sara.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.526275044299091, 15.531689920837501 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Ṣaraʿ ", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern mountain with the name Jabal Ṣaraʿ\n#id# modern mountain with the same name, \nhttp:\/\/www.geonames.org\/71097\/jabal-sara.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.232758879758023, 15.21586887456346 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Sāmik", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern area with the name Sāmik\n#id# modern area with the same name, http:\/\/www.geonames.org\/404115\/samik.html\n#ref# al-Hamdānī p. 108 Jabal Sāmik",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.251583947918469, 15.12831206283599 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Saʿwān", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern admin. area with the name Saʿwān\n#id# modern admin. area with the same name http:\/\/www.geonames.org\/8736338\/sa-wan.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.290277799994563, 15.38277780004131 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Saʿwān", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name Saʿwān\n#id# modern wadi with the same name http:\/\/www.geonames.org\/7342191\/wadi-sa-wan.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.269195198526731, 15.38162061551157 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī al-Tanāʿīm (al-Ajbar)", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name al-Ajbār which was formerly named al-Tanāʿim\nhttps:\/\/ar.wikipedia.org\/wiki\/%D8%B3%D8%AF_%D8%B4%D8%A7%D8%AD%D9%83 1\/27\/2016\n\nسد شاحك سد مياة أثري يقع في منطقة خولان مديرية سنحان وبني بهلول بمحافظة صنعاء اليمنية ، وهو من السدود الحميرية يحيط به جبل اللوز من جميع جهاته إلا من جهة جبل تنعم وكان يسقي أراضي تنعم، ووادي الأجبار الذي كان يسمى قديماً وادي التناعم، كما كانت تستفيد منه الآبار الجوفية بصنعاء وما حولها وهو على بعد 25كم شرق صنعاء. لا تزال آثاره ظاهرة والعمارة والسواقي لا تزال قائمة في عرض الجبل المحيط بالسد منحوتة نحتا. وكان على قاعة فسيحة تجتمع فيها المياه وحوله جبال شاهقة صماء. ويوجد فيها آثارٌ حميرية قديمة في محل الهجرين . [1]\n\nالثروات والكنوز الحضارية في محافظة صنعاء (مديريات خولان العالية -1)\n\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/8736353\/wadi-al-ajbar.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.32332793609288, 15.331014693179309 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Saḥar", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern village with the name Saḥar\n#id# modern place with the same name, http:\/\/www.geonames.org\/71273\/sahar.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.308246220538017, 15.31619220649144 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Ghaymān", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name Ghaymān\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/34756\/wadi-ghayman.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.383391090533593, 15.28290260618803 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ghaymān", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern place with the name Ghaymān\n#id# modern place with the same name, http:\/\/www.geonames.org\/75613\/ghayman.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.353942910661608, 15.27239080474218 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Maswar", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern admin. area with the name Maswar\n#id# modern place with the same name, http:\/\/www.geonames.org\/8736364\/masawar.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.510555157293403, 15.195833582051231 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Maswar", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name Maswar\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/72831\/wadi-maswar.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.550061449688428, 15.165338648086511 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Ḥajla", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern place with the name al-Ḥajla\n#id# modern place with the same name, \nhttp:\/\/www.geonames.org\/7341717\/al-hajlah.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.739442225024831, 15.26722123975698 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "ʿAṣfān", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern place with the name ʿAṣfān\n#id# modern place with the same name, http:\/\/www.geonames.org\/7361707\/-asfan.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.452782579619907, 15.213610862860561 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Milaḥa (Mulaḥa )  al-Jawf", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc modern place with the name Milaḥa, al-Hamdānī Mulaḥa\n#id# modern place with the same name, http:\/\/www.geonames.org\/7342702\/milaha.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.77738432096919, 15.96043866280792 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Milaḥa (Mulaḥa )", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc modern place with the name Milaḥa, al-Hamdānī Mulaḥa\n#id# modern place with the same name, http:\/\/www.geonames.org\/7341664\/wadi-milaha.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.606435897595183, 15.28389982792938 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Milaḥa (Mulaḥa )  al-Jawf", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc modern place with the name Milaḥa, al-Hamdānī Mulaḥa\n#id# modern place with the same name, http:\/\/www.geonames.org\/7341664\/wadi-milaha.html, http:\/\/www.geonames.org\/7342701\/wadi-milaha.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.791768023782858, 15.96629227415316 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Qarwā", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name Qarwā\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/71938\/wadi-qarwa.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 45.061056469989992, 15.24699906937024 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Qarwā ", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name Qarwā\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/8534030\/wadi-qarwa.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.536932885443854, 15.19625958061075 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Qarwā ", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name Qarwā\n#id# modern wadi with the same name,l\nhttp:\/\/www.geonames.org\/71937\/wadi-qarwah.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.533258694594352, 15.26610843338927 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Malaḥa (Mulaḥa )", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name \n#id# modern wadi with the same name http:\/\/www.geonames.org\/7341868\/wadi-malahah.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.616944545763907, 15.216385798255169 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Qarwā", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern admin. area with the name Qarwā\n#id# modern admin. area with the same name, \nhttp:\/\/www.geonames.org\/8736372\/qarwa.html\n#ref# al-Hamdānī 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.48779035119864, 15.28943533871792 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Sayyān", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern village with the name Sayyān\n#id# modern place with the same name, http:\/\/www.geonames.org\/70979\/sayyan.html\n#ref# al-Hamdānī p. 101 (if this is the Sayyān refered to at this page), p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.324444400052457, 15.1716667003457 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Khidār", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern place with the name Khidār\n#loc# modern place with the same name, http:\/\/www.geonames.org\/402262\/khidar.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.259848148481147, 14.982193873288409 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Waʿlān", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern admin. area with the name Waʿlān\n#loc# modern admin. area with the same name, http:\/\/www.geonames.org\/8736379\/wa-lan.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.275834372436492, 15.067778429047459 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Sāmik", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name Sāmik\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/403958\/wadi-samik.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.240833333333342, 15.12361111111111 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Dabra (today al-Kibs)", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name Kibs according to Glaser in Forrer 1942:181 wadi Dabra is equivalent to wadi al-Kibs\n#id# modern wadi with name Kibs, http:\/\/www.geonames.org\/73698\/wadi-kibs.html\n#ref# al-Hamdānī p. 108, Forrer 1942:181",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.436388900125813, 15.10583330032493 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Marḥab ", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name Marḥab, Forrer 1942:182 states that according to Glaser's maps Wādī Marḥab lies east of Wādī Waʿlān\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/7360904\/wadi-marhab.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.945277799535461, 14.994444399967019 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Marḥab", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name Marḥab,Clinic with the name wadi Marhab included,  Forrer 1942:182 states that according to Glaser's maps Wādī Marḥab lies east of Wādī Waʿlān\n#id# modern wadi with the same name,  \nhttp:\/\/www.geonames.org\/7447398\/al-wahdah-as-sihhiyah-wadi-marhab.htmlhttp:\/\/www.geonames.org\/7360904\/wadi-marhab.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.42222219980988, 15.129166700407589 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Harūb (Hurūb)", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name Harūb\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/74520\/wadi-hurub.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.766718741834993, 15.149544518195571 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Harūb", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern place with the name al-Harūb\n#id# modern place with the same name, http:\/\/www.geonames.org\/7341786\/harub.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.561388899886687, 15.05333329983983 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Ḥababiḍ", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name Ḥababiḍ, according to Forrer 1943:182 thus Glaser between Wadi Harūb and wadi Marhab\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/75538\/wadi-hababid.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 45.033332063020659, 15.249999536960569 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Ḥababiḍ", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name Ḥababiḍ, , according to Forrer 1943:182 thus Glaser between Wadi Harūb and wadi Marhab\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/7364038\/wadi-hababid.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.889441859580799, 14.92560369300104 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Yaklā", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern wadi with the name Yakla, \n#id# modern wadi with the same name, http:\/\/www.geonames.org\/7364606\/wadi-yakla.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 45.038722411054479, 14.79077665925495 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ghābat Yaklā", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern area with the name thus it can probably be assumed the wadi is connected to the area\n#id# modern area with the same name, http:\/\/www.geonames.org\/75715\/ghabat-yakla.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 45.086406544400887, 14.534741305529931 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "ʿUrqub", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern place with the name ʿUrqub\n#id# modern place with the same name, http:\/\/www.geonames.org\/7363964\/-urqub.html\n#ref# al-Hamdānī p. 108",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.534434270699023, 14.903133210326891 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Shaẓb (to far southwest)", "kura_subregion_name":"Mikhlāf Khawlān", "description": "#loc# modern admin. area with the name al-Shaẓb\n#id# moder admin. area with the same name, http:\/\/www.geonames.org\/8736980\/ash-shazab.html\n#ref# al-Hamdānī p. 109",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.753333303715493, 14.50722220339043 ] } }
+]
+};
+
+var alHamAqy = {
+"type": "FeatureCollection",
+"standardised_transliterated_name": "alHamAqy",
+"crs": { "type": "standardised_transliterated_name", "properties": { "standardised_transliterated_name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Ḍula \/ Dhukhār", "kura_subregion_name":"Mikhlāf ʾAqyān", "description": "#loc# modern mountain with the name Jabal Ḍula \/ Dhukhār\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/76072\/jabal-dhula.html\n#ref# al-Hamdānī p. 68, 107, Forrer 1942: 71 fn 3 according to Glasser todays Jabal Ḍula",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.749926764903499, 15.68286618721603 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Kawkabān", "kura_subregion_name":"Mikhlāf ʾAqyān", "description": "#loc#l modern place with the name Kawkabān, as well as the ancient gate\n#id# modern village with the same name, http:\/\/www.geonames.org\/73958\/kawkaban.html\n#ref# al-Hamdānī p. 107, ḥuṣn",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.898355042698803, 15.50169450168868 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-ʾAhjur", "kura_subregion_name":"Mikhlāf ʾAqyān", "description": "#loc# modern place with the name al-ʾAhjur\n#id# modern place with the same name, http:\/\/www.geonames.org\/8736836\/al-ahjar.html\n#ref# al-Hamdānī p. 107",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.878068146702702, 15.468028077378619 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Thulā", "kura_subregion_name":"Mikhlāf ʾAqyān", "description": "#id# modern town with the name Thulā\n#loc# modern town with the same name, http:\/\/www.geonames.org\/70053\/thila.html\n#ref# al-Hamdānī p. 107,  qarya wa ḥuṣn",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.901388900193901, 15.574444399971529 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Najr", "kura_subregion_name":"Mikhlāf ʾAqyān", "description": "#loc# modern part of Amrān with the name Najr\n#id# modern place with the same name, http:\/\/www.geonames.org\/72321\/najr.html\n#ref# al-Hamdānī p. 107",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.9474914189408, 15.64241662177824 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥilamlam\/ Ḥalumlum", "kura_subregion_name":"Mikhlāf ʾAqyān", "description": "#loc# modern place with the name Ḥalumlum\n#id# modern place with the same name, http:\/\/www.geonames.org\/7344671\/halumlum-al-asfal.html, http:\/\/www.geonames.org\/7344666\/halumlum-al-a-la.html\n#ref# al-Hamdānī p. 107 Ḥilamlam, 112",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.755555599950164, 15.680000000089819 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Qārin", "kura_subregion_name":"Mikhlāf ʾAqyān", "description": "#loc# modern place with the name Qārin\n#id# modern place with the same name, http:\/\/www.geonames.org\/34798\/qarin.html\n#ref# al-Hamdānī p. 68, 107, 112",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.811875310340703, 15.67043793961526 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Shibām (ʾAqjān)", "kura_subregion_name":"Mikhlāf ʾAqyān", "description": "#loc# modern town with the name Shibām Kawkabān\n#id# modern place with the same name, http:\/\/www.geonames.org\/70677\/shibam.html\n#ref# al-Hamdānī p. 105, 107",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.904428867788418, 15.50948443243427 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥāz", "kura_subregion_name":"Mikhlāf ʾAqyān", "description": "#loc# modern village with the name Ḥāz\n#id# modern village with the same name, http:\/\/www.geonames.org\/74897\/haz.html\n#ref# al-Hamdānī p. 107",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.002499479593332, 15.516360107749531 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī al-ʾAhjur", "kura_subregion_name":"Mikhlāf ʾAqyān", "description": "#loc# modern wadi with the name al-ʾAhjur, Wilson 1989:188 states that Wadi Surdud starts in the region of al-Ahjir to the south of Shibām (Kawkabān), thus it might be that the Wadi al-ʾAhjur is in fact parts of the wadi Surdud.\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/80234\/wadi-ahjar.html\n#ref# al-Hamdānī p. 107",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.806491576900157, 15.36554103518567 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Manṣāniʿ", "kura_subregion_name":"Mikhlāf ʾAqyān", "description": "#loc# modern admin. area with the name al-Manṣāniʿ\n#id# modern admin. area with the same name, \nhttp:\/\/www.geonames.org\/8737059\/al-masani.html\n#ref# al-Hamdānī p. 107",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.796394031238492, 15.618146130912731 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥabāba", "kura_subregion_name":"Mikhlāf ʾAqyān", "description": "#loc# modern admin. area with the name Ḥabāba\n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/8737305\/hababah.html\n#ref# al-Hamdānī p. 178",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.848694633470551, 15.552737948005131 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Bait Afra\/ʿ Ilmān", "kura_subregion_name":"Mikhlāf ʾAqyān", "description": "#loc# modern place with the name Bait ʿIlmān\n#id# modern place with the same name, http:\/\/www.geonames.org\/76926\/bayt-ilman.html\n#ref# al-Hamdānī p. 68, 107,  Forrer 1942:71 fn 5, Bait Afraʿ is above Bait ʿIlmān",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.716666699763778, 15.78333330000841 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Raʿyān", "kura_subregion_name":"Mikhlāf ʾAqyān", "description": "#loc# modern place with the name Raʿyān\n#id# modern place with the same name, http:\/\/www.geonames.org\/403748\/ray-an.html\n#ref# al-Hamdānī p. 107",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.084722199734891, 15.36638889972633 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Maḥjab ", "kura_subregion_name":"Mikhlāf ʾAqyān", "description": "#loc# modern place with the name Maḥjab\n#id# modern pkace with the same name, http:\/\/www.geonames.org\/10331472\/mahjab.html\n#ref# al-Hamdānī p. 107",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.959698881651519, 15.10917449668837 ] } }
+]
+};
+
+var alHamHadur = {
+"type": "FeatureCollection",
+"standardised_transliterated_name": "alHamHad",
+"crs": { "type": "standardised_transliterated_name", "properties": { "standardised_transliterated_name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Ḥadūr", "kura_subregion_name":"Mikhlāf Ḥaḍūr", "description": "#loc# modern mountain with the name Ḥadūr\n#id# modern place with the same name, http:\/\/www.geonames.org\/75403\/jabal-hadur.html\n#ref# al-Hamdānī p.68, 106",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.833055599937623, 15.59222220624808 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Yanʿā (Jabal)", "kura_subregion_name":"Mikhlāf Ḥaḍūr", "description": "#loc# modern mountain with the name Yanʿā\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/7367201\/jabal-yana.html\n#ref# al-Hamdānī p. 106",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.907222958147543, 15.20277837426981 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī ʿAlasān", "kura_subregion_name":"Mikhlāf Ḥaḍūr", "description": "#loc# modern wadi with the name ʿAlasān\n#id# modern place with the same name, http:\/\/www.geonames.org\/402707\/wadi-alasan.html\n#ref# al-Hamdānī p. 106",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.883726501140202, 15.12501913519621 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal ʿAlasān", "kura_subregion_name":"Mikhlāf Ḥaḍūr", "description": "#loc# modern mountain with the name ʿAlasān\n#id# modern place with the same name, http:\/\/www.geonames.org\/7342381\/jabal-alasan.html\n#ref# al-Hamdānī p. 106",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.351572893656538, 15.339665306057061 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥayma al-Khārijiyya", "kura_subregion_name":"Mikhlāf Ḥaḍūr", "description": "#loc# modern admin. area with the name Ḥayma al-Khārijiyya that is located in the area of ancients mikhlāf  Ḥaḍūr\n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/79464\/al-haymah-al-kharijiyah.html\n#ref# http:\/\/www.yemen-nic.info\/contents\/Tourism\/detail.phpID=7589&print=Y",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.917031977286364, 15.07806020286999 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Ḥayma al-Dākhiliya", "kura_subregion_name":"Mikhlāf Ḥaḍūr", "description": "#loc# modern admin. area with the name al-Ḥayma al-Dākhiliya  that is located in the area of ancients mikhlāf  Ḥaḍūr\n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/79465\/al-haymah-ad-dakhiliyah.html\n#ref# http:\/\/www.yemen-nic.info\/contents\/Tourism\/detail.phpID=7589&print=Y",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.700038962684438, 15.332599040010381 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jaḥādib", "kura_subregion_name":"Mikhlāf Ḥaḍūr", "description": "#loc# modern admin. area with the name Jaḥādib\n# id# modern admin. area with the same name, http:\/\/www.geonames.org\/8736867\/al-jahadib.html\n#ref# al-Hamdānī p. 106",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.858035041606051, 15.137655421941171 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥaql\/ Qā‘ Sahmān", "kura_subregion_name":"Mikhlāf Ḥaḍūr", "description": "#loc# modern area with the name Sahmān\n#id# modern area with the same name, http:\/\/www.geonames.org\/71254\/qa-sahman.html, \nhttp:\/\/www.geonames.org\/7342295\/qa-sahman.html\n#ref# al-Hamdānī p. 68, 106",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.049998804383243, 15.266667008413091 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Sahmān (might be a different place then the district)", "kura_subregion_name":"Mikhlāf Ḥaḍūr", "description": "#loc# modern village with the name al-Sahmān, marked in google earth\n#id# modern place with the same name, http:\/\/www.geonames.org\/8736368\/as-sahman.html (located slighthly more northwest)\n#ref# al-Hamdānī p. 68, 106",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.624270426340757, 15.16058324421207 ] } }
+]
+};
+
+alHamHaz = {
+"type": "FeatureCollection",
+"standardised_transliterated_name": "alHamHaz",
+"crs": { "type": "standardised_transliterated_name", "properties": { "standardised_transliterated_name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥarāz", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern area place with the name Ḥarāz\n#id# modern place (area) with the same name, http:\/\/www.geonames.org\/75144\/haraz.html\n#ref# al-Hamdānī p. 68, 103, 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.549867106581587, 15.099215380225329 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Hauzan", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name Hawzan, administrative division\n#id# modern place with the same name, http:\/\/www.geonames.org\/8736909\/hawzan.html\n#ref# al-Hamdānī p. 68, 105, 106",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.710000000659797, 15.05388890004089 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Lahāb", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern administrative area with the name Lahāb\n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/8736905\/lahab.html\n#ref# al-Hamdānī p. 68, 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.696963991842821, 14.94555683827469 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ṣaʿfān", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name Ṣaʿfan (spelling varies as the alif is missing), administrative division http:\/\/www.geonames.org\/6940812\/sa-fan.html\n#id# modern place with the same name,\n#ref# al-Hamdānī p. 105\n\nhttp:\/\/www.yemen-nic.info\/contents\/Tourism\/detail.phpID=7589&print=Y\nصـعـفـان : يطلق - الآن - على ناحية من حراز ومركزها متوح\nhttp:\/\/www.geonames.org\/8736911\/matwah.html",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.582781265378671, 15.071111919947761 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Ṣaʿfān", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern mountain with the name Jabal Ṣaʿfān\n#id# modern place with the same name, http:\/\/www.geonames.org\/71310\/jabal-sa-fan.html\n#ref# al-Hamdānī p. 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.639455044832182, 15.06389192880828 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Shibām (ʾAqjān)", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern town with the name Shibām Kawkabān\n#id# modern place with the same name, http:\/\/www.geonames.org\/70677\/shibam.html\n#ref# al-Hamdānī p. 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.904428867788418, 15.50948443243427 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Masār", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern mountain with the name Jabal Masār, and third administrative order area http:\/\/www.geonames.org\/8736910\/masar.html\n#id# modern place with the same name, http:\/\/www.geonames.org\/72902\/masar.html\n#ref# Forrer 1042:173 fn. 1",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.680257286533497, 15.07843370578453 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Surdūd", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern wadi with the name Surdūd\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/70290\/wadi-surdud.html, http:\/\/www.geonames.org\/70289\/wadi-surdud.html\n#ref# al-Hamdānī p. 68, 103, 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.73829545896546, 15.22601330474339 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "ʿAttara", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name ʿAttara\n#id# moder place with the same name, \nhttp:\/\/www.geonames.org\/77667\/ad-dahrah.html\n#ref# Forrer 1941:173 fn 3",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.689177126178649, 15.053610638070531 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Taym", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name Taym\n#id# modern place with the same name, http:\/\/www.geonames.org\/70123\/taym.html\n#ref# al-Hamdānī p. 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.633370163880564, 15.033190848205759 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-ʿUbr ", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name al-ʿUbr\n#id# modern place with the same name, http:\/\/www.geonames.org\/7341805\/al-ubr.html\n#ref# al-Hamdānī p. 105, Forrer 1942:173 fn 6 close to ʿAttāra",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.514991280955137, 15.210211911179821 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Hār", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name Wādī Hār\n#id# modern place with the same name, http:\/\/www.geonames.org\/402356\/wadi-har.html\n#ref# al-Hamdānī p. 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.587778154606433, 15.03138909840545 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Dhanabāt", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place named al-Dhanabāt\n#id# modern place with the same name, http:\/\/www.geonames.org\/10331741\/adh-dhanabah.html\n#ref# al-Hamdānī p. 106",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.61140636238887, 15.275611731855509 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Buraʿ", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# mountain with the name Jabal Buraʿ \n#id# mountain with the same name, http:\/\/www.geonames.org\/76715\/jabal-bura.html\n#re# al-Hamdānī p. 103, 105, Forrer 1942:173 fn 12",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.497500000070872, 14.951111099898339 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Maʿshūr ", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name al-Maʿshūr\n#id# modern place with the same name, http:\/\/www.geonames.org\/401670\/al-ma-shur.html\n#ref# al-Hāmdānī p. 105, according to Forrer 1942:173 north of Jabal Buraʿ",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.479769143822622, 14.814670728955869 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Ẓuhār", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name al-Ẓuhār, \n#id# modern place with the same name, http:\/\/www.geonames.org\/7365209\/az-zuhar.html\n#ref# al-Hamdānī p. 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.461927305879051, 15.29152940666402 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Kadrā", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#id#  Forrer, L. (1942:45) according to Glaser a village close to Marāwaʿa next to Wadī Sahām\/ Sihām, al-Marawiʿah district of al-Kadrā\n#loc# http:\/\/www.geonames.org\/79208\/al-kadra.html\n#ref# al-Hamdānī p. 54, 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.233330555555547, 14.83333055555555 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Mahjam", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# Forrer L. (1966) : 46 fn 2\n#id# Hamdānī  the town of Wādi Surdud, according to Forrer at the foot of Jabal Milhān, to Niebuhrs times already only ruins,  Finster\/ Barbara (1987) Minarette von al-Mahjam in Archaelogische Berichte aus dem Jemen Band II, DAI Sanaa, pp. 195-206\n#ref# al-Hamdānī p. 54, 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.258584972478538, 15.252774797767451 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥarāz  too far north", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name Ḥarāz, might be not the one mentioned but too far north.\n#id# modern place with the same name, \nhttp:\/\/www.geonames.org\/8356261\/haraz.html\n#ref# al-Hamdānī p. 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.436412264318548, 16.132914764829842 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Mawzan  too far north", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name al-Mawza too far north,\n#id# modern place with the same name, http:\/\/www.geonames.org\/7783567\/al-mawzah.html\n#ref# al-Hamdānī p. 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.397777848229403, 16.318332927851291 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Sayhān\/ Sahām", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern wadi with the name Ṣaiḥān\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/7360568\/wadi-sayhan.html\nhttp:\/\/www.geonames.org\/70547\/wadi-siham.html\n#ref# al-Hamdānī p. 68, 103, 106",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.281904992846627, 14.884994851176231 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Amān", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name al-Amān\n#id# modern place with the same name, http:\/\/www.geonames.org\/10983255\/al-aman.html\n#ref# al-Hamdānī p. 106",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 42.945285154229282, 15.69415892430762 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Maqṭara ", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name Al-Maqṭara\n# id# modern place with the same name, http:\/\/www.geonames.org\/9976064\/al-maqtarah.html\n#ref# al-Hamdānī p. 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.677242915228717, 15.55256504884766 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Malāḥī ", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name al-Malāḥī\n#id# modern place with the same name, http:\/\/www.geonames.org\/9975852\/al-malahi.html\n#ref# al-Hamdānī p. 105, FOrrer 1942:174 fn 6 northeast of Jabal Taym",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.455816377648873, 15.65608307185575 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥofāsh", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name Ḥofāsh\n#id# modern place with the same name, \n#ref# Forrer 1942:173 fn 10",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.426389023426673, 15.37472215774088 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Badaj", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name Badaj\n#id# modern place with the same name, http:\/\/www.geonames.org\/8736944\/badaj.html\n#ref# Forrer 1942:174 fn. 12, Dhu al-Radaʿ lies west of Badaj",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.564367275629287, 14.648217975302501 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Masīl", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name al-Masīl\n#id# modern place with the same name, http:\/\/www.geonames.org\/10983259\/al-masil.html\n#ref# al-Hamdānī p. 106,",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 42.957236998171531, 15.69296007296923 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Jurayb too far north", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name al-Jurayb \n#id# modern place with the same name, http:\/\/www.geonames.org\/7633068\/al-jurayb.html\n#ref# al-Hamdānī,",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.384174900386178, 16.14680431846875 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Hanshāt ", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name al-Hanshāt\n#id# modern place with the same name, http:\/\/www.geonames.org\/8736335\/al-hanshat.html\n#ref# al-Hamdānī p. 106",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.509433823999693, 15.820986379959439 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "( Jabal) al-Jurayb", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# modern place with the name al-Jurayb \n#id# modern place with the same name, http:\/\/www.geonames.org\/402810\/jabal-jurayb.html, http:\/\/www.geonames.org\/402355\/jabal-jurayb.html\n#ref# al-Hamdānī,",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.496932067247322, 15.04492184184776 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "(Jabal) Jamaʿ", "kura_subregion_name":"Mikhlāf Ḥarāz", "description": "#loc# moder mountain with the name Jabal Jaṃāʿ\n#id# modern place with an equivilant name, http:\/\/www.geonames.org\/402805\/jabal-al-jama.html\n#ref# al-Hamdānī p. 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.359750802532247, 15.15020108787615 ] } }
+]
+};
+
+var alHamAlh = {
+"type": "FeatureCollection",
+"standardised_transliterated_name": "alHamAlh",
+"crs": { "type": "standardised_transliterated_name", "properties": { "standardised_transliterated_name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Maʿbar", "kura_subregion_name":"Mikhlāf Alhān", "description": "#loc# modern town with the name Maʿabar\n#id# modern town with the same name, http:\/\/www.geonames.org\/73409\/ma-bar.html\n#ref# al-Hamdānī p. 104",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.293525815217208, 14.79363806291151 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jahrān", "kura_subregion_name":"Mikhlāf Alhān", "description": "#loc# modern admin. area with the name Jahrān\n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/6940772\/jahran.html\n#ref# al-Hamdānī p. 104",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.314348433732491, 14.73090740970048 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Jabb", "kura_subregion_name":"Mikhlāf Alhān", "description": "#loc# modern place with the name al-Jabb\n#id# modern place with the same name, http:\/\/www.geonames.org\/7360937\/al-jabb.html\n#ref# al-Hamdānī p. 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.043307220040383, 14.78821039153126 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal ʾAnis", "kura_subregion_name":"Mikhlāf Alhān", "description": "#loc# modern mountain with the name Jabal ʾAnis\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/78322\/jabal-aniz.html\n#ref# al-Hamdānī p. 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.829678411872798, 14.91779326746193 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Watīḥ  maybe too far south", "kura_subregion_name":"Mikhlāf Alhān", "description": "#loc# modern place with the name Watīḥ\n#loc# modern place with the same name, http:\/\/www.geonames.org\/8736432\/watih.html\n#ref# al-Hamdānī p. 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.117304610368038, 14.54214517901633 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Simḥ", "kura_subregion_name":"Mikhlāf Alhān", "description": "#loc# modern place with the name Simḥ\n#id# modern place with the same name, http:\/\/www.geonames.org\/70527\/simh.html\n#ref# al-Hamdānī p. 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.183701732581277, 14.997143930885709 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Saḥām", "kura_subregion_name":"Mikhlāf Alhān", "description": "#loc# modern admin. area with the name Saḥām\n#loc# modern admin. area with the same name, http:\/\/www.geonames.org\/8736888\/saham.html\n#ref# al-Hamdānī p. 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.934032346982882, 14.917353801108179 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Sayhān\/ Sahām", "kura_subregion_name":"Mikhlāf Alhān", "description": "#loc# modern wadi with the name Ṣaiḥān\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/7360568\/wadi-sayhan.html\nhttp:\/\/www.geonames.org\/70547\/wadi-siham.html\n#ref# al-Hamdānī p. 68, 103",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.281904992846627, 14.884994851176231 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Buqlān", "kura_subregion_name":"Mikhlāf Alhān", "description": "#loc# modern administrative area with the name Buqlān\n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/8736750\/baqlan.html\n#ref# al-Hamdānī p. 68, 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.138051130896962, 15.08083286002566 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Madhāb", "kura_subregion_name":"Mikhlāf Alhān", "description": "#loc# modern area with the name Madhāb\n#id# modern area with the samen name, http:\/\/www.geonames.org\/402896\/madhab-as-sufla.html, http:\/\/www.geonames.org\/402898\/madhab-al-ulya.html\n#ref# al-Hamdānī p. 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.212219734799369, 14.74344096108689 ] } }
+]
+};
+
+var alHamDham = {
+"type": "FeatureCollection",
+"standardised_transliterated_name": "alHamDham",
+"crs": { "type": "standardised_transliterated_name", "properties": { "standardised_transliterated_name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Dhamār", "kura_subregion_name":"Mikhlāf Dhamār", "description": "#id# modern city with the name Dhamār\n#loc# modern city with the same name, http:\/\/www.geonames.org\/76184\/dhamar.html\n#ref# al-Hamdānī p.55, 104",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.406518793383803, 14.54605173898193 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Baynūn", "kura_subregion_name":"Mikhlāf Dhamār", "description": "#loc# ancient site with the name Baynūn, \n#id# ancient site with the same name, http:\/\/www.geonames.org\/7363994\/baynun-thawban.html\n#ref# al-Hamdānī p. 104",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.639067129397723, 14.75250623769495 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Hakir", "kura_subregion_name":"Mikhlāf Dhamār", "description": "#loc# modern town with the name Hakir\n#id# modern town with the same name, http:\/\/www.geonames.org\/408814\/hakir.html\n#ref# al-Hamdānī p. 104",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.580555600240501, 14.425 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Nūsān \/ Būsān", "kura_subregion_name":"Mikhlāf Dhamār", "description": "#loc# modern place with the name Būsān\n#id# modern place with the same name, http:\/\/www.geonames.org\/402243\/busan.html\n#ref# al-Hamdānī mentions Nūsān in there area of todays Būsān Forrer 1942:170 fn. 2",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.454166700236307, 14.78999999991685 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Kawmān (area)", "kura_subregion_name":"Mikhlāf Dhamār", "description": "#loc# modern tribal area with the name Kawmān\n#id# modern tribal area with the same name, http:\/\/www.geonames.org\/7364041\/kawman.html\n#ref# al-Hamdānī p. 104",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.775247024124241, 14.770893096163929 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Usī \/ Jabal al-Hamman", "kura_subregion_name":"Mikhlāf Dhamār", "description": "#loc# modern place named Jabal al-Hammam, al-Hamdānī describes Usī as a black hill (akama), also named Ḥammam Sulaimān, http:\/\/www.geonames.org\/75237\/jabal-al-himam.html\nit could also be further north west http:\/\/www.geonames.org\/75236\/hammam-al-lassi.html\n#ref# al-Hamdānī p. 104",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.57286574377045, 14.54444322124448 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Dhamār al-Qarn", "kura_subregion_name":"Mikhlāf Dhamār", "description": "#loc# modern place with the name Dhamār al-Qarn\n#id# modern place with the same name, http:\/\/www.geonames.org\/76569\/dhamar-al-qarn.html\n#ref# al-Hamdānī p. 104, qarya qadīma",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.406404885766342, 14.50468166345161 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Surba\/ Sirba", "kura_subregion_name":"Mikhlāf Dhamār", "description": "#loc# modern wadi with the name Sirba\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/7361532\/ghayl-sirbah.html\n#ref# al-Hamdānī p. 104",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.28099320469039, 14.5737338231044 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Afīq", "kura_subregion_name":"Mikhlāf Dhamār", "description": "#loc# modern place named Khirbat-Afiq\n#id# modern place contains the name Afiq (khirba might mean ruins)\nhttp:\/\/www.geonames.org\/408798\/khirbat-afiq.html\n#ref# al-Hamdānī p. 104",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.579764297479528, 14.46781508020889 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Siyyah", "kura_subregion_name":"Mikhlāf Dhamār", "description": "#loc# modern village with the name Siyyah\n#id# modern village with the same namen, in google earth\n#ref# al-Hamdānī p. 68, 104",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.381722748784952, 14.46708903235106 ] } }
+]
+};
+
+var alHamJub = {
+"type": "FeatureCollection",
+"standardised_transliterated_name": "alHamJub",
+"crs": { "type": "standardised_transliterated_name", "properties": { "standardised_transliterated_name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Sīr", "kura_subregion_name":"Mikhlāf Jublān", "description": "#loc# modern wadi with the name Sīr\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/70501\/wadi-as-sirr.html\n#ref# al-Hamdānī p. 103",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.28856392407021, 15.546367338775759 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Sayhān\/ Sahām", "kura_subregion_name":"Mikhlāf Jublān", "description": "#loc# modern wadi with the name Ṣaiḥān\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/7360568\/wadi-sayhan.html\nhttp:\/\/www.geonames.org\/70547\/wadi-siham.html\n#ref# al-Hamdānī p. 68, 103, 106",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.281904992846627, 14.884994851176231 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Sahām", "kura_subregion_name":"Mikhlāf Jublān", "description": "#loc# modern admin. area with the name Sahām\n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/8736888\/saham.html\n#ref# al-Hamdānī p. 103",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.933172900947561, 14.9132271930988 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Zabīd", "kura_subregion_name":"Mikhlāf Jublān", "description": null,  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.777546538890512, 14.10683127104703 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Rimaʿ", "kura_subregion_name":"Mikhlāf Jublān", "description": "#loc# modern wadi with the name Rimaʿ\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/7358380\/wadi-rima.html\n#ref# al-Hamdānī p. 68, 103",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.601955650071453, 14.402112423445571 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Buraʿ", "kura_subregion_name":"Mikhlāf Jublān", "description": "#loc# mountain with the name Jabal Buraʿ \n#id# mountain with the same name, http:\/\/www.geonames.org\/76715\/jabal-bura.html\n#re# al-Hamdānī p. 103, 105",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.497500000070872, 14.951111099898339 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥarāz", "kura_subregion_name":"Mikhlāf Jublān", "description": "#loc# modern area place with the name Ḥarāz\n#id# modern place (area) with the same name, http:\/\/www.geonames.org\/75144\/haraz.html\n#ref# al-Hamdānī p. 68, 103",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.549867106581587, 15.099215380225329 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Hauzan", "kura_subregion_name":"Mikhlāf Jublān", "description": "#loc# modern place with the name Hawzan, administrative division\n#id# modern place with the same name, http:\/\/www.geonames.org\/8736909\/hawzan.html\n#ref# al-Hamdānī p. 103",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.710000000659797, 15.05388890004089 ] } }
+]
+};
+
+var alHamMar = {
+"type": "FeatureCollection",
+"standardised_transliterated_name": "alHamMar",
+"crs": { "type": "standardised_transliterated_name", "properties": { "standardised_transliterated_name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Jubul", "kura_subregion_name":"Mikhlāf Maʾrib", "description": "#loc# modern place with the name al-Jubul\n#id# modern place with the same name, http:\/\/www.geonames.org\/7861712\/al-jabul.html\n#ref# al-Hamdānī p. 102",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 45.361111099831717, 15.429444400241049, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Maʾrib", "kura_subregion_name":"Mikhlāf Maʾrib", "description": "#id#modern town name is the same as in al-Hamdānī \n#loc# there are the ruins of the ancient town of the Sabaen kingdom\n#ref# al-Hamdānī does not mention the town in the context of the Mikhlāf p. 102",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 45.355929806041651, 15.404197806065721, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Diqrar", "kura_subregion_name":"Mikhlāf Maʾrib", "description": "#loc# modern mountain named Jabal Diqrar\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/7342340\/jabal-ad-diqrar.html\n#ref# al-Hamdānī p. 102",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.14222219967138, 15.324444399876249, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Adhana ", "kura_subregion_name":"Mikhlāf Maʾrib", "description": "#loc# modern wadi with the name Adhana\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/80299\/wadi-adhanah.html\n#ref# al-Hamdānī p. 102,",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 45.223641281066669, 15.37308615969819, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Raḥba", "kura_subregion_name":"Mikhlāf Maʾrib", "description": "#loc# modern area with the name Raḥba\n#id# modern administrative area with the same name, http:\/\/www.geonames.org\/8736805\/rahabah.html\n#ref# al-Hamdānī p. 102",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.973728548434373, 14.863050558219079, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Raḥāba ", "kura_subregion_name":"Mikhlāf Maʾrib", "description": "#loc# modern area with the name Raḥāba\n#id# modern area with the same name, http:\/\/www.geonames.org\/9975689\/rahabah.html\n#ref# al-Hamdānī p. 102",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.125556456749557, 15.53445165721863, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Suwayq", "kura_subregion_name":"Mikhlāf Maʾrib", "description": "#loc# modern place with the name al-Suwayq\n#id# modern place with the same name, http:\/\/www.geonames.org\/7359981\/as-suwayq.html\n#ref# al-Hamdānī p. 102",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.174672917300093, 14.0566682875313, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ṣirwāḥ", "kura_subregion_name":"Mikhlāf Maʾrib", "description": "#loc# modern administrative area with the name Ṣirwāḥ\n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/7341203\/wadi-al-waqifah.html\n#ref# al-Hamdānī p. 102",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 45.01808023352676, 15.421597767973561, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Qaran", "kura_subregion_name":"Mikhlāf Maʾrib", "description": "#loc# modern village with the name Qaran\n#id# modern village with the same name, http:\/\/www.geonames.org\/30565\/qaran.html\n#ref# al-Hamdānī p. 103",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 45.369809672030541, 14.634071364601191, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Milḥ \/ Ṣāfir", "kura_subregion_name":"Mikhlāf Maʾrib", "description": "http:\/\/www.geonames.org\/30592\/jabal-safir.html",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 46.100123258985832, 15.58092071700003, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Milḥ \/ Ṣāfir", "kura_subregion_name":"Mikhlāf Maʾrib", "description": "http:\/\/www.geonames.org\/71301\/safir.html",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 46.097533529693287, 15.645634854425481, 0.0 ] } }
+]
+};
+
+var alHamRad = {
+"type": "FeatureCollection",
+"standardised_transliterated_name": "alHamRad",
+"crs": { "type": "standardised_transliterated_name", "properties": { "standardised_transliterated_name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jibal Isbīl", "kura_subregion_name":"Mikhlāf Radāʿ", "description": "#loc# modern mountain with the name Isbīl\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/74399\/jabal-isbil.html\n#ref# al-Hamdānī p. 104",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.674034618688061, 14.57103513175802, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Thāt", "kura_subregion_name":"Mikhlāf Radāʿ", "description": "#id# modern place with the name Thāt\n#loc# modern historical place with the same name, http:\/\/www.geonames.org\/10793962\/that.html\n#ref# al-Hamdānī p. 102",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.754162806158497, 14.457354636174779, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Radāʿ", "kura_subregion_name":"Mikhlāf Radāʿ", "description": "#id# modern town with the name Radāʿ\n#loc# modern town with the same name, http:\/\/www.geonames.org\/71489\/rada.html\n#ref# al-Hamdānī p.55, 102, Forrer, L. (1966:58)",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.841204196766583, 14.41938409176824, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Adhana ", "kura_subregion_name":"Mikhlāf Radāʿ", "description": "#loc# modern wadi with the name Adhana\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/80299\/wadi-adhanah.html\n#ref# al-Hamdānī p. 102,",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 45.223641281066669, 15.37308615969819, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Radmān", "kura_subregion_name":"Mikhlāf Radāʿ", "description": "#loc# modern district with the name Radmān, probably streching out to the north to Radmān al-awad and \n#id# modern place with the same name, https:\/\/ar.wikipedia.org\/wiki\/%D9%85%D8%AF%D9%8A%D8%B1%D9%8A%D8%A9_%D8%B1%D8%AF%D9%85%D8%A7%D9%86, http:\/\/www.geonames.org\/6940675\/radman-al-awad.html, http:\/\/www.geonames.org\/8735723\/radman-al-iwad.html\n#ref# al-Hamdānī p. 80, 100, 102",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 45.571089778464028, 13.977047221548959, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-ʿArsh", "kura_subregion_name":"Mikhlāf Radāʿ", "description": "#loc# modern administrative area with the name al-ʿArsh\n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/8735739\/al-arash.html\n#ref# al-Hamdānī p. 102",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.770627919716283, 14.401475832699839, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Kawmān", "kura_subregion_name":"Mikhlāf Radāʿ", "description": "#loc# modern area with the name Kawmān\n#id# modern area with the same name, http:\/\/www.geonames.org\/7364041\/kawman.html, \n#ref# al-Hamdānī p. 102",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.775850355662669, 14.77083748280576, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥada", "kura_subregion_name":"Mikhlāf Radāʿ", "description": "#loc# modern area with the name Ḥada, probably streching until the south western border of todays governorate of Ṣanʿāʾ and the eastern border of Raymah\n#id# modern area with the same name, http:\/\/www.geonames.org\/6940769\/al-hada.html\n#ref# al-Hamdānī p. 102",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.567908926133221, 14.8061643599076, 0.0 ] } }
+]
+};
+
+var alHamJaysh = {
+"type": "FeatureCollection",
+"standardised_transliterated_name": "alHamJaysh",
+"crs": { "type": "standardised_transliterated_name", "properties": { "standardised_transliterated_name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jayshān", "kura_subregion_name":"Mikhlāf Jayshān", "description": "#loc# modern place with the name Jayshān\n#id# modern place with the same name, http:\/\/www.geonames.org\/8357700\/jayshan.html\n\n\n#loc# Qa’ṭaba - modern town with the same name\n#ref# al-Hamdānī p.54,  Forrer, L. (1966:57) states that Ghaishān lies on the way from Naqīl Ḥadda to Qa’ṭaba, or might even be Qa’ṭaba",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 46.179165953359522, 14.251881119615881, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Qa’ṭaba ( former Jayshān)", "kura_subregion_name":"Mikhlāf Jayshān", "description": "#id# Forrer, L. (1966:57) states that Ghaishān lies on the way from Naqīl Ḥadda to Qa’ṭaba, or might even be Qa’ṭaba\n#loc# Qa’ṭaba - modern town with the same name\n#ref# al-Hamdānī p.54",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.700898663034224, 13.851022516646371, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Ṣuḥaib", "kura_subregion_name":"Mikhlāf Jayshān", "description": "#loc# modern area named al-Ṣuḥaib\n#id# modern area name the same, http:\/\/www.geonames.org\/77767\/as-suhaib.html",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.841409695379021, 13.46787803640613, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ḥugr", "kura_subregion_name":"Mikhlāf Jayshān", "description": "#loc# Forrer 1942:166 fn 3, the area of Qaʿtaba is named Ḥagr \n#id# modern area with the name Qaʿtaba \n#ref# al-Hamdānī p. 102",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.692182197711837, 13.85160567203293, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Sadda", "kura_subregion_name":"Mikhlāf Jayshān", "description": "#loc# modern place with the name al-Sadda\n#id# modern place with the same name, http:\/\/www.geonames.org\/77881\/as-saddah.html\n#ref# Forrer 1942:166 fn 3",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.420806756435951, 14.118251260683749, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Manār", "kura_subregion_name":"Mikhlāf Jayshān", "description": "#id# modern mountain with the name Jabal Manār\n#loc# modern place with the same name, http:\/\/www.geonames.org\/73089\/hisn-al-manar.html\n#ref# Forrer 1942:166 fn 3",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.274844483022811, 14.040579438620171, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ṣawir\/ Ṣawis ", "kura_subregion_name":"Mikhlāf Jayshān", "description": "#loc# Forrer 1942:166 located the place east of Jabal Manār and south west of al-Sadda\n#ref# al-Hamdānī p. 102",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.407984531568196, 14.056145214867129, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Khadīr", "kura_subregion_name":"Mikhlāf Jayshān", "description": "#loc# modern tribal area with the name Khadīr\n#id# modern area with the same name, http:\/\/www.geonames.org\/73909\/khadir.html\n#ref# al-Hamdānī p. 99, 102",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.216691752205797, 13.4663688358761, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Tharaid", "kura_subregion_name":"Mikhlāf Jayshān", "description": "#loc# Forrer 1942:164 fn 8, 166 fn 3\n#id# \nhttp:\/\/wikimapia.org\/4463640\/ar\/%D9%88%D8%A7%D8%AF%D9%8A-%D8%AB%D8%B1%D9%8A%D8%AF-%D9%85%D8%B9-%D8%AA%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A-%D8%A7%D9%86%D8%A7-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%A7%D8%AC%D9%8A-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%A8%D8%AD%D8%B4\n\nوادي ثريد وهو وادي خصب للزراعه ويعتبر وداي ثريد من اهم المناطق الزراعيه فهو احد الوديان الذي يمر به سيل وادي بناء الشهير ويقع بجوار دمت وهو وادي متميز يزرع فيه جميع اصناف الخضره .. .. وشكراً\nالمدن القريبة: مديرية جبن, الرياشيه, رداع ,\nالإحداثيات:   14°5'56\"N   44°40'5\"E\n\n#ref# al-Hamdānī p. 101, 102",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.662851207634382, 14.089428038685989, 0.0 ] } }
+]
+};
+
+var alHamDhuRu = {
+"type": "FeatureCollection",
+"standardised_transliterated_name": "alHamDhuRu",
+"crs": { "type": "standardised_transliterated_name", "properties": { "standardised_transliterated_name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Shakhab\/ Shakhb ", "kura_subregion_name":"Mikhlāf Dhū Ruʿayn", "description": "#loc# modern place with the name Shakhab\n#id# modern place with the same name, http:\/\/www.geonames.org\/70913\/shakhab.html\n#ref# al-Hamdānī p. 101, Forrer p. 164 fn 4, \nhttp:\/\/www.geonames.org\/8735321\/shakhb.html seems to be more possible",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.50329831598907, 14.13444768592457, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Kuhāl", "kura_subregion_name":"Mikhlāf Dhū Ruʿayn", "description": "#loc# modern place with the name Kuhāl\n#id# modern place with the same name, http:\/\/www.geonames.org\/7359631\/kuhal.html\n#ref# al-Hamdānī p.101",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.494997808841397, 14.152166426696789, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ruʿayn", "kura_subregion_name":"Mikhlāf Dhū Ruʿayn", "description": "#loc# modern administrative area with the name Ruʿayn, \n#id# modern admin. area with the same name, http:\/\/www.geonames.org\/8735292\/ru-ayn.html\n#ref# al-Hamdānī p. 101",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.419787393053468, 14.30657919533156, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Kaḥlān", "kura_subregion_name":"Mikhlāf Dhū Ruʿayn", "description": "#loc# modern area with the name Kuḥlān\n#id# modern area with the same name, http:\/\/www.geonames.org\/7340020\/kuhlan.html\n#ref# al-Hamdānī p. 101",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.5136339225472, 14.275114130800571, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Yaḥṣib\/ Zafār", "kura_subregion_name":"Mikhlāf Dhū Ruʿayn", "description": "#id# ancient site near Yarim, excavation site, https:\/\/tools.wmflabs.org\/geohack\/geohack.phppagename=Zafar%2C_Yemen&params=14_12_41_N_44_24_31_E_type:landmark\n#loc#ancient site with excavations, http:\/\/www.geonames.org\/7359715\/zaffar.html, \n#ref# al-Hamdānī p. 101, referred to as Jaḥḍib",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.402325065581351, 14.21365090830664, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Tharaid", "kura_subregion_name":"Mikhlāf Dhū Ruʿayn", "description": "#loc# Forrer 1942:164 fn 8, 166 fn 3\n#id# http:\/\/wikimapia.org\/4463640\/ar\/%D9%88%D8%A7%D8%AF%D9%8A-%D8%AB%D8%B1%D9%8A%D8%AF-%D9%85%D8%B9-%D8%AA%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A-%D8%A7%D9%86%D8%A7-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%A7%D8%AC%D9%8A-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%A8%D8%AD%D8%B4\n\nوادي ثريد وهو وادي خصب للزراعه ويعتبر وداي ثريد من اهم المناطق الزراعيه فهو احد الوديان الذي يمر به سيل وادي بناء الشهير ويقع بجوار دمت وهو وادي متميز يزرع فيه جميع اصناف الخضره .. .. وشكراً\nالمدن القريبة: مديرية جبن, الرياشيه, رداع ,\nالإحداثيات:   14°5'56\"N   44°40'5\"E\n\n#ref# al-Hamdānī p. 101, 102",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.662851207634382, 14.089428038685989, 0.0 ] } }
+]
+};
+
+var alHamalAud = {
+"type": "FeatureCollection",
+"standardised_transliterated_name": "alHamalAud",
+"crs": { "type": "standardised_transliterated_name", "properties": { "standardised_transliterated_name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Ḥabb", "kura_subregion_name":"Mikhlāf al-ʿAud", "description": "#loc# modern mountain with the name Ḥabb\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/75520\/hisn-habb.html\n#ref# al-Hamdānī p. 101",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.252397879734737, 13.97447193526885, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Warākh", "kura_subregion_name":"Mikhlāf al-ʿAud", "description": "#loc# modern area with the name Warakh\n#id# modern area with the same name, http:\/\/www.geonames.org\/7360212\/warakh.html\n#ref# al-Hamdānī p. 101",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.232465774418984, 14.202545474491719, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-ʿAud", "kura_subregion_name":"Mikhlāf al-ʿAud", "description": "#loc# modern tribal area with the name al-ʿAud\n#id# modern tribal area witht he same name, http:\/\/www.geonames.org\/79896\/al-awdi.html\n#ref# al-Hamdānī p. 101",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.583329625758537, 13.98273462769267, 0.0 ] } }
+]
+};
+
+var alHamYah = {
+"type": "FeatureCollection",
+"standardised_transliterated_name": "alHamYah",
+"crs": { "type": "standardised_transliterated_name", "properties": { "standardised_transliterated_name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Ḥamḍ", "kura_subregion_name":"Yaḥḍibān", "description": "#loc# modern wadi with the name Wādī Ḥamḍ\n#id# modern wadi with the same name, http:\/\/wikimapia.org\/2254139\/ar\/%D9%88%D8%A7%D8%AF%D9%8A-%D8%AD%D9%85%D8%B6\n#ref# al-Hamdānī p. 101",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 45.77185726068555, 14.844580289914351, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Yaḥṣib\/ Zafār", "kura_subregion_name":"Yaḥḍibān", "description": "#id# ancient site near Yarim, excavation site, https:\/\/tools.wmflabs.org\/geohack\/geohack.phppagename=Zafar%2C_Yemen&params=14_12_41_N_44_24_31_E_type:landmark, further north there is a village with the same name, https:\/\/www.geonames.org\/10950504\/yusbih.html\n#loc#ancient site with excavations, http:\/\/www.geonames.org\/7359715\/zaffar.html\n#ref# al-Hamdānī p. 101",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.402325065581351, 14.21365090830664, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Shaiʿān", "kura_subregion_name":"Yaḥḍibān", "description": "#loc# modern place with the name Shaiʿān\n#id# modern place with the same name, http:\/\/www.geonames.org\/7360195\/shay-an.html\nhttp:\/\/www.geonames.org\/7361743\/shay-an.html might also be the one\n#ref# al-Hāmdānī p. 101",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.237415754608918, 14.253032723461841, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Mankath", "kura_subregion_name":"Yaḥḍibān", "description": "#loc# modern town with the name Mankath\n#id# modern town with the same name, http:\/\/www.geonames.org\/73063\/mankath.html\n#ref# al-Hamdānī p. 101",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.372137975009657, 14.21648339654557, 0.0 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jibla ؟", "kura_subregion_name":"Yaḥḍibān", "description": "#loc# modern town with the name Jibla, \n#id# Queen Arwa mosque is located here, the modern town name is the same as the ancient one, https:\/\/en.wikipedia.org\/wiki\/Jibla\n#ref# al-Hamdānī p. 101 varying writing جبلة versus source site جبلا",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.145948634537199, 13.92219839076802, 0.0 ] } }
+]
+};
+
+var alHamalSah = {
+"type": "FeatureCollection",
+"standardised_transliterated_name": "alHamalSah",
+"crs": { "type": "standardised_transliterated_name", "properties": { "standardised_transliterated_name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Suḥūl", "kura_subregion_name":"Mikhlāf al-Saḥūl", "description": "#id# modern unit of the administrative order in Ibb named al-Suḥūl\n#modern place with the same name; http:\/\/www.geonames.org\/8735255\/as-sahul.html\n#ref# al-Hamdānī p. 100",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.176756662121143, 14.027429278696831 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Baʿdān", "kura_subregion_name":"Mikhlāf al-Saḥūl", "description": "#loc# mountain with the same name \n#id# http:\/\/www.geonames.org\/77470\/jabal-ba-dan.html\n#ref# al-Hamdānī p. 100",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.249938688520871, 13.96490645729291 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Arjāb", "kura_subregion_name":"Mikhlāf al-Saḥūl", "description": "#loc# modern place with the name Arjāb\n#id# modern place with the same name, http:\/\/www.geonames.org\/7359417\/al-arjab.html\n#ref# al-Hamdānī p. 100\n\ncolor red\n\ndifferent writing in Arabic! \n#loc# modern village with the name Arjāb \n#id# modern village with the same name, http:\/\/www.geonames.org\/7359529\/arjab.html",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.264680043287058, 14.085852206719901 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Thugga today Ibb", "kura_subregion_name":"Mikhlāf al-Saḥūl", "description": "#id# modern city with the name Ibb\n#loc# modern Ibb was called al-Thugga, http:\/\/www.geonames.org\/74477\/ibb.html\n#ref# al-Hamdānī p. 68, 100",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.183299691117988, 13.96647862662037 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Nakhlan", "kura_subregion_name":"Mikhlāf al-Saḥūl", "description": "#loc# modern place with the name Nakhla vers Hamdānī Nakhlan\n#id# modern place with the same name, http:\/\/www.geonames.org\/72311\/nakhlah.html\n#ref# al-Hamdānī p.68, 100",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.555771679137813, 13.91047341631001 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Furūʿ Zabīd ", "kura_subregion_name":"Mikhlāf al-Saḥūl", "description": "#loc# modern wadi with the name Zabīd which is apparently refered to\n#id# modern wadi with the name Wadi Zabīd\n#ref# al-Hamdānī p. 100,",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.755304680506917, 14.071611095535889 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Ḥumarī", "kura_subregion_name":"Mikhlāf al-Saḥūl", "description": "#loc# modern village with the name al-Ḥumarī\n#id# modern village with the same name, http:\/\/www.geonames.org\/7359830\/al-humari.html\n#ref# al-Hamdānī p. 100 Sūq al-Ḥumarī",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.167222196098017, 14.114722197296061 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Jabjab", "kura_subregion_name":"Mikhlāf al-Saḥūl", "description": "#loc# modern place with the name al-Jabjab\n#id# modern place with the same name, http:\/\/www.geonames.org\/402926\/al-jabjab.html\n#ref# al-Hamdānī p. 68, 100",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.18019758062097, 14.68021595734678 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Rayma", "kura_subregion_name":"Mikhlāf al-Saḥūl", "description": "#loc# modern governorate with the name Rayma, \n#id# modern administrative area with the same name, \nhttp:\/\/www.geonames.org\/71532\/muhafazat-raymah.html\n#ref# al-Hamdānī p. 100",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.664587800411283, 14.62292818047783 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Mudhaīkhira", "kura_subregion_name":"Mikhlāf al-Saḥūl", "description": "#id# modern place with the name al-Mudhaīkhira\n#loc# listes on Google earth, http:\/\/www.yementourism.com\/muthaikira.pdf\n#ref# al-Hamdānī p. 67, 100",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.966847114340098, 13.885520893989121 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Ḍamādi\/ Ẓamādi", "kura_subregion_name":"Mikhlāf al-Saḥūl", "description": "#loc# modern place with the name Ẓamādi\n#id# modern place with a similar name, http:\/\/www.geonames.org\/7359389\/ad-damadi.html\n#ref# al-Hamdānī p. 100",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.262504093319251, 14.14541576948813 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ẓabā (Wādī Ẓabā = Dhī Sufāl)", "kura_subregion_name":"Mikhlāf al-Saḥūl", "description": "#loc# modern town with the name Dhī Sufāl, Wādī Ẓabā = Dhī Sufāl) Forrer 1942:64 fn 13\n#id# modern town with the name Dhī Sufāl, http:\/\/www.geonames.org\/76154\/dhi-as-sufal.html\n#ref# al-Hamdānī p. 67, 100,  Forrer 1942:64 fn 13.",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.114676913450481, 13.83451028338551 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Damt", "kura_subregion_name":"Mikhlāf al-Saḥūl", "description": "#loc# modern town with the name Damt\n#id# modern town with the same name, \nhttp:\/\/www.geonames.org\/8737070\/damt.html\n#ref# al-Hamdānī p. 100",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.706773617254093, 14.107761755333939 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jibāl Sharʿab", "kura_subregion_name":"Mikhlāf al-Saḥūl", "description": "#loc# modern tribal area with the same name\n#id# modern area with the same name, http:\/\/www.geonames.org\/8736927\/bani-shar-ab.html, http:\/\/www.geonames.org\/7361629\/jabal-bani-shar-ab.html\n#ref# al-Hamdānī p. 100",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.566074768859522, 14.8632626669594 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Wādī Zabīd", "kura_subregion_name":"Mikhlāf al-Saḥūl", "description": null,  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.777546538890512, 14.10683127104703 ] } }
+]
+};
+
+var alHamMaa = {
+"type": "FeatureCollection",
+"standardised_transliterated_name": "alHamMaa",
+"crs": { "type": "standardised_transliterated_name", "properties": { "standardised_transliterated_name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Dhubḥān", "kura_subregion_name":"Mikhlāf Maʿāfir", "description": "#loc# modern administrative division named Dhubḥān\n#id# modern admi. division with the same name, http:\/\/www.geonames.org\/8735937\/dhabhan.html\n#ref# al-Hamdānī p. 67",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.115013901544913, 13.23321090493236 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabāʿ", "kura_subregion_name":"Mikhlāf Maʿāfir", "description": "#loc# modern tribal area with the name Jabʿa\n#id# modern area with the same name, http:\/\/www.geonames.org\/74363\/jaba.html\n#ref# al-Hamdānī p.54, 99",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.983724369006367, 13.433798239750249 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabāʿ (village)", "kura_subregion_name":"Mikhlāf Maʿāfir", "description": "#loc# modern village with the name Jabāʿ\n#id# modern village with the same name, http:\/\/www.geonames.org\/7354848\/qaryat-jaba.html\n#ref# al-Hamdānī p. 54, 67, 99",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.013602741658829, 13.477585296247311 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Juwwa ", "kura_subregion_name":"Mikhlāf Maʿāfir", "description": "#loc# west of al-Juwwa was probably located Ḥuṣn al-Maʿāfir, about an quarter hournorth of Birdāf, west of Khadīr, along the road of al-Dumluwa.\n#id# see #loc#\n#ref# al-Hamdānī p. 99, Forrer 1942:63 fn 6",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.119315633673672, 13.411208526320319 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Jabal Ṣabir", "kura_subregion_name":"Mikhlāf Maʿāfir", "description": "#loc# modern mountain with the name Jabal Ṣabir,\n#id# modern mountain  with the same name\nhttp:\/\/www.geonames.org\/71351\/jabal-sabir.html\n#ref# al-Hamdānī p. 99",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.051678481948883, 13.514951959697401 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Dhakhir (Jabal Habashi)", "kura_subregion_name":"Mikhlāf Maʿāfir", "description": "#loc# modern mountain with the name Jabal Habashi is according to A. Grohmann (SBAW 206\/2, p. 120) Dhakhir.\n#id# modern mountain with the same name, http:\/\/www.geonames.org\/75525\/jabal-habashi.html\n#ref# Forrer 1942:63 fn 9, al-Hamdānī p. 67 Dhakhir, p. 99",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.887902522784749, 13.47284004994475 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Birdād\/ Bizdād", "kura_subregion_name":"Mikhlāf Maʿāfir", "description": "#loc# place with the name Birdād\n#id# modern place with the same name, http:\/\/www.geonames.org\/7354918\/birdad.html\n#ref# al-Hamdānī p. 67, 99",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.089777846270337, 13.317956058231371 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Ẓabāb (Wādī Ẓabāb\/ Ḍabāb)", "kura_subregion_name":"Mikhlāf Maʿāfir", "description": "#loc# modern wadi with the name Ḍabāb\/Ẓabāb\n#id# modern wadi with the same name, http:\/\/www.geonames.org\/69505\/ad-dabab.html\n#ref# al-Hamdānī p. 67",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.949444400177029, 13.528055599828569 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-ʿUshaysh", "kura_subregion_name":"Mikhlāf Maʿāfir", "description": "#loc# modern place with the name al-ʿUshaysh\n#id# modern place with the same name, http:\/\/www.geonames.org\/8071447\/al-ushaysh.html\n#ref# al-Hamdānī p. 67",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 43.944349833064592, 13.12358582572222 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Tubāshʿia", "kura_subregion_name":"Mikhlāf Maʿāfir", "description": "#loc# modern administrative division with the name Tubāshʿia\n#id# modern adm. division with the same name, http:\/\/www.geonames.org\/7357492\/qaryat-tubashi-ah.html\n#ref# al-Hamdānī p.67",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.083402415588203, 13.538165335248831 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "al-Janad", "kura_subregion_name":"Mikhlāf Maʿāfir", "description": "#id# modern place with the name al-Janad, according to Forrer (1966:56) its mosque is one of the most famous one in al-Yaman\n#loc# modern town with the same name, and the famous mosque, http:\/\/www.geonames.org\/74270\/al-janad.html\n#ref# al-Hamdānī p.54, 99",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.166412000211402, 13.668688000924091 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Khadīr", "kura_subregion_name":"Mikhlāf Maʿāfir", "description": "#loc# modern tribal area with the name Khadīr\n#id# modern area with the same name, http:\/\/www.geonames.org\/73909\/khadir.html\n#ref# al-Hamdānī p. 99",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.216691752205797, 13.4663688358761 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Warazān", "kura_subregion_name":"Mikhlāf Maʿāfir", "description": "#loc# modern area with the name Warazān\n#id# modern area with the same name\nhttp:\/\/www.geonames.org\/7354899\/warazan.html\n#ref# al-Hamdānī p. 99",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.223049209500523, 13.410108493358541 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Nakhlān", "kura_subregion_name":"Mikhlāf Maʿāfir", "description": "#loc# modern admin. division with the name Nakhlān\n#id# modern admin area with the same name, http:\/\/www.geonames.org\/8735438\/nakhlan.html\n#ref# al-Hamdānī p. 99",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.160833378781547, 13.83499989615864 ] } },
+{ "type": "Feature", "properties": { "standardised_transliterated_name": "Warākh (today Jarākh)", "kura_subregion_name":"Mikhlāf Maʿāfir", "description": "#loc# modern place with the name Jarākh\n#id# modern place with the same name\nhttp:\/\/www.geonames.org\/8735907\/jarah.html\n#ref# al-Hamdānī p. 99, Forrer 1942: 160 fn 1 suggest Warākh is today Jarākh according to Glaser",  "standardized_arabic_name":""}, "geometry": { "type": "Point", "coordinates": [ 44.015833300679837, 13.5013889001231 ] } }
+]
+};
