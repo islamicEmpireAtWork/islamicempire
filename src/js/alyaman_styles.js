@@ -314,3 +314,123 @@ var haliStyle = {
     opacity: 1,
     fillOpacity: 0.5
 }
+
+var nadjStyle = {
+    radius: 8,
+    fillColor: "#f2d1b8",
+    color: "#444",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.5
+}
+
+var jubRayStyle = {
+    radius: 8,
+    fillColor: "#b8f2c9",
+    color: "#444",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.5
+}
+
+var balMaaStyle = {
+    radius: 8,
+    fillColor: "#d2b8f2",
+    color: "#444",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.5
+}
+
+
+var alSharStyle = {
+    radius: 8,
+    fillColor: "#f2b8d1",
+    color: "#444",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.5
+}
+
+var alKalStyle = {
+    radius: 8,
+    fillColor: "#95339e",
+    color: "#444",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.5
+}
+
+var sarBanStyle = {
+    radius: 8,
+    fillColor: "#090a09",
+    color: "#444",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.5
+}
+
+var sarJubStyle = {
+    radius: 8,
+    fillColor: "#ffb536",
+    color: "#444",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.5
+}
+
+
+var sarAlhStyle = {
+    radius: 8,
+    fillColor: "#36f5ff",
+    color: "#444",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.5
+}
+
+var saralMasStyle = {
+    radius: 8,
+    fillColor: "#51ff36",
+    color: "#444",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.5
+}
+
+
+var sarQudStyle = {
+    radius: 8,
+    fillColor: "#f8ff36",
+    color: "#444",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.5
+}
+
+var sarUdhStyle = {
+    radius: 8,
+    fillColor: "#ff3636",
+    color: "#444",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.5
+}
+
+var sarKhawStyle = {
+    radius: 8,
+    fillColor: "#7236ff",
+    color: "#444",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.5
+}
+
+var sarJanbStyle = {
+    radius: 8,
+    fillColor: "#0560b5",
+    color: "#444",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.5
+}

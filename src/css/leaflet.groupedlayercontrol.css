@@ -32,7 +32,8 @@ body {
   font-family: 'Raleway', sans-serif;
   padding: 20px;
   color: #ccc;
-  overflow-y: auto;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
   max-height: 95vh;
 }
 

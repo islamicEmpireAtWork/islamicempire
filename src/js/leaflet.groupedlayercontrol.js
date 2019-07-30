@@ -48,7 +48,7 @@
       b = (this._container = L.DomUtil.create("div", a));
     b.setAttribute("aria-haspopup", !0),
       L.Browser.touch
-        ? L.DomEvent.on(b, "click", L.DomEvent.stopPropagation)
+        ? L.DomEvent.on(b, "touchstart", L.DomEvent.stopPropagation)
         : (L.DomEvent.disableClickPropagation(b),
           L.DomEvent.on(b, "wheel", L.DomEvent.stopPropagation));
     var c = (this._form = L.DomUtil.create("form", a + "-list"));

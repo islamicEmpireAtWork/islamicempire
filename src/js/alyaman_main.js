@@ -27,7 +27,7 @@ var popupOptions = {
 };
 
 function onEachFeature(feature, layer) {
-	var popup = L.popup(popupOptions, layer).setContent("<h3>" + feature.properties.standardised_transliterated_name + "</h3><h3>" + feature.properties.standardized_arabic_name + "<h5><b>Sub-district: </b>" + feature.properties.kura_subregion_name + "</h5>");
+	var popup = L.popup(popupOptions, layer).setContent("<h3>" + feature.properties.Standardised_transliterated_name + "</h3><h5><b>Sub-district: </b>" + feature.properties.Subdivision + "</h5><h5><b>Reference: </b>" + feature.properties.Reference + "</h5>");
 	layer.bindPopup(popup);
     layer.on({
         click: zoomToFeature,
@@ -325,6 +325,105 @@ var alHamHaliLayer = L.geoJson(alHamHali, {
 	onEachFeature: onEachFeature
 });
 
+var alHamNadjLayer = L.geoJson(alHamNadj, {
+	pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, nadjStyle);
+    },
+	onEachFeature: onEachFeature
+});
+
+var alHamTihLayer = L.geoJson(alHamTih, {
+	pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, tihStyle);
+    },
+	onEachFeature: onEachFeature
+});
+
+var alHamJubRayLayer = L.geoJson(alHamJubRay, {
+	pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, jubRayStyle);
+    },
+	onEachFeature: onEachFeature
+});
+
+var alHamBalMaaLayer = L.geoJson(alHamBalMaa, {
+	pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, balMaaStyle);
+    },
+	onEachFeature: onEachFeature
+});
+
+
+var alHamalSharLayer = L.geoJson(alHamalShar, {
+	pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, alSharStyle);
+    },
+	onEachFeature: onEachFeature
+});
+
+var alHamalKalLayer = L.geoJson(alHamalKal, {
+	pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, alKalStyle);
+    },
+	onEachFeature: onEachFeature
+});
+
+var alHamSarBanLayer = L.geoJson(alHamSarBan, {
+	pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, sarBanStyle);
+    },
+	onEachFeature: onEachFeature
+});
+
+var alHamSarJubLayer = L.geoJson(alHamSarJub, {
+	pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, sarJubStyle);
+    },
+	onEachFeature: onEachFeature
+});
+
+var alHamSarAlhLayer = L.geoJson(alHamSarAlh, {
+	pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, sarJubStyle);
+    },
+	onEachFeature: onEachFeature
+});
+
+var alHamSaralMasLayer = L.geoJson(alHamSaralMas, {
+	pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, saralMasStyle);
+    },
+	onEachFeature: onEachFeature
+});
+
+var alHamSarQudLayer = L.geoJson(alHamSarQud, {
+	pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, sarQudStyle);
+    },
+	onEachFeature: onEachFeature
+});
+
+var alHamSarUdhLayer = L.geoJson(alHamSarUdh, {
+	pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, sarUdhStyle);
+    },
+	onEachFeature: onEachFeature
+});
+
+var alHamSarKhawLayer = L.geoJson(alHamSarKhaw, {
+	pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, sarKhawStyle);
+    },
+	onEachFeature: onEachFeature
+});
+
+var alHamSarJanbLayer = L.geoJson(alHamSarJanbLayer, {
+	pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, sarJanbStyle);
+    },
+	onEachFeature: onEachFeature
+});
+
 // Data - Cornu Routes
 
 var cornuRoutesLayer = L.geoJson(cornuRoutes, {
@@ -339,7 +438,7 @@ var cornuRoutesLayer = L.geoJson(cornuRoutes, {
 
 // Search control - searches H_loc geoJSON for layer that is currently open
 
-var allData = [ibnKhurralJan, ibnKhurrSan, ibnKhurrHad, ibnKhurrNoKura, alYaqSan, alYaqNoKura, qudSan, qudNoKura, alMuqTih, alMuqAby, alMuqAthr, alMuqalSar, alMuqalAhq, alMuqSab, alHamSad, alHamHam, alHamKhaw, alHamDhu, alHamAqy, alHamHadur, alHamHaz, alHamAlh, alHamAns, alHamDham, alHamJub, alHamHays, alHamMar, alHamRad, alHamJaysh, alHamMay, alHamDhuRu, alHamalAud, alHamYah, alHamalSah, alHamMaa, alHamShab, alHamAthr, alHamHali];
+var allData = [ibnKhurralJan, ibnKhurrSan, ibnKhurrHad, ibnKhurrNoKura, alYaqSan, alYaqNoKura, qudSan, qudNoKura, alMuqTih, alMuqAby, alMuqAthr, alMuqalSar, alMuqalAhq, alMuqSab, alHamSad, alHamHam, alHamKhaw, alHamDhu, alHamAqy, alHamHadur, alHamHaz, alHamAlh, alHamAns, alHamDham, alHamJub, alHamHays, alHamMar, alHamRad, alHamJaysh, alHamMay, alHamDhuRu, alHamalAud, alHamYah, alHamalSah, alHamMaa, alHamShab, alHamAthr, alHamHali, alHamNadj, alHamTih, alHamJubRay, alHamBalMaa, alHamalShar, alHamalKal, alHamSarBan, alHamSarJub, alHamSarAlh, alHamSaralMas, alHamSarQud, alHamSarUdh, alHamSarKhaw, alHamSarJanb];
 
 // Add fuse search control
     var options = {
@@ -352,12 +451,12 @@ var allData = [ibnKhurralJan, ibnKhurrSan, ibnKhurrHad, ibnKhurrNoKura, alYaqSan
         showResultFct: function(feature, container) {
             props = feature.properties;
             var name = L.DomUtil.create('b', null, container);
-            name.innerHTML = props.standardised_transliterated_name + " (" + props.standardized_arabic_name + ")";
+            name.innerHTML = props.Standardised_transliterated_name;
 
             container.appendChild(L.DomUtil.create('br', null, container));
 
-            var cat = props.kura_subregion_name,
-                info = '' + cat + ', ' + props.author;
+            var cat = props.Subdivision,
+                info = '' + cat + ', ' + props.Author;
             container.appendChild(document.createTextNode(info));
         }
     };
@@ -375,7 +474,7 @@ var allData = [ibnKhurralJan, ibnKhurrSan, ibnKhurrHad, ibnKhurrNoKura, alYaqSan
 				}
 			}
 
-			var props = ['standardised_transliterated_name', 'standardized_arabic_name', 'kura_subregion_name'];
+			var props = ['Atandardised_transliterated_name', 'Subdivision'];
 			fuseSearchCtrl.indexFeatures(allSearchableFeatures.features, props);
 
 map.on("overlayadd", function (event) {
@@ -408,7 +507,7 @@ map.on("overlayadd", function (event) {
 				" Sabʾā": alMuqSabLayer,
 		  },
 			"<span class='controlHeading'> al-Hamdānī</span>": {
-        " Saʿada": alHamSadLayer,
+        " Mikhlāf Saʿada": alHamSadLayer,
 				" Balad Hamdān": alHamHamLayer,
 				" Mikhlāf Khawlān": alHamKhawLayer,
 				" Mikhlāf Dhu Jura": alHamDhuLayer,
@@ -426,12 +525,26 @@ map.on("overlayadd", function (event) {
 				" Mikhlāf Maytam": alHamMayLayer,
 				" Mikhlāf Dhū Ruʿayn": alHamDhuRuLayer,
 				" Mikhlāf al-ʿAud": alHamalAudLayer,
-				" Yaḥḍibān": alHamYahLayer,
+				" Yaḥṣibān": alHamYahLayer,
 				" Mikhlāf al-Saḥūl": alHamalSahLayer,
 				" Mikhlāf Maʿāfir": alHamMaaLayer,
 				" Mikhlāf Shabwa": alHamShabLayer,
 				" Mikhlāf Athr": alHamAthrLayer,
 				" Mikhlāf Ḥalī": alHamHaliLayer,
+				" Nadj": alHamNadjLayer,
+				" Tihāma": alHamTihLayer,
+				" Jublān Rayma": alHamJubRayLayer,
+				" Balad Maʿāfir": alHamBalMaaLayer,
+				" Balad al-Sharāʿib": alHamalSharLayer,
+				" Balad al-Kalāʿb": alHamalKalLayer,
+				" Sarāt Banī Sayf": alHamSarBanLayer,
+				" Sarāt Jublān (Raimaʿ)": alHamSarBanLayer,
+				" Sarāt Alhān": alHamSarAlhLayer,
+				" Sarāt al-Maṣāniʿ": alHamSaralMasLayer,
+				" Sarāt Qudam": alHamSarQudLayer,
+				" Sarāt ʿUdhar": alHamSarUdhLayer,
+				" Sarāt Khawlān/ al-Qadd": alHamSarKhawLayer,
+				" Sarāt Janb": alHamSarJanbLayer,
 		  },
 			"<span class='controlHeadingRoutes'> Routes</span>": {
 				" Routes": cornuRoutesLayer,
