@@ -52,6 +52,17 @@ body a:hover {
   text-align: center;
 }
 
+.logo-image-container {
+  position: absolute;
+  width: auto;
+  right: 20px;
+  bottom: 20px;
+}
+
+.logo-image {
+  height: 100px;
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
