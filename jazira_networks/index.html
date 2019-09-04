@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0" />
+
+    <title>Jazira - The Early Islamic Empire at Work</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/L.Control.Layers.Tree.css"/>
+    <link rel="stylesheet" href="css/main.css"/>
+    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
+</head>
+
+<body>
+
+  <div id="map"></div>
+
+  <div id="myNav" class="overlay">
+   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+
+   <div class="overlay-content">
+     <a href="../" id="home-title" onmouseover="closeMenuDivs()">Home</a>
+     <a id="mental-maps-div-button" onmouseover="openMMDiv()">Authors' conceptions</a>
+     <a id="admin-maps-div-button" onmouseover="openAMDiv()">Administration</a>
+     <a href="../mintsOfEmpire/" onmouseover="closeMenuDivs()">Mints</a>
+     <a href="../about.html" onmouseover="closeMenuDivs()">About</a>
+   </div>
+
+  </div>
+
+  <div class="mental-maps-menu submenu-content">
+    <a href="../fars_index.html">Fars</a>
+    <a href="../sham_index.html">Sham</a>
+    <a href="../jazira_index.html">Jazira & Mosul</a>
+    <a href="../ifriqiya_index.html">Ifriqiya</a>
+    <a href="../alyaman_index.html">Yemen</a>
+  </div>
+
+  <div class="admin-maps-menu submenu-content">
+    <a href="../PowerLines/">Empire (beta)</a>
+    <a href="../fars_networks/">Fars</a>
+    <a href="#">Jazira</a>
+  </div>
+  <span id="menu" onclick="openNav()">&#9776;</span>
+
+  <div id="legendOpened"  class="legend">
+    <a href="javascript:void(0)" class="closebtn" onclick="toggleLegend()">Legend</a>
+    <table id="legendTable">
+      <tr>
+        <td class="legendLabel">
+          <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40">
+            <g>
+              <rect width="40" height="40" fill="#ccc" stroke="#fff" stroke-width="3" fill-opacity="0.5"/>
+            </g>
+          </svg>
+        </td>
+        <td>
+         Imperial Capital
+       </td>
+     </tr>
+     <tr>
+       <td class="legendLabel">
+         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+           <g>
+             <rect width="32" height="32" fill="#ccc" stroke="#fff" stroke-width="3" fill-opacity="0.5"/>
+           </g>
+         </svg>
+       </td>
+       <td>
+        Provincial Capital
+      </td>
+    </tr>
+    <tr>
+      <td class="legendLabel">
+        <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25">
+          <g>
+            <rect width="25" height="25" fill="#ccc" stroke="#fff" stroke-width="3" fill-opacity="0.5"/>
+          </g>
+        </svg>
+      </td>
+      <td>
+       Sub-division Capital
+     </td>
+   </tr>
+      <tr>
+        <td class="legendLabel">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20">
+            <g>
+              <rect width="20" height="20" fill="#ccc" stroke="#fff" stroke-width="3" fill-opacity="0.5"/>
+            </g>
+          </svg>
+        </td>
+        <td>
+         Site
+       </td>
+     </tr>
+     <tr>
+       <td class="legendLabel">
+         <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40">
+           <g>
+             <rect width="25" height="25" fill="#ccc" stroke="#fff" stroke-width="1" fill-opacity="0.5" transform="rotate(45 10 25)"/>
+           </g>
+         </svg>
+       </td>
+       <td>
+         Area/Zone
+       </td>
+     </tr>
+     <tr>
+       <td class="legendLabel">
+         <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8">
+           <g>
+              <circle cx="4" cy="4" r="4" fill="#666" stroke="#555" stroke-width="0"/>
+           </g>
+         </svg>
+       </td>
+       <td>
+        Other site (Sub-division unclear for this period)
+      </td>
+    </tr>
+    <tr>
+      <td class="legendLabel">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20">
+          <g>
+            <rect width="20" height="20" fill="#80580e" stroke="#fff" stroke-width="3" fill-opacity="0.5"/>
+          </g>
+        </svg>
+      </td>
+      <td>
+        Ṭarīq al-Furāt
+      </td>
+    </tr>
+    <tr>
+      <td class="legendLabel">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20">
+          <g>
+            <rect width="20" height="20" fill="#545aff" stroke="#fff" stroke-width="3" fill-opacity="0.5"/>
+          </g>
+        </svg>
+      </td>
+      <td>
+        Diyār Muḍar
+      </td>
+    </tr>
+    <tr>
+      <td class="legendLabel">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20">
+          <g>
+            <rect width="20" height="20" fill="#ff7e4b" stroke="#fff" stroke-width="3" fill-opacity="0.5"/>
+          </g>
+        </svg>
+      </td>
+      <td>
+        Diyār Rabīʿa
+      </td>
+    </tr>
+    <tr>
+      <td class="legendLabel">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20">
+          <g>
+            <rect width="20" height="20" fill="#ff0044" stroke="#fff" stroke-width="3" fill-opacity="0.5"/>
+          </g>
+        </svg>
+      </td>
+      <td>
+        Mudun al-Khābūr
+      </td>
+    </tr>
+    <tr>
+      <td class="legendLabel">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20">
+          <g>
+            <rect width="20" height="20" fill="#000000" stroke="#fff" stroke-width="3" fill-opacity="0.5"/>
+          </g>
+        </svg>
+      </td>
+      <td>
+        al-Mawṣil (separate province)
+      </td>
+    </tr>
+    <tr>
+      <td class="legendLabel">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20">
+          <g>
+            <rect width="20" height="20" fill="#ffffff" stroke="#fff" stroke-width="3" fill-opacity="0.5"/>
+          </g>
+        </svg>
+      </td>
+      <td>
+        Unclear affiliation to al-Jazīra
+      </td>
+    </tr>
+    <tr>
+      <td class="legendLabel">
+        <img src="img/e_bish.svg" width="24">
+      </td>
+      <td>
+        Eastern Syrian Diocese
+      </td>
+    </tr>
+    <tr>
+      <td class="legendLabel">
+        <img src="img/e_metBish.svg" width="24">
+      </td>
+      <td>
+        Eastern Syrian Archdiocese
+      </td>
+    </tr>
+    <tr>
+      <td class="legendLabel">
+        <img src="img/w_bish.svg" width="24">
+      </td>
+      <td>
+        Western Syrian Diocese
+      </td>
+    </tr>
+    <tr>
+      <td class="legendLabel">
+        <img src="img/w_metBish.svg" width="24">
+      </td>
+      <td>
+        Western Syrian Archdiocese
+      </td>
+    </tr>
+    <tr>
+      <td class="legendLabel">
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+          <g>
+             <circle cx="16" cy="16" r="8" fill="#666" stroke="#000" stroke-width="4" fill-opacity="0"/>
+          </g>
+        </svg>
+      </td>
+      <td>
+       Precious metal mint
+     </td>
+   </tr>
+   <tr>
+     <td class="legendLabel">
+       <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+         <g>
+            <circle cx="16" cy="16" r="5" fill="#000" stroke="#000" stroke-width="4" fill-opacity="1" stroke-opacity="0"/>
+         </g>
+       </svg>
+     </td>
+     <td>
+      Copper mint
+    </td>
+  </tr>
+  <tr>
+    <td class="legendLabel">
+      <img src="img/qadi.png" width="24">
+    </td>
+    <td>
+     Qadiship
+   </td>
+ </tr>
+ <tr>
+   <td class="legendLabel">
+     <img src="img/sword.svg" width="24">
+   </td>
+   <td>
+    Garrison
+  </td>
+</tr>
+  </table>
+  </div>
+  <div id="legendClosed" class="legend">
+    <a href="javascript:void(0)" class="closebtn" onclick="toggleLegend()">Legend</a>
+  </div>
+
+  <script src="data/cornuRoutes.geojson"></script>
+  <script src="data/backgroundSites.geojson"></script>
+  <script src="data/marwanid.geojson"></script>
+  <script src="data/marwanII.geojson"></script>
+  <script src="data/mansurHarun.geojson"></script>
+  <script src="data/harunII.geojson"></script>
+  <script src="data/alMutadid.geojson"></script>
+  <script src="data/alMamun.geojson"></script>
+  <script src="data/samarra.geojson"></script>
+  <script src="js/L.Control.Layers.Tree.js"></script>
+  <script src="js/leaflet-svg-shape-markers.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="js/leaflet-timeline-slider.js"></script>
+  <script src="js/main.js"></script>
+
+</body>
+</html>
