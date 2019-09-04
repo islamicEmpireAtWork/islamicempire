@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Early Islamic Empire Mints</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="scripts/leaflet.timeline.js"></script>
+    <script src="scripts/leaflet.ajax.js"></script>
+    <script src="scripts/moment.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css"/>
+
+    <!––import the data: ––>
+    <script src="data/import_AU_mints_geojson.js"></script>
+    <script src="data/import_AR_mints_geojson.js"></script>
+    <script src="data/import_AE_mints_geojson.js"></script>
+    <script src="data/import_AU_mints_year_geojson.js"></script>
+    <script src="data/import_AR_mints_year_geojson.js"></script>
+    <script src="data/import_AE_mints_year_geojson.js"></script>
+
+    <meta charset="utf-8"></meta>
+    <meta name="viewport" content="width=device-width"></meta>
+  </head>
+  <body>
+
+    <div id="myNav" class="overlay">
+     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+
+     <div class="overlay-content">
+       <a href="../" id="home-title" onmouseover="closeMenuDivs()">Home</a>
+       <a id="mental-maps-div-button" onmouseover="openMMDiv()">Authors' conceptions</a>
+       <a id="admin-maps-div-button" onmouseover="openAMDiv()">Administration</a>
+       <a href="../mintsOfEmpire/" onmouseover="closeMenuDivs()">Mints</a>
+       <a href="../about.html" onmouseover="closeMenuDivs()">About</a>
+     </div>
+
+    </div>
+
+    <div class="mental-maps-menu submenu-content">
+      <a href="../fars_index.html">Fars</a>
+      <a href="../sham_index.html">Sham</a>
+      <a href="../jazira_index.html">Jazira & Mosul</a>
+      <a href="../ifriqiya_index.html">Ifriqiya</a>
+      <a href="../alyaman_index.html">Yemen</a>
+    </div>
+
+    <div class="admin-maps-menu submenu-content">
+      <a href="../PowerLines/">Empire (beta)</a>
+      <a href="../fars_networks/">Fars</a>
+      <a href="../jazira_networks/">Jazira</a>
+    </div>
+
+   <div id="infosidepanel" class="sidepanel">
+    <a href="javascript:void(0)" class="closebtn" onclick="togglePanel()">&times;</a>
+    <div id="active-mints" class="sidepanelDiv">
+      <div id="mintInfo" class="sidepanelDiv">
+        <h3>Active mints: </h3>
+      </div>
+      <div id="mintInfo1" class="sidepanelDiv">
+              <input type="checkbox" name="metal" id="AU_checkbox" value="AU" onclick="displayAU()" checked />
+              <label for="AU_checkbox">
+              <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36">
+                <g>
+                  <circle cx="18" cy="18" r="18" fill="#FFD700" stroke="#FFD700" stroke-width="0"/>
+                </g>
+              </svg>
+              AU (<a id="AU-mint-count"></a>)
+              </label>
+              <ul id="auMintInfo"></ul>
+      </div>
+      <div id="mintInfo2" class="sidepanelDiv">
+        <input type="checkbox" name="metal" id="AR_checkbox" value="AR" onclick="displayAR()" checked />
+        <label for="AR_checkbox">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+            <g>
+              <circle cx="12" cy="12" r="12" fill="#C0C0C0" stroke="#C0C0C0" stroke-width="0"/>
+            </g>
+          </svg>
+          AR (<a id="AR-mint-count"></a>)
+        </label>
+        <ul id="arMintInfo"></ul>
+      </div>
+      <div id="mintInfo3" class="sidepanelDiv">
+        <input type="checkbox" name="metal" id="AE_checkbox" value="AE" onclick="displayAE()" checked />
+        <label for="AE_checkbox">
+          <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12">
+            <g>
+              <circle cx="6" cy="6" r="6" fill="#b87333" stroke="#b87333" stroke-width="0"/>
+            </g>
+          </svg>
+          AE (<a id="AE-mint-count"></a>)
+        </label>
+        <ul id="aeMintInfo"></ul>
+      </div>
+    </div>
+     <div id="authorityInfo" class="sidepanelDiv">
+      <h3>Active minting authorities: </h3>
+      <ul id="authoritiesList"></ul>
+    </div>
+     <div id="authorityInfo1" class="sidepanelDiv">
+      <p>AU (<a id="auAuthoritiesCount"></a>)</p>
+      <ul id="auAuthorityInfo"></ul>
+    </div>
+     <div id="authorityInfo2" class="sidepanelDiv">
+      <p>AR (<a id="arAuthoritiesCount"></a>)</p>
+      <ul id="arAuthorityInfo"></ul>
+    </div>
+     <div id="authorityInfo3" class="sidepanelDiv">
+      <p>AE (<a id="aeAuthoritiesCount"></a>)</p>
+      <ul id="aeAuthorityInfo"></ul>
+    </div>
+   </div>
+
+   <div id="main">
+     <div id="map"></div>
+     <ul id="menu-list">
+       <li>
+         <span id="menu" onclick="openNav()">&#9776;</span>
+       </li>
+       <li>
+         <div class="modal-trigger">
+           About
+         </div>
+       </li>
+        <li>
+         <div id="sidepanelButton" onclick="togglePanel()">
+           Mint info
+         </div>
+       </li>
+         <li>
+           <div id="legendOpened"  class=" legend">
+             <a href="javascript:void(0)" class="closebtn" onclick="toggleLegend()">Legend</a>
+             <table id="legendTable">
+               <tr>
+                 <td id="gold">
+                   <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36">
+                     <g>
+                       <circle cx="18" cy="18" r="18" fill="#FFD700" stroke="#FFD700" stroke-width="0"/>
+                     </g>
+                   </svg>
+                 </td>
+                 <td>
+                   AU (gold, dīnār) mints
+                 </td>
+               </tr>
+               <tr>
+                 <td id="silver">
+                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                     <g>
+                       <circle cx="12" cy="12" r="12" fill="#C0C0C0" stroke="#C0C0C0" stroke-width="0"/>
+                     </g>
+                   </svg>
+                 </td>
+                 <td>
+                   AR (silver, dirham) mints
+                 </td>
+               </tr>
+               <tr>
+                 <td id="copper">
+                   <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12">
+                     <g>
+                       <circle cx="6" cy="6" r="6" fill="#b87333" stroke="#b87333" stroke-width="0"/>
+                     </g>
+                   </svg>
+                 </td>
+                 <td>
+                  AE (copper, fals) mints
+                </td>
+              </tr>
+              <tr>
+                <td>
+                </td>
+                <td>
+                 For colour, see <i>Mint info</i>
+               </td>
+             </tr>
+           </table>
+           </div>
+           <div id="legendClosed" class="legend">
+             <a href="javascript:void(0)" class="closebtn" onclick="toggleLegend()">Legend</a>
+           </div>
+         </li>
+          <li>
+           <div id="layerControlOpened" class="layer-control-dropdown">
+             <a href="javascript:void(0)" class="closebtn" onclick="toggleLayerControl()">Layers</a>
+             <form>
+             <table id="legendTable">
+               <tr>
+                 <td>
+                   <input type="radio" id="mintsRadio" name="mintsOrAuthorities" value="mints" checked>
+                   <label for="mints">Mints</label>
+                 </td>
+               </tr>
+               <tr>
+                 <td>
+                   <input type="radio" id="authoritiesRadio" name="mintsOrAuthorities" value="authorities">
+                   <label for="authorities">Authorities</label>
+                 </td>
+               </tr>
+           </table>
+         </form>
+           </div>
+           <div id="layerControlClosed" class="layer-control-dropdown">
+             <a href="javascript:void(0)" class="closebtn" onclick="toggleLayerControl()">Layers</a>
+           </div>
+         </li>
+         </ul>
+     <div class="modal">
+       <div class="modal-content">
+         <span class="close-button">&times;</span>
+         <h1>About</h1>
+         <p>This is a timeline of Islamic mints until the year 399AH / 1009 CE, produced in the framework of the ERC project <a href="https://www.islamic-empire.uni-hamburg.de" target="_blank">The Early Islamic Empire at Work</a> at Hamburg University.</p>
+         <p>
+           Each of the metal types are represented by a different coins: mints producing gold dīnārs by
+             <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36">
+               <g>
+                 <circle cx="18" cy="18" r="18" fill="#FFD700" stroke="#FFD700" stroke-width="0"/>
+               </g>
+             </svg>
+           , silver dirhams by
+             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+               <g>
+                 <circle cx="12" cy="12" r="12" fill="#C0C0C0" stroke="#C0C0C0" stroke-width="0"/>
+               </g>
+             </svg>
+           , and copper fulūs by
+             <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12">
+               <g>
+                 <circle cx="6" cy="6" r="6" fill="#b87333" stroke="#b87333" stroke-width="0"/>
+               </g>
+             </svg>
+           .
+         </p>
+         <p>The authorities that operated these mints are indicated with colors. Toggle the mint info pane on the left for an overview of the active mints and minting authorities, and to display or hide specific metals.</p>
+         <p>The data is derived from <a href="https://spinkbooks.com/index.php?route=product/product&product_id=149" target="_blank">Ömer Diler’s overview of Islamic mints</a>. Additions and corrections are projected for future versions of this timeline.</p>
+         <p>For suggestions, comments and corrections, please contact <a href="https://www.islamic-empire.uni-hamburg.de/team/dr-peter-verkinderen.html" target="_blank">Peter Verkinderen</a>.</p>
+         <p>NB: currently, Arab-Sasanian, Arab-Byzantine and Arab-Latin coins are excluded from the timeline.</p>
+       </div>
+     </div>
+
+   </div>
+
+   <script src="scripts/main.js"></script>
+  </body>
+</html>
