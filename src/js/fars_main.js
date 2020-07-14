@@ -7,8 +7,8 @@ id: 'isawnyu.map-knmctlkh',
 accessToken: 'pk.eyJ1Ijoic2hlaWRlbWFubiIsImEiOiJja2F2ZDZnZzEwb3R5MnhwZ3B6ZWl0bDB2In0.tbCib63m2Q87ieIg0ABS0g'
 });*/
 
-var mapboxTiles = L.tileLayer('http://tiles.wmflabs.org/hillshading/${z}/${x}/${y}.png', {
-attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+var mapboxTiles = L.tileLayer('https://server.arcgisonline.com/arcgis/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
+attribution: 'Map data &copy; 2014 Esri',
 maxZoom: 10,
 });
 
