@@ -16,7 +16,7 @@ var usgsTiles = L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/service
 var esriTiles = L.tileLayer('https://server.arcgisonline.com/arcgis/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}', {
 attribution: 'Map data &copy; 2014 Esri',
 maxZoom: 40,
-maxNativeZoom: 10,
+maxNativeZoom: 8,
 });
 
 var nyuTiles = L.tileLayer('https://api.tiles.mapbox.com/v4/isawnyu.map-knmctlkh/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoib3NtYWtvdiIsImEiOiJjanV2MWI0Y3Awb3NmM3lxaHI2NWNyYjM0In0.st2ucaGF132oehhrpHfYOw', {
