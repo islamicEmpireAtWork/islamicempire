@@ -30,6 +30,10 @@ var map = L.map('map', {
 	layers: [usgsTiles, esriTiles, nyuTiles],
 });
 
+var baseMaps = {"USGS World Imagery": usgsTiles, "Esri World Physical Map": esriTiles, "Ancient World Mapping Center": nyuTiles};
+
+L.control.layers(baseMaps).addTo(map);
+
 // Animation on click
 
 function zoomToFeature(e) {
