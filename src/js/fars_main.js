@@ -19,10 +19,15 @@ maxZoom: 10,
 //accessToken: 'pk.eyJ1IjoiaXNhd255dSIsImEiOiJBWEh1dUZZIn0.SiiexWxHHESIegSmW8wedQ'
 });
 
+var usgsTiles = L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}', {
+	maxZoom: 20,
+	attribution: 'Tiles courtesy of the <a href="https://usgs.gov/">U.S. Geological Survey</a>'
+});
+
 var map = L.map('map', {
 	center: [30, 52],
 	zoom: 7,
-	layers: [esriTiles, nyuTiles],
+	layers: [usgsTiles, esriTiles, nyuTiles],
 });
 
 // Animation on click
