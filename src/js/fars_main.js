@@ -7,22 +7,20 @@ id: 'isawnyu.map-knmctlkh',
 accessToken: 'pk.eyJ1Ijoic2hlaWRlbWFubiIsImEiOiJja2F2ZDZnZzEwb3R5MnhwZ3B6ZWl0bDB2In0.tbCib63m2Q87ieIg0ABS0g'
 });*/
 
-var usgsTiles = L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}', {
-	maxZoom: 40,
-	maxNativeZoom: 10,
-	attribution: 'Tiles courtesy of the <a href="https://usgs.gov/">U.S. Geological Survey</a>'
+var esriImageryTiles = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+	attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
 });
 
-var esriTiles = L.tileLayer('https://server.arcgisonline.com/arcgis/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}', {
+var esriPhysicalTiles = L.tileLayer('https://server.arcgisonline.com/arcgis/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}', {
 attribution: 'Map data &copy; 2014 Esri',
-maxZoom: 40,
+maxZoom: 20,
 maxNativeZoom: 8,
 });
 
 var nyuTiles = L.tileLayer('https://api.tiles.mapbox.com/v4/isawnyu.map-knmctlkh/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoib3NtYWtvdiIsImEiOiJjanV2MWI0Y3Awb3NmM3lxaHI2NWNyYjM0In0.st2ucaGF132oehhrpHfYOw', {
 attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-maxZoom: 40,
-maxNativeZoom: 10,
+maxZoom: 20,
+maxNativeZoom: 7,
 //id: 'isawnyu.map-knmctlkh',
 //accessToken: 'pk.eyJ1IjoiaXNhd255dSIsImEiOiJBWEh1dUZZIn0.SiiexWxHHESIegSmW8wedQ'
 });
@@ -30,11 +28,11 @@ maxNativeZoom: 10,
 var map = L.map('map', {
 	center: [30, 52],
 	zoom: 7,
-	maxZoom: 40,
+	maxZoom: 20,
 	layers: [usgsTiles, esriTiles, nyuTiles],
 });
 
-var baseMaps = {"USGS World Imagery": usgsTiles, "Esri World Physical Map": esriTiles, "Ancient World Mapping Center": nyuTiles};
+var baseMaps = {"Esri World Imagery": esriImageryTiles, "Esri World Physical Map": esriPhysicalTiles, "Ancient World Mapping Center": nyuTiles};
 
 // Animation on click
 
@@ -423,8 +421,8 @@ map.on("overlayadd", function (event) {
 				" Routes": cornuRoutesLayer,
 		  },
 			"<span class='controlHeadingTiles'> Background map </span>": {
-				"USGS World Imagery": usgsTiles, 
-				"Esri World Physical Map": esriTiles, 
+				"Esri World Imagery": esriImageryTiles, 
+				"Esri World Physical Map": esriPhysicalTiles, 
 				"Ancient World Mapping Center": nyuTiles
 		  },
 			
