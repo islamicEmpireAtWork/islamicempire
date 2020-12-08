@@ -32,8 +32,6 @@ var map = L.map('map', {
 
 var baseMaps = {"USGS World Imagery": usgsTiles, "Esri World Physical Map": esriTiles, "Ancient World Mapping Center": nyuTiles};
 
-L.control.layers(baseMaps).addTo(map);
-
 // Animation on click
 
 function zoomToFeature(e) {
@@ -420,6 +418,12 @@ map.on("overlayadd", function (event) {
 			"<span class='controlHeadingRoutes'> Routes</span>": {
 				" Routes": cornuRoutesLayer,
 		  },
+			"<span class='controlHeadingTiles'> Background map </span>": {
+				"USGS World Imagery": usgsTiles, 
+				"Esri World Physical Map": esriTiles, 
+				"Ancient World Mapping Center": nyuTiles
+		  },
+			
 		};
 
 		window.addEventListener('load', function () {
