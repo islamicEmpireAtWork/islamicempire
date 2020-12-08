@@ -7,6 +7,11 @@ id: 'isawnyu.map-knmctlkh',
 accessToken: 'pk.eyJ1Ijoic2hlaWRlbWFubiIsImEiOiJja2F2ZDZnZzEwb3R5MnhwZ3B6ZWl0bDB2In0.tbCib63m2Q87ieIg0ABS0g'
 });*/
 
+var usgsTiles = L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}', {
+	maxZoom: 20,
+	attribution: 'Tiles courtesy of the <a href="https://usgs.gov/">U.S. Geological Survey</a>'
+});
+
 var esriTiles = L.tileLayer('https://server.arcgisonline.com/arcgis/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}', {
 attribution: 'Map data &copy; 2014 Esri',
 maxZoom: 10,
@@ -17,11 +22,6 @@ attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</
 maxZoom: 10,
 //id: 'isawnyu.map-knmctlkh',
 //accessToken: 'pk.eyJ1IjoiaXNhd255dSIsImEiOiJBWEh1dUZZIn0.SiiexWxHHESIegSmW8wedQ'
-});
-
-var usgsTiles = L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}', {
-	maxZoom: 20,
-	attribution: 'Tiles courtesy of the <a href="https://usgs.gov/">U.S. Geological Survey</a>'
 });
 
 var map = L.map('map', {
