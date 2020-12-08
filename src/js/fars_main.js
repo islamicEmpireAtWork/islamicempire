@@ -29,10 +29,11 @@ var map = L.map('map', {
 	center: [30, 52],
 	zoom: 7,
 	maxZoom: 20,
-	layers: [esriImageryTiles, esriPhysicalTiles, nyuTiles],
+	layers: [esriImageryTiles, 
+		 //esriPhysicalTiles, nyuTiles
+		],
 });
 
-var baseMaps = {"Esri World Imagery": esriImageryTiles, "Esri World Physical Map": esriPhysicalTiles, "Ancient World Mapping Center": nyuTiles};
 
 // Animation on click
 
@@ -420,11 +421,11 @@ map.on("overlayadd", function (event) {
 			"<span class='controlHeadingRoutes'> Routes</span>": {
 				" Routes": cornuRoutesLayer,
 		  },
-			"<span class='controlHeadingTiles'> Background map </span>": {
-				"Esri World Imagery": esriImageryTiles, 
-				"Esri World Physical Map": esriPhysicalTiles, 
-				"Ancient World Mapping Center": nyuTiles
-		  },
+//			"<span class='controlHeadingTiles'> Background map </span>": {
+//				"Esri World Imagery": esriImageryTiles, 
+//				"Esri World Physical Map": esriPhysicalTiles, 
+//				"Ancient World Mapping Center": nyuTiles
+//		  },
 			
 		};
 
