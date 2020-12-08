@@ -30,6 +30,7 @@ maxNativeZoom: 10,
 var map = L.map('map', {
 	center: [30, 52],
 	zoom: 7,
+	maxZoom: 40,
 	layers: [usgsTiles, esriTiles, nyuTiles],
 });
 
