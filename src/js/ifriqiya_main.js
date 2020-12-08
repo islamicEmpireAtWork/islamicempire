@@ -26,8 +26,8 @@ maxNativeZoom: 7,
 });
 
 var map = L.map('map', {
-	center: [30, 52],
-	zoom: 7,
+	center: [33, 8],
+	zoom: 6,
 	maxZoom: 20,
 	layers: [esriImageryTiles, 
 		 //esriPhysicalTiles, nyuTiles
