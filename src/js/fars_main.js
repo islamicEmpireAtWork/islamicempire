@@ -29,7 +29,7 @@ var map = L.map('map', {
 	center: [30, 52],
 	zoom: 7,
 	maxZoom: 20,
-	layers: [usgsTiles, esriTiles, nyuTiles],
+	layers: [esriImageryTiles, esriPhysicalTiles, nyuTiles],
 });
 
 var baseMaps = {"Esri World Imagery": esriImageryTiles, "Esri World Physical Map": esriPhysicalTiles, "Ancient World Mapping Center": nyuTiles};
