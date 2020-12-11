@@ -29,7 +29,7 @@ var map = L.map('map', {
 	center: [34, 52],
 	zoom: 4,
 	maxZoom: 20,
-	maxBounds: [[90, -180], [-90, 180]]
+	maxBounds: [[90, -180], [-90, 180]],
 	layers: [esriImageryTiles, 
 		 //esriPhysicalTiles, nyuTiles
 		],
